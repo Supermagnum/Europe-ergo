@@ -12,6 +12,8 @@ Keycaps:
 https://github.com/Supermagnum/Europe-ergo/blob/main/keycaps.jpg
 
 
+It compiles with QMK.
+
 
 Json file for VIAL is in the firmware folder.
 
