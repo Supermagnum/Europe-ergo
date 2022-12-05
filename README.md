@@ -2,7 +2,6 @@
 A 94 key ergonomic,split keyboard.
 Its powered by 2X Raspberry pico and linked with two TRRS jacks.
 
-Firmware compiles without any errors.
 
 Layout:
 https://github.com/Supermagnum/Europe-ergo/blob/main/layout.png
