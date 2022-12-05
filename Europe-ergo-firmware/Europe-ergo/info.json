@@ -17,7 +17,7 @@
         "rows": ["GP4", "GP5", "GP6", "GP7" , "GP8" , "GP9"]
     },
     "processor": "RP2040",
-    "url": "https://github.com/Supermagnum/98keys-ergo",
+    "url": "https://github.com/Supermagnum/Europe-ergo/",
     "usb": {
         "device_version": "1.0.0",
         "pid": "0x0000",
