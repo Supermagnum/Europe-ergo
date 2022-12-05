@@ -1,9 +1,0 @@
-# MCU name
-BOARD = GENERIC_RP_RP2040
-
-SPLIT_KEYBOARD = yes
-
-SERIAL_DRIVER=vendor
-
-
-
