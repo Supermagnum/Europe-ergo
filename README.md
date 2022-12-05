@@ -5,7 +5,7 @@ Its powered by 2X Raspberry pico and linked with two TRRS jacks.
 Firmware compiles without any errors.
 
 Layout:
-https://github.com/Supermagnum/98keys-ergo/blob/master/layout.png
+https://github.com/Supermagnum/Europe-ergo/blob/main/layout.png
 The L1/L2 button is to change from  Norwegian QWERTY to Norwegian Dvorak.
 
 Json file for VIAL is in the firmware folder.
@@ -24,7 +24,7 @@ https://get.vial.today/
 PWM1 to PWM 4 controls LED's based by the active layer, and also caps lock and scroll lock active.
 
 Those and the electrical diagram can be found here:
-https://github.com/Supermagnum/98keys-ergo/blob/master/98keys-split-pcb/schema/98keys-split-pcb.pdf
+https://github.com/Supermagnum/Europe-ergo/blob/main/Europe-ergo-PCB/schema/Europe-ergo.pdf
 The right side has identical outputs for PWM.
 
 Cherry MX switches should fit the PCB'S.
