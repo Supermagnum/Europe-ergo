@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name "pcb-flat-right-rescue")(type "Legacy")(uri "/mnt/b955457f-512b-4f44-a0f7-8e5f2b78aba2/kicad/98keys/98keys-right/98keys-right/98keys-right-rescue.lib")(options "")(descr ""))
+  (lib (name "pcb-flat-left-rescue")(type "Legacy")(uri "/mnt/b955457f-512b-4f44-a0f7-8e5f2b78aba2/kicad/98keys/98keys-left/98keys-left-rescue.lib")(options "")(descr ""))
+)

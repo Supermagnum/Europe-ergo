@@ -1,0 +1,60 @@
+
+quantity: 2
+2648-SC0915CT-ND
+SC0915
+Raspberry Pi
+RASPBERRY PI PICO RP2040 BOARD
+
+quantity:2
+Switch , SPST-NO 	
+EG2614-ND
+
+quantity:2
+SJ1-42514, CONN JACK 4COND 2.5MM R/A
+	
+	
+quantity:8	
+56-SFR25H0003300FR500CT-ND
+SFR25H0003300FR500
+Vishay Beyschlag/Draloric/BC Components
+RES 330 OHM 1/2W 1% AXIAL
+	
+	
+quantity: 4
+		
+PPC4.7KW-2CT-ND
+PR02000204701JR500
+Vishay Beyschlag/Draloric/BC Components
+RES 4.7K OHM 2W 5% AXIAL
+	
+	
+quantity:98
+		
+1N4148FS-ND
+1N4148
+onsemi
+DIODE GEN PURP 100V 200MA DO35
+
+
+quantity:98
+CHERRY MX RGB Keyswitch MX1A-G1NB 
+
+quantity: 2
+Headers, 68001-420HLF
+
+quantity: 2
+Headers, female
+315-87-120-41-003101
+	
+	
+quantity:8
+		
+160-1130-ND
+LTL-4233
+LITEON
+LED GREEN DIFFUSED T-1 3/4 T/H 
+
+Option: 
+quantity: 196
+Keyswitch Hotswap sockets: 0305-2-15-80-47-80-10-0
+or Digikey: ED90584-ND
