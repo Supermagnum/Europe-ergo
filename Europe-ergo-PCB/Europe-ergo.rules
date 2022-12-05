@@ -1,5 +1,5 @@
 
-(rules PCB 98keys-split-pcb
+(rules PCB Europe-ergo
   (snap_angle 
     fortyfive_degree
   )
@@ -11,7 +11,7 @@
     (via_costs 50)
     (plane_via_costs 5)
     (start_ripup_costs 100)
-    (start_pass_no 7)
+    (start_pass_no 10)
     (layer_rule F.Cu
       (active on)
       (preferred_direction horizontal)

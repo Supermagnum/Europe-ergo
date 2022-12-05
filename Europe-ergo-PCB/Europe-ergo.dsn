@@ -1,4 +1,4 @@
-(pcb "/home/haaken/98keys-ergo.git/trunk/98keys-split-pcb/98keys-split-pcb.dsn"
+(pcb "/mnt/b955457f-512b-4f44-a0f7-8e5f2b78aba2/Europe-ergo/Europe-ergo-PCB/Europe-ergo.dsn"
   (parser
     (string_quote ")
     (space_in_quoted_tokens on)
@@ -233,8 +233,8 @@
       (place SW87 142540.000000 -101720.000000 front 0.000000 (PN "MX-NO-LED"))
     )
     (component switch:switch_P5.08mm
-      (place SW48 393460.000000 -53000.000000 front 0.000000 (PN SW_Push))
-      (place SW49 229000.000000 -53000.000000 front 180.000000 (PN SW_Push))
+      (place SW48 393460.000000 -53000.000000 back 180.000000 (PN SW_Push))
+      (place SW49 229000.000000 -53000.000000 back 0.000000 (PN SW_Push))
     )
     (component "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal::24"
       (place D98 108000.000000 -165000.000000 front 0.000000 (PN 1N4148))
@@ -498,7 +498,7 @@
       (place SW30 412920.000000 -192160.000000 front 0.000000 (PN "MX-NO-LED"))
     )
     (component MCU_RaspberryPi_and_Boards:RPi_Pico_SMD_TH
-      (place U2 280000.000000 -52725.000000 front -90.000000 (PN Pico))
+      (place U2 280000.000000 -52725.000000 back 270.000000 (PN Pico))
     )
     (component Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB::53
       (place SW55 270279.700000 -222590.600000 front -30.000000 (PN "MX-NO-LED"))
@@ -513,7 +513,7 @@
       (place SW70 213940.000000 -120620.000000 front 0.000000 (PN "MX-NO-LED"))
     )
     (component MCU_RaspberryPi_and_Boards:RPi_Pico_SMD_TH::1
-      (place U1 341000.000000 -52725.000000 front 90.000000 (PN Pico))
+      (place U1 341000.000000 -52725.000000 back 90.000000 (PN Pico))
     )
     (component Button_Switch_Keyboard:SW_Cherry_MX_1.50u_PCB::10
       (place SW94 114140.000000 -125420.000000 front 0.000000 (PN "MX-NO-LED"))
