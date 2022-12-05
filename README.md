@@ -6,7 +6,13 @@ Firmware compiles without any errors.
 
 Layout:
 https://github.com/Supermagnum/Europe-ergo/blob/main/layout.png
+
 The L1/L2 button is to change from  Norwegian QWERTY to Norwegian Dvorak.
+
+Keycaps:
+https://github.com/Supermagnum/Europe-ergo/blob/main/keycaps.jpg
+
+
 
 Json file for VIAL is in the firmware folder.
 
@@ -21,7 +27,7 @@ Vial:
 https://get.vial.today/
 
 
-PWM1 to PWM 4 controls LED's based by the active layer, and also caps lock and scroll lock active.
+PWM1 to PWM 4 controls LED's ( ON/OFF) based by the active layer, and also caps lock and scroll lock active.
 
 Those and the electrical diagram can be found here:
 https://github.com/Supermagnum/Europe-ergo/blob/main/Europe-ergo-PCB/schema/Europe-ergo.pdf
