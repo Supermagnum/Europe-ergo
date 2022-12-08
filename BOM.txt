@@ -28,7 +28,7 @@ Vishay Beyschlag/Draloric/BC Components
 RES 4.7K OHM 2W 5% AXIAL
 	
 	
-quantity:98
+quantity:94
 		
 1N4148FS-ND
 1N4148
@@ -36,7 +36,7 @@ onsemi
 DIODE GEN PURP 100V 200MA DO35
 
 
-quantity:98
+quantity:94
 CHERRY MX RGB Keyswitch MX1A-G1NB 
 
 quantity: 2
