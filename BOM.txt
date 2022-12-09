@@ -49,10 +49,10 @@ DIODE GEN PURP 100V 200MA DO35
 quantity:94
 CHERRY MX RGB Keyswitch MX1A-G1NB 
 
-quantity: 2
+quantity: 4
 Headers, 68001-420HLF
 
-quantity: 2
+quantity: 4
 Headers, female
 315-87-120-41-003101
 	
