@@ -8,6 +8,8 @@ The reset switches, TRRS jacks and raspberry pico's  goes on the reverse side of
 
 Layout:
 https://github.com/Supermagnum/Europe-ergo/blob/main/layout.png
+or:
+http://www.keyboard-layout-editor.com/#/gists/50db7ea7b0832342d4c734eb985ec16b
 
 The L1/L2 button is to change from  Norwegian QWERTY to Norwegian Dvorak.
 
