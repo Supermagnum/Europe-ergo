@@ -10,7 +10,11 @@ Switch , SPST-NO
 EG2614-ND
 
 quantity:2
-SJ1-42514, CONN JACK 4COND 2.5MM R/A
+SJ-43514
+	
+Description
+	
+CONN JACK 4COND 3.5MM R/A
 	
 	
 quantity:8	
