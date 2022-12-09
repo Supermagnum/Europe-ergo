@@ -22,7 +22,7 @@ It compiles with QMK.
 
 Json file for VIAL is in the firmware folder.
 
-All pdf files can be exported from the Freecad file.
+All mechanical blueprints as pdf files can be exported from the Freecad file.
 Freecad can be found for free here:
 https://www.freecadweb.org/
 
