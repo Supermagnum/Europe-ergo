@@ -44,7 +44,7 @@ Cherry MX switches should fit the PCB'S.
 
 STL files for 3D printing of the boxes:
 https://github.com/Supermagnum/Europe-ergo/tree/main/mechanical
-The boxes needs to have holes to access the reset switches drilled.
+
 
 Link to aisler:
 https://aisler.net/p/OPFSMZDA
