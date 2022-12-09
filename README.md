@@ -3,6 +3,8 @@ A 94 key ergonomic,split keyboard.
 Its powered by 2X Raspberry pico and linked with two TRRS jacks.
 It uses tht components.
 
+The reset switches, TRRS jacks and raspberry pico's  goes on the reverse side of the Pcb's. 
+
 
 Layout:
 https://github.com/Supermagnum/Europe-ergo/blob/main/layout.png
