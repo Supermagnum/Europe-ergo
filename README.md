@@ -5,6 +5,9 @@ It uses tht components.
 
 The reset switches, TRRS jacks and raspberry pico's  goes on the reverse side of the Pcb's. 
 
+Picture of Pcb's top side:
+https://github.com/Supermagnum/Europe-ergo/blob/main/Europe-ergo-PCB/Europe-ergo.jpg
+
 
 Layout:
 https://github.com/Supermagnum/Europe-ergo/blob/main/layout.png
