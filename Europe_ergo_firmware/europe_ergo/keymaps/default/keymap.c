@@ -1,3 +1,5 @@
+// Copyright 2022 Supermagnum (@Supermagnum)
+// SPDX-License-Identifier: GPL-2.0-or-later
 #include QMK_KEYBOARD_H
 
 #include "keymap_norwegian.h"
