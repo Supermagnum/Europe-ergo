@@ -11,10 +11,16 @@ EG2614-ND
 
 quantity:2
 SJ-43514
-	
-Description
-	
 CONN JACK 4COND 3.5MM R/A
+
+quantity:2
+SP-3540B
+AUDIO PLUG, 3.5 MM, STRAIGHT, 4
+	
+quantity:1
+30-00088
+4 (1 Pair Twisted) Conductor Multi-Conductor Cable Black 28 AWG Foil, Braid 3.28' (1.00m)
+A maximum Ø4mm outer diameter cable with 3 conductors + braided shield can also be used.
 	
 	
 quantity:8	
