@@ -14,11 +14,11 @@ PWM1 to PWM 4 controls LED's based by the active layer, and also caps lock and s
 
 Make example for this keyboard (after setting up your build environment):
 
-    make Europe-ergo:default
+    make europe_ergo:default
 
 Flashing example for this keyboard:
 
-    make Europe-ergo:default:flash
+    make europe_ergo:default:flash
 
 See the [build environment setup](https://docs.qmk.fm/#/getting_started_build_tools) and the [make instructions](https://docs.qmk.fm/#/getting_started_make_guide) for more information. Brand new to QMK? Start with our [Complete Newbs Guide](https://docs.qmk.fm/#/newbs).
 
