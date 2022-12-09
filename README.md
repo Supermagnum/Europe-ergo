@@ -49,7 +49,7 @@ https://github.com/Supermagnum/Europe-ergo/tree/main/mechanical
 Link to aisler:
 https://aisler.net/p/OPFSMZDA
 
-PCB way:
+PCB way ( use with caution,the pictures doesn't match the gerber files):
 https://www.pcbway.com/project/shareproject/98keys_ergo_733ee9b8.html
 
 
