@@ -1,6 +1,7 @@
 # Europe-ergo
 A 94 key ergonomic,split keyboard.
 Its powered by 2X Raspberry pico and linked with two TRRS jacks.
+It uses tht components.
 
 
 Layout:
@@ -56,6 +57,6 @@ Todo:
 
 Maybe add a supporting point in the middle of the Pcb's. 
 
-Add a usb device id so the PCB will be recognised by Linux and others.
+Add a usb device id so the PCB will be recognised by Linux and others, if necessary. 
 
 
