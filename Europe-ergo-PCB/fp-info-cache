@@ -1,4 +1,4 @@
-20610514466594915
+20612185076265284
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -86526,6 +86526,13 @@ varistor
 0
 2
 2
+switch
+CUI_SJ-43514
+
+
+0
+4
+4
 switch
 switch_P5.08mm
 
