@@ -67,3 +67,9 @@ Maybe add a supporting point in the middle of the Pcb's.
 Add a usb device id so the PCB will be recognised by Linux and others, if necessary. 
 
 
+Thanks to :
+https://github.com/hakbraley
+for helping with the firmware,- I cant program at all and Ihave issues getting my head around programming.
+
+
+
