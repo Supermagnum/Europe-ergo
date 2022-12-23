@@ -55,6 +55,9 @@ https://aisler.net/p/OPFSMZDA
 PCB way ( use with caution,the pictures doesn't match the gerber files):
 https://www.pcbway.com/project/shareproject/98keys_ergo_733ee9b8.html
 
+Panelized version:
+https://github.com/Supermagnum/erope-ergo-ex/blob/main/Europe-flex.jpg
+
 
 License:
 https://github.com/Supermagnum/Europe-ergo/blob/main/LICENSE
