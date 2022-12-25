@@ -20,6 +20,7 @@ Keycaps:
 https://github.com/Supermagnum/Europe-ergo/blob/main/keycaps.jpg
 
 
+
 It compiles with QMK.
 
 
@@ -52,8 +53,11 @@ https://github.com/Supermagnum/Europe-ergo/tree/main/mechanical
 Link to aisler:
 https://aisler.net/p/OPFSMZDA
 
+
+
+
 PCB way ( use with caution,the pictures doesn't match the gerber files):
-https://www.pcbway.com/project/shareproject/98keys_ergo_733ee9b8.html
+<a href="https://www.pcbway.com/project/shareproject/98keys_ergo_733ee9b8.html"><img src="https://www.pcbway.com/project/img/images/frompcbway-1220.png" alt="PCB from PCBWay" /></a>
 
 Panelized version:
 https://github.com/Supermagnum/erope-ergo-ex
