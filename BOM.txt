@@ -24,14 +24,11 @@ A maximum Ø4mm outer diameter cable with 3 conductors + braided shield can also
 	
 	
 quantity:8	
-56-SFR25H0003300FR500CT-ND
-SFR25H0003300FR500
-Vishay Beyschlag/Draloric/BC Components
-RES 330 OHM 1/2W 1% AXIAL
+CF14JT150R
+RES 150 OHM 5% 1/4W AXIAL
 	
 	
 quantity: 4
-		
 PPC4.7KW-2CT-ND
 PR02000204701JR500
 Vishay Beyschlag/Draloric/BC Components
@@ -39,7 +36,6 @@ RES 4.7K OHM 2W 5% AXIAL
 	
 	
 quantity:94
-		
 1N4148FS-ND
 1N4148
 onsemi
@@ -58,7 +54,6 @@ Headers, female
 	
 	
 quantity:8
-		
 160-1130-ND
 LTL-4233
 LITEON
