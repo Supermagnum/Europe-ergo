@@ -1,12 +1,12 @@
-### Module positions - created on to. 19. jan. 2023 kl. 13.59 +0100 ###
+### Module positions - created on fr. 27. jan. 2023 kl. 14.43 +0100 ###
 ### Printed by Pcbnew version 6.0.10-86aedd382b~118~ubuntu22.04.1
 ## Unit = mm, Angle = deg.
 ## Side : bottom
-# Ref     Val                  Package                PosX       PosY       Rot  Side
-J1        Conn_01x04_Male/I2C  CUI_SJ-43514      -321.5750   -92.2500    0.0000  bottom
-J2        Conn_01x04_Male      CUI_SJ-43514      -303.0800   -92.7400  180.0000  bottom
-SW48      SW_Push              switch_P5.08mm    -397.0100   -53.0000    0.0000  bottom
-SW49      SW_Push              switch_P5.08mm    -229.0000   -53.0000  180.0000  bottom
-U1        Pico                 RPi_Pico_SMD_TH   -344.5500   -52.7250  -90.0000  bottom
-U2        Pico                 RPi_Pico_SMD_TH   -280.0000   -52.7250   90.0000  bottom
+# Ref     Val           Package                PosX       PosY       Rot  Side
+J1        _SJ-43514     CUI_SJ-43514      -321.5750   -92.2500    0.0000  bottom
+J2        _SJ-43514     CUI_SJ-43514      -303.0700   -92.2300  180.0000  bottom
+SW48      800SP9B6M2RE  switch_P5.08mm    -397.0100   -53.0000    0.0000  bottom
+SW49      800SP9B6M2RE  switch_P5.08mm    -229.0000   -53.0000  180.0000  bottom
+U1        SC0915        RPi_Pico_SMD_TH   -344.5500   -52.7250  -90.0000  bottom
+U2        SC0915        RPi_Pico_SMD_TH   -280.0000   -52.7250   90.0000  bottom
 ## End
