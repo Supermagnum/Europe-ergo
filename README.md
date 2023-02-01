@@ -50,8 +50,9 @@ STL files for 3D printing of the boxes:
 https://github.com/Supermagnum/Europe-ergo/tree/main/mechanical
 
 
-Link to aisler:
-https://aisler.net/p/OPFSMZDA
+Link to aisler (SMD only ):
+https://aisler.net/p/ZMCOMUDQ
+
 
 
 
@@ -67,9 +68,7 @@ License:
 https://github.com/Supermagnum/Europe-ergo/blob/main/LICENSE
 
 
-Todo:
 
-Maybe add a supporting point in the middle of the Pcb's. 
 
 Add a usb device id so the PCB will be recognised by Linux and others, if necessary. 
 
