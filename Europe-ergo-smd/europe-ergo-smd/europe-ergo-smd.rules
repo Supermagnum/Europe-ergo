@@ -1,0 +1,96 @@
+
+(rules PCB europe-ergo-smd
+  (snap_angle 
+    fortyfive_degree
+  )
+  (autoroute_settings
+    (fanout off)
+    (autoroute on)
+    (postroute on)
+    (vias on)
+    (via_costs 50)
+    (plane_via_costs 5)
+    (start_ripup_costs 100)
+    (start_pass_no 13)
+    (layer_rule F.Cu
+      (active on)
+      (preferred_direction horizontal)
+      (preferred_direction_trace_costs 1.0)
+      (against_preferred_direction_trace_costs 2.9)
+    )
+    (layer_rule B.Cu
+      (active on)
+      (preferred_direction vertical)
+      (preferred_direction_trace_costs 1.0)
+      (against_preferred_direction_trace_costs 1.5)
+    )
+  )
+  (rule
+    (width 1240.0)
+    (clear 250.0)
+    (clear 625.0 (type smd_to_turn_gap))
+  )
+  (padstack "Via[0-1]_800:400_um"
+    (shape
+      (circle F.Cu 800.0 0.0 0.0)
+    )
+    (shape
+      (circle B.Cu 800.0 0.0 0.0)
+    )
+    (attach off)
+  )
+  (via 
+    "Via[0-1]_800:400_um" "Via[0-1]_800:400_um" default
+  )
+  (via 
+    "Via[0-1]_800:400_um-kicad_default" "Via[0-1]_800:400_um" "kicad_default"
+  )
+  (via_rule
+    default "Via[0-1]_800:400_um"
+  )
+  (via_rule
+    "kicad_default" "Via[0-1]_800:400_um-kicad_default"
+  )
+  (class default
+    GNDR GNDL COL1R "Net-(D1-Pad2)" "Net-(D2-Pad2)" "Net-(D3-Pad2)" "Net-(D4-Pad2)" "Net-(D5-Pad2)"
+    "Net-(D6-Pad2)" COL2R "Net-(D7-Pad2)" "Net-(D8-Pad2)" "Net-(D9-Pad2)" "Net-(D10-Pad2)" "Net-(D11-Pad2)" "Net-(D12-Pad2)"
+    COL3R "Net-(D13-Pad2)" "Net-(D14-Pad2)" "Net-(D15-Pad2)" "Net-(D16-Pad2)" "Net-(D17-Pad2)" "Net-(D18-Pad2)" COL4R
+    "Net-(D19-Pad2)" "Net-(D20-Pad2)" "Net-(D21-Pad2)" "Net-(D22-Pad2)" "Net-(D23-Pad2)" "Net-(D24-Pad2)" COL5R "Net-(D25-Pad2)"
+    "Net-(D26-Pad2)" "Net-(D27-Pad2)" "Net-(D28-Pad2)" "Net-(D29-Pad2)" "Net-(D30-Pad2)" COL6R "Net-(D31-Pad2)" "Net-(D32-Pad2)"
+    "Net-(D33-Pad2)" "Net-(D34-Pad2)" "Net-(D35-Pad2)" "Net-(D36-Pad2)" COL7R "Net-(D37-Pad2)" "Net-(D38-Pad2)" "Net-(D39-Pad2)"
+    "Net-(D40-Pad2)" "Net-(D41-Pad2)" COL8R "Net-(D42-Pad2)" "Net-(D43-Pad2)" "Net-(D44-Pad2)" "Net-(D45-Pad2)" "Arrow-Right"
+    "Net-(D46-Pad2)" "Net-(D47-Pad2)" "Net-(D48-Pad1)" PWM4R "Net-(D49-Pad1)" PWM3R "Net-(D50-Pad1)" PWM2R
+    "Net-(D51-Pad1)" PWM1R "Net-(D52-Pad1)" PWM4 "Net-(D53-Pad1)" PWM3 "Net-(D54-Pad1)" PWM2
+    "Net-(D55-Pad1)" PWM1 "Arrow-Left" "Net-(D56-Pad2)" "Net-(D57-Pad2)" COL8 "Net-(D58-Pad2)" "Net-(D59-Pad2)"
+    "Net-(D60-Pad2)" "Net-(D61-Pad2)" COL7 "Net-(D62-Pad2)" "Net-(D63-Pad2)" "Net-(D64-Pad2)" "Net-(D65-Pad2)" "Net-(D66-Pad2)"
+    COL6 "Net-(D67-Pad2)" "Net-(D68-Pad2)" "Net-(D69-Pad2)" "Net-(D70-Pad2)" "Net-(D71-Pad2)" "Net-(D72-Pad2)" COL5
+    "Net-(D73-Pad2)" "Net-(D74-Pad2)" "Net-(D75-Pad2)" "Net-(D76-Pad2)" "Net-(D77-Pad2)" "Net-(D78-Pad2)" COL4 "Net-(D79-Pad2)"
+    "Net-(D80-Pad2)" "Net-(D81-Pad2)" "Net-(D82-Pad2)" "Net-(D83-Pad2)" "Net-(D84-Pad2)" COL3 "Net-(D85-Pad2)" "Net-(D86-Pad2)"
+    "Net-(D87-Pad2)" "Net-(D88-Pad2)" "Net-(D89-Pad2)" "Net-(D90-Pad2)" COL2 "Net-(D91-Pad2)" "Net-(D92-Pad2)" "Net-(D93-Pad2)"
+    "Net-(D94-Pad2)" "Net-(D95-Pad2)" "Net-(D96-Pad2)" COL1 "Net-(D97-Pad2)" "Net-(D98-Pad2)" "Net-(D99-Pad2)" "Net-(D100-Pad2)"
+    "Net-(D101-Pad2)" "Net-(D102-Pad2)" sdaR sclR VCCR "SDA I2C0" "SCL I2C0" ROW1
+    ROW2 ROW3 ROW5 ROW4 ROW6 "Net-(SW49-Pad1)" "unconnected-(U1-Pad27)" "unconnected-(U1-Pad29)"
+    "unconnected-(U1-Pad31)" "unconnected-(U1-Pad32)" "unconnected-(U1-Pad34)" "unconnected-(U1-Pad35)" "unconnected-(U1-Pad36)" "unconnected-(U1-Pad37)" "unconnected-(U1-Pad39)" "unconnected-(U1-Pad41)"
+    "unconnected-(U1-Pad43)" "unconnected-(U2-Pad27)" "unconnected-(U2-Pad29)" "unconnected-(U2-Pad32)" "unconnected-(U2-Pad34)" "unconnected-(U2-Pad35)" "unconnected-(U2-Pad36)" "unconnected-(U2-Pad37)"
+    "unconnected-(U2-Pad39)" "unconnected-(U2-Pad41)" "unconnected-(U2-Pad43)" ROW1R ROW2R ROW3R ROW5R ROW4R
+    ROW6R VCCL /RUN
+    (clearance_class default)
+    (via_rule default)
+    (rule
+      (width 1240.0)
+    )
+    (circuit 
+      (use_layer F.Cu B.Cu)
+    )
+  )
+  (class "kicad_default"
+    (clearance_class "kicad_default")
+    (via_rule "kicad_default")
+    (rule
+      (width 1240.0)
+    )
+    (circuit 
+      (use_layer F.Cu B.Cu)
+    )
+  )
+)
