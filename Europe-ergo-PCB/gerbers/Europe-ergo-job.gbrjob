@@ -3,9 +3,9 @@
     "GenerationSoftware": {
       "Vendor": "KiCad",
       "Application": "Pcbnew",
-      "Version": "6.0.10-86aedd382b~118~ubuntu22.04.1"
+      "Version": "6.0.11-2627ca5db0~126~ubuntu22.04.1"
     },
-    "CreationDate": "2023-01-27T14:43:56+01:00"
+    "CreationDate": "2023-02-16T13:08:44+01:00"
   },
   "GeneralSpecs": {
     "ProjectId": {
@@ -27,7 +27,7 @@
       "PadToPad": 0.2,
       "PadToTrack": 0.2,
       "TrackToTrack": 0.2,
-      "MinLineWidth": 1.1,
+      "MinLineWidth": 1.24,
       "TrackToRegion": 0.508,
       "RegionToRegion": 0.508
     }
