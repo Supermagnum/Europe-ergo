@@ -3,9 +3,9 @@
     "GenerationSoftware": {
       "Vendor": "KiCad",
       "Application": "Pcbnew",
-      "Version": "6.0.11-2627ca5db0~126~ubuntu22.04.1"
+      "Version": "7.0.0-da2b9df05c~163~ubuntu22.04.1"
     },
-    "CreationDate": "2023-02-17T11:48:31+01:00"
+    "CreationDate": "2023-02-19T11:59:05+01:00"
   },
   "GeneralSpecs": {
     "ProjectId": {
@@ -14,8 +14,8 @@
       "Revision": "rev?"
     },
     "Size": {
-      "X": 452.1,
-      "Y": 208.2
+      "X": 434.65,
+      "Y": 208.3
     },
     "LayerNumber": 2,
     "BoardThickness": 1.6,
@@ -41,6 +41,16 @@
     {
       "Path": "Europe-ergo-B_Cu.gbr",
       "FileFunction": "Copper,L2,Bot",
+      "FilePolarity": "Positive"
+    },
+    {
+      "Path": "Europe-ergo-F_Adhesive.gbr",
+      "FileFunction": "Glue,Top",
+      "FilePolarity": "Positive"
+    },
+    {
+      "Path": "Europe-ergo-B_Adhesive.gbr",
+      "FileFunction": "Glue,Bot",
       "FilePolarity": "Positive"
     },
     {
@@ -76,6 +86,16 @@
     {
       "Path": "Europe-ergo-Edge_Cuts.gbr",
       "FileFunction": "Profile",
+      "FilePolarity": "Positive"
+    },
+    {
+      "Path": "Europe-ergo-F_Fab.gbr",
+      "FileFunction": "AssemblyDrawing,Top",
+      "FilePolarity": "Positive"
+    },
+    {
+      "Path": "Europe-ergo-B_Fab.gbr",
+      "FileFunction": "AssemblyDrawing,Bot",
       "FilePolarity": "Positive"
     }
   ],
