@@ -4412,7 +4412,7 @@
   (symbol (lib_id "pcb-flat-right-rescue:MX-NO-LED-keyboard2") (at 786.13 128.27 90) (mirror x) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 00000000-0000-0000-0000-00005f40c087)
-    (property "Reference" "SW3" (at 781.6088 128.27 90)
+    (property "Reference" "SW48" (at 781.6088 128.27 90)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "MX1A-G1NN" (at 793.75 128.27 0)
@@ -4429,7 +4429,7 @@
     (instances
       (project "Europe-ergo"
         (path "/95af97f8-b0d4-471d-a7e2-0d2b460f21a8"
-          (reference "SW3") (unit 1)
+          (reference "SW48") (unit 1)
         )
       )
     )
@@ -4438,7 +4438,7 @@
   (symbol (lib_id "pcb-flat-right-rescue:MX-NO-LED-keyboard2") (at 760.73 128.27 90) (mirror x) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 00000000-0000-0000-0000-00005f40c08d)
-    (property "Reference" "SW9" (at 756.2088 128.27 90)
+    (property "Reference" "SW47" (at 756.2088 128.27 90)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "MX1A-G1NN" (at 768.35 128.27 0)
@@ -4455,7 +4455,7 @@
     (instances
       (project "Europe-ergo"
         (path "/95af97f8-b0d4-471d-a7e2-0d2b460f21a8"
-          (reference "SW9") (unit 1)
+          (reference "SW47") (unit 1)
         )
       )
     )
@@ -4464,7 +4464,7 @@
   (symbol (lib_id "pcb-flat-right-rescue:MX-NO-LED-keyboard2") (at 732.79 128.27 90) (mirror x) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 00000000-0000-0000-0000-00005f40c093)
-    (property "Reference" "SW15" (at 728.2688 128.27 90)
+    (property "Reference" "SW46" (at 728.2688 128.27 90)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "MX1A-G1NN" (at 740.41 128.27 0)
@@ -4481,7 +4481,7 @@
     (instances
       (project "Europe-ergo"
         (path "/95af97f8-b0d4-471d-a7e2-0d2b460f21a8"
-          (reference "SW15") (unit 1)
+          (reference "SW46") (unit 1)
         )
       )
     )
@@ -4490,7 +4490,7 @@
   (symbol (lib_id "pcb-flat-right-rescue:MX-NO-LED-keyboard2") (at 708.66 128.27 90) (mirror x) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 00000000-0000-0000-0000-00005f40c099)
-    (property "Reference" "SW21" (at 704.1388 128.27 90)
+    (property "Reference" "SW45" (at 704.1388 128.27 90)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "MX1A-G1NN" (at 716.28 128.27 0)
@@ -4507,7 +4507,7 @@
     (instances
       (project "Europe-ergo"
         (path "/95af97f8-b0d4-471d-a7e2-0d2b460f21a8"
-          (reference "SW21") (unit 1)
+          (reference "SW45") (unit 1)
         )
       )
     )
@@ -4516,7 +4516,7 @@
   (symbol (lib_id "pcb-flat-right-rescue:MX-NO-LED-keyboard2") (at 687.07 128.27 90) (mirror x) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 00000000-0000-0000-0000-00005f40c09f)
-    (property "Reference" "SW27" (at 682.5488 128.27 90)
+    (property "Reference" "SW44" (at 682.5488 128.27 90)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "MX1A-G1NN" (at 694.69 128.27 0)
@@ -4533,7 +4533,7 @@
     (instances
       (project "Europe-ergo"
         (path "/95af97f8-b0d4-471d-a7e2-0d2b460f21a8"
-          (reference "SW27") (unit 1)
+          (reference "SW44") (unit 1)
         )
       )
     )
@@ -4542,7 +4542,7 @@
   (symbol (lib_id "pcb-flat-right-rescue:MX-NO-LED-keyboard2") (at 661.67 128.27 90) (mirror x) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 00000000-0000-0000-0000-00005f40c0a5)
-    (property "Reference" "SW33" (at 657.1488 128.27 90)
+    (property "Reference" "SW43" (at 657.1488 128.27 90)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "MX1A-G1NN" (at 669.29 128.27 0)
@@ -4559,7 +4559,7 @@
     (instances
       (project "Europe-ergo"
         (path "/95af97f8-b0d4-471d-a7e2-0d2b460f21a8"
-          (reference "SW33") (unit 1)
+          (reference "SW43") (unit 1)
         )
       )
     )
@@ -4568,7 +4568,7 @@
   (symbol (lib_id "pcb-flat-right-rescue:MX-NO-LED-keyboard2") (at 637.54 128.27 90) (mirror x) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 00000000-0000-0000-0000-00005f40c0ab)
-    (property "Reference" "SW39" (at 633.0188 128.27 90)
+    (property "Reference" "SW42" (at 633.0188 128.27 90)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "MX1A-G1NN" (at 645.16 128.27 0)
@@ -4585,7 +4585,7 @@
     (instances
       (project "Europe-ergo"
         (path "/95af97f8-b0d4-471d-a7e2-0d2b460f21a8"
-          (reference "SW39") (unit 1)
+          (reference "SW42") (unit 1)
         )
       )
     )
@@ -4594,7 +4594,7 @@
   (symbol (lib_id "pcb-flat-right-rescue:MX-NO-LED-keyboard2") (at 614.68 128.27 90) (mirror x) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 00000000-0000-0000-0000-00005f40c0b1)
-    (property "Reference" "SW43" (at 610.1588 128.27 90)
+    (property "Reference" "SW41" (at 610.1588 128.27 90)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "MX1A-G1NN" (at 622.3 128.27 0)
@@ -4611,7 +4611,7 @@
     (instances
       (project "Europe-ergo"
         (path "/95af97f8-b0d4-471d-a7e2-0d2b460f21a8"
-          (reference "SW43") (unit 1)
+          (reference "SW41") (unit 1)
         )
       )
     )
@@ -4620,7 +4620,7 @@
   (symbol (lib_id "pcb-flat-right-rescue:MX-NO-LED-keyboard2") (at 784.86 163.83 90) (mirror x) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 00000000-0000-0000-0000-00005f4156f4)
-    (property "Reference" "SW5" (at 780.3388 163.83 90)
+    (property "Reference" "SW62" (at 780.3388 163.83 90)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "MX1A-G1NN" (at 792.48 163.83 0)
@@ -4637,7 +4637,7 @@
     (instances
       (project "Europe-ergo"
         (path "/95af97f8-b0d4-471d-a7e2-0d2b460f21a8"
-          (reference "SW5") (unit 1)
+          (reference "SW62") (unit 1)
         )
       )
     )
@@ -4646,7 +4646,7 @@
   (symbol (lib_id "pcb-flat-right-rescue:MX-NO-LED-keyboard2") (at 759.46 163.83 90) (mirror x) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 00000000-0000-0000-0000-00005f4156fa)
-    (property "Reference" "SW11" (at 754.9388 163.83 90)
+    (property "Reference" "SW61" (at 754.9388 163.83 90)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "MX1A-G1NN" (at 767.08 163.83 0)
@@ -4663,7 +4663,7 @@
     (instances
       (project "Europe-ergo"
         (path "/95af97f8-b0d4-471d-a7e2-0d2b460f21a8"
-          (reference "SW11") (unit 1)
+          (reference "SW61") (unit 1)
         )
       )
     )
@@ -4672,7 +4672,7 @@
   (symbol (lib_id "pcb-flat-right-rescue:MX-NO-LED-keyboard2") (at 731.52 163.83 90) (mirror x) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 00000000-0000-0000-0000-00005f415700)
-    (property "Reference" "SW17" (at 726.9988 163.83 90)
+    (property "Reference" "SW60" (at 726.9988 163.83 90)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "MX1A-G1NN" (at 739.14 163.83 0)
@@ -4689,7 +4689,7 @@
     (instances
       (project "Europe-ergo"
         (path "/95af97f8-b0d4-471d-a7e2-0d2b460f21a8"
-          (reference "SW17") (unit 1)
+          (reference "SW60") (unit 1)
         )
       )
     )
@@ -4698,7 +4698,7 @@
   (symbol (lib_id "pcb-flat-right-rescue:MX-NO-LED-keyboard2") (at 707.39 163.83 90) (mirror x) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 00000000-0000-0000-0000-00005f415706)
-    (property "Reference" "SW23" (at 702.8688 163.83 90)
+    (property "Reference" "SW59" (at 702.8688 163.83 90)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "MX1A-G1NN" (at 715.01 163.83 0)
@@ -4715,7 +4715,7 @@
     (instances
       (project "Europe-ergo"
         (path "/95af97f8-b0d4-471d-a7e2-0d2b460f21a8"
-          (reference "SW23") (unit 1)
+          (reference "SW59") (unit 1)
         )
       )
     )
@@ -4724,7 +4724,7 @@
   (symbol (lib_id "pcb-flat-right-rescue:MX-NO-LED-keyboard2") (at 685.8 163.83 90) (mirror x) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 00000000-0000-0000-0000-00005f41570c)
-    (property "Reference" "SW29" (at 681.2788 163.83 90)
+    (property "Reference" "SW58" (at 681.2788 163.83 90)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "MX1A-G1NN" (at 693.42 163.83 0)
@@ -4741,7 +4741,7 @@
     (instances
       (project "Europe-ergo"
         (path "/95af97f8-b0d4-471d-a7e2-0d2b460f21a8"
-          (reference "SW29") (unit 1)
+          (reference "SW58") (unit 1)
         )
       )
     )
@@ -4750,7 +4750,7 @@
   (symbol (lib_id "pcb-flat-right-rescue:MX-NO-LED-keyboard2") (at 660.4 163.83 90) (mirror x) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 00000000-0000-0000-0000-00005f415712)
-    (property "Reference" "SW36" (at 655.8788 163.83 90)
+    (property "Reference" "SW57" (at 655.8788 163.83 90)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "MX1A-G1NN" (at 668.02 163.83 0)
@@ -4767,7 +4767,7 @@
     (instances
       (project "Europe-ergo"
         (path "/95af97f8-b0d4-471d-a7e2-0d2b460f21a8"
-          (reference "SW36") (unit 1)
+          (reference "SW57") (unit 1)
         )
       )
     )
@@ -4776,7 +4776,7 @@
   (symbol (lib_id "pcb-flat-right-rescue:MX-NO-LED-keyboard2") (at 636.27 163.83 90) (mirror x) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 00000000-0000-0000-0000-00005f415718)
-    (property "Reference" "SW41" (at 631.7488 163.83 90)
+    (property "Reference" "SW56" (at 631.7488 163.83 90)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "MX1A-G1NN" (at 643.89 163.83 0)
@@ -4793,7 +4793,7 @@
     (instances
       (project "Europe-ergo"
         (path "/95af97f8-b0d4-471d-a7e2-0d2b460f21a8"
-          (reference "SW41") (unit 1)
+          (reference "SW56") (unit 1)
         )
       )
     )
@@ -4802,7 +4802,7 @@
   (symbol (lib_id "pcb-flat-right-rescue:MX-NO-LED-keyboard2") (at 786.13 199.39 90) (mirror x) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 00000000-0000-0000-0000-00005f41b6ed)
-    (property "Reference" "SW4" (at 781.6088 199.39 90)
+    (property "Reference" "SW80" (at 781.6088 199.39 90)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "MX1A-G1NN" (at 793.75 199.39 0)
@@ -4819,7 +4819,7 @@
     (instances
       (project "Europe-ergo"
         (path "/95af97f8-b0d4-471d-a7e2-0d2b460f21a8"
-          (reference "SW4") (unit 1)
+          (reference "SW80") (unit 1)
         )
       )
     )
@@ -4828,7 +4828,7 @@
   (symbol (lib_id "pcb-flat-right-rescue:MX-NO-LED-keyboard2") (at 760.73 199.39 90) (mirror x) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 00000000-0000-0000-0000-00005f41b6f3)
-    (property "Reference" "SW10" (at 756.2088 199.39 90)
+    (property "Reference" "SW79" (at 756.2088 199.39 90)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "MX1A-G1NN" (at 768.35 199.39 0)
@@ -4845,7 +4845,7 @@
     (instances
       (project "Europe-ergo"
         (path "/95af97f8-b0d4-471d-a7e2-0d2b460f21a8"
-          (reference "SW10") (unit 1)
+          (reference "SW79") (unit 1)
         )
       )
     )
@@ -4854,7 +4854,7 @@
   (symbol (lib_id "pcb-flat-right-rescue:MX-NO-LED-keyboard2") (at 732.79 199.39 90) (mirror x) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 00000000-0000-0000-0000-00005f41b6f9)
-    (property "Reference" "SW16" (at 728.2688 199.39 90)
+    (property "Reference" "SW78" (at 728.2688 199.39 90)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "MX1A-G1NN" (at 740.41 199.39 0)
@@ -4871,7 +4871,7 @@
     (instances
       (project "Europe-ergo"
         (path "/95af97f8-b0d4-471d-a7e2-0d2b460f21a8"
-          (reference "SW16") (unit 1)
+          (reference "SW78") (unit 1)
         )
       )
     )
@@ -4880,7 +4880,7 @@
   (symbol (lib_id "pcb-flat-right-rescue:MX-NO-LED-keyboard2") (at 708.66 199.39 90) (mirror x) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 00000000-0000-0000-0000-00005f41b6ff)
-    (property "Reference" "SW22" (at 704.1388 199.39 90)
+    (property "Reference" "SW77" (at 704.1388 199.39 90)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "MX1A-G1NN" (at 716.28 199.39 0)
@@ -4897,7 +4897,7 @@
     (instances
       (project "Europe-ergo"
         (path "/95af97f8-b0d4-471d-a7e2-0d2b460f21a8"
-          (reference "SW22") (unit 1)
+          (reference "SW77") (unit 1)
         )
       )
     )
@@ -4906,7 +4906,7 @@
   (symbol (lib_id "pcb-flat-right-rescue:MX-NO-LED-keyboard2") (at 687.07 199.39 90) (mirror x) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 00000000-0000-0000-0000-00005f41b705)
-    (property "Reference" "SW28" (at 682.5488 199.39 90)
+    (property "Reference" "SW76" (at 682.5488 199.39 90)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "MX1A-G1NN" (at 694.69 199.39 0)
@@ -4923,7 +4923,7 @@
     (instances
       (project "Europe-ergo"
         (path "/95af97f8-b0d4-471d-a7e2-0d2b460f21a8"
-          (reference "SW28") (unit 1)
+          (reference "SW76") (unit 1)
         )
       )
     )
@@ -4932,7 +4932,7 @@
   (symbol (lib_id "pcb-flat-right-rescue:MX-NO-LED-keyboard2") (at 661.67 199.39 90) (mirror x) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 00000000-0000-0000-0000-00005f41b70b)
-    (property "Reference" "SW34" (at 657.1488 199.39 90)
+    (property "Reference" "SW75" (at 657.1488 199.39 90)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "MX1A-G1NN" (at 669.29 199.39 0)
@@ -4949,7 +4949,7 @@
     (instances
       (project "Europe-ergo"
         (path "/95af97f8-b0d4-471d-a7e2-0d2b460f21a8"
-          (reference "SW34") (unit 1)
+          (reference "SW75") (unit 1)
         )
       )
     )
@@ -4958,7 +4958,7 @@
   (symbol (lib_id "pcb-flat-right-rescue:MX-NO-LED-keyboard2") (at 637.54 199.39 90) (mirror x) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 00000000-0000-0000-0000-00005f41b711)
-    (property "Reference" "SW40" (at 633.0188 199.39 90)
+    (property "Reference" "SW74" (at 633.0188 199.39 90)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "MX1A-G1NN" (at 645.16 199.39 0)
@@ -4975,7 +4975,7 @@
     (instances
       (project "Europe-ergo"
         (path "/95af97f8-b0d4-471d-a7e2-0d2b460f21a8"
-          (reference "SW40") (unit 1)
+          (reference "SW74") (unit 1)
         )
       )
     )
@@ -4984,7 +4984,7 @@
   (symbol (lib_id "pcb-flat-right-rescue:MX-NO-LED-keyboard2") (at 614.68 199.39 90) (mirror x) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 00000000-0000-0000-0000-00005f41b717)
-    (property "Reference" "SW44" (at 610.1588 199.39 90)
+    (property "Reference" "SW73" (at 610.1588 199.39 90)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "MX1A-G1NN" (at 622.3 199.39 0)
@@ -5001,7 +5001,7 @@
     (instances
       (project "Europe-ergo"
         (path "/95af97f8-b0d4-471d-a7e2-0d2b460f21a8"
-          (reference "SW44") (unit 1)
+          (reference "SW73") (unit 1)
         )
       )
     )
@@ -5010,7 +5010,7 @@
   (symbol (lib_id "pcb-flat-right-rescue:MX-NO-LED-keyboard2") (at 784.86 231.14 90) (mirror x) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 00000000-0000-0000-0000-00005f41e83f)
-    (property "Reference" "SW6" (at 780.3388 231.14 90)
+    (property "Reference" "SW96" (at 780.3388 231.14 90)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "MX1A-G1NN" (at 792.48 231.14 0)
@@ -5027,7 +5027,7 @@
     (instances
       (project "Europe-ergo"
         (path "/95af97f8-b0d4-471d-a7e2-0d2b460f21a8"
-          (reference "SW6") (unit 1)
+          (reference "SW96") (unit 1)
         )
       )
     )
@@ -5036,7 +5036,7 @@
   (symbol (lib_id "pcb-flat-right-rescue:MX-NO-LED-keyboard2") (at 759.46 231.14 90) (mirror x) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 00000000-0000-0000-0000-00005f41e845)
-    (property "Reference" "SW12" (at 754.9388 231.14 90)
+    (property "Reference" "SW95" (at 754.9388 231.14 90)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "MX1A-G1NN" (at 767.08 231.14 0)
@@ -5053,7 +5053,7 @@
     (instances
       (project "Europe-ergo"
         (path "/95af97f8-b0d4-471d-a7e2-0d2b460f21a8"
-          (reference "SW12") (unit 1)
+          (reference "SW95") (unit 1)
         )
       )
     )
@@ -5062,7 +5062,7 @@
   (symbol (lib_id "pcb-flat-right-rescue:MX-NO-LED-keyboard2") (at 731.52 231.14 90) (mirror x) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 00000000-0000-0000-0000-00005f41e84b)
-    (property "Reference" "SW18" (at 726.9988 231.14 90)
+    (property "Reference" "SW94" (at 726.9988 231.14 90)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "MX1A-G1NN" (at 739.14 231.14 0)
@@ -5079,7 +5079,7 @@
     (instances
       (project "Europe-ergo"
         (path "/95af97f8-b0d4-471d-a7e2-0d2b460f21a8"
-          (reference "SW18") (unit 1)
+          (reference "SW94") (unit 1)
         )
       )
     )
@@ -5088,7 +5088,7 @@
   (symbol (lib_id "pcb-flat-right-rescue:MX-NO-LED-keyboard2") (at 707.39 231.14 90) (mirror x) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 00000000-0000-0000-0000-00005f41e851)
-    (property "Reference" "SW24" (at 702.8688 231.14 90)
+    (property "Reference" "SW93" (at 702.8688 231.14 90)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "MX1A-G1NN" (at 715.01 231.14 0)
@@ -5105,7 +5105,7 @@
     (instances
       (project "Europe-ergo"
         (path "/95af97f8-b0d4-471d-a7e2-0d2b460f21a8"
-          (reference "SW24") (unit 1)
+          (reference "SW93") (unit 1)
         )
       )
     )
@@ -5114,7 +5114,7 @@
   (symbol (lib_id "pcb-flat-right-rescue:MX-NO-LED-keyboard2") (at 685.8 231.14 90) (mirror x) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 00000000-0000-0000-0000-00005f41e857)
-    (property "Reference" "SW30" (at 681.2788 231.14 90)
+    (property "Reference" "SW92" (at 681.2788 231.14 90)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "MX1A-G1NN" (at 693.42 231.14 0)
@@ -5131,7 +5131,7 @@
     (instances
       (project "Europe-ergo"
         (path "/95af97f8-b0d4-471d-a7e2-0d2b460f21a8"
-          (reference "SW30") (unit 1)
+          (reference "SW92") (unit 1)
         )
       )
     )
@@ -5140,7 +5140,7 @@
   (symbol (lib_id "pcb-flat-right-rescue:MX-NO-LED-keyboard2") (at 661.67 231.14 90) (mirror x) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 00000000-0000-0000-0000-00005f4200ac)
-    (property "Reference" "SW35" (at 657.1488 231.14 90)
+    (property "Reference" "SW91" (at 657.1488 231.14 90)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "MX1A-G1NN" (at 669.29 231.14 0)
@@ -5160,7 +5160,7 @@
     (instances
       (project "Europe-ergo"
         (path "/95af97f8-b0d4-471d-a7e2-0d2b460f21a8"
-          (reference "SW35") (unit 1)
+          (reference "SW91") (unit 1)
         )
       )
     )
@@ -5169,7 +5169,7 @@
   (symbol (lib_id "pcb-flat-right-rescue:MX-NO-LED-keyboard2") (at 613.41 231.14 90) (mirror x) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 00000000-0000-0000-0000-00005f4200b2)
-    (property "Reference" "SW45" (at 608.8888 231.14 90)
+    (property "Reference" "SW90" (at 608.8888 231.14 90)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "MX1A-G1NN" (at 621.03 231.14 0)
@@ -5189,7 +5189,7 @@
     (instances
       (project "Europe-ergo"
         (path "/95af97f8-b0d4-471d-a7e2-0d2b460f21a8"
-          (reference "SW45") (unit 1)
+          (reference "SW90") (unit 1)
         )
       )
     )
@@ -5198,7 +5198,7 @@
   (symbol (lib_id "pcb-flat-right-rescue:MX-NO-LED-keyboard2") (at 582.93 231.14 90) (mirror x) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 00000000-0000-0000-0000-00005f4200b8)
-    (property "Reference" "SW47" (at 578.4088 231.14 90)
+    (property "Reference" "SW89" (at 578.4088 231.14 90)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "MX1A-G1NN" (at 590.55 231.14 0)
@@ -5218,7 +5218,7 @@
     (instances
       (project "Europe-ergo"
         (path "/95af97f8-b0d4-471d-a7e2-0d2b460f21a8"
-          (reference "SW47") (unit 1)
+          (reference "SW89") (unit 1)
         )
       )
     )
@@ -5227,7 +5227,7 @@
   (symbol (lib_id "pcb-flat-right-rescue:MX-NO-LED-keyboard2") (at 582.93 199.39 90) (mirror x) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 00000000-0000-0000-0000-00005f420206)
-    (property "Reference" "SW46" (at 578.4088 199.39 90)
+    (property "Reference" "SW72" (at 578.4088 199.39 90)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "MX1A-G1NN" (at 590.55 199.39 0)
@@ -5247,7 +5247,7 @@
     (instances
       (project "Europe-ergo"
         (path "/95af97f8-b0d4-471d-a7e2-0d2b460f21a8"
-          (reference "SW46") (unit 1)
+          (reference "SW72") (unit 1)
         )
       )
     )
@@ -5256,7 +5256,7 @@
   (symbol (lib_id "pcb-flat-right-rescue:MX-NO-LED-keyboard2") (at 789.94 52.07 90) (mirror x) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 00000000-0000-0000-0000-00005f431dfe)
-    (property "Reference" "SW1" (at 785.4188 52.07 90)
+    (property "Reference" "SW14" (at 785.4188 52.07 90)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "MX1A-G1NN" (at 797.56 52.07 0)
@@ -5273,7 +5273,7 @@
     (instances
       (project "Europe-ergo"
         (path "/95af97f8-b0d4-471d-a7e2-0d2b460f21a8"
-          (reference "SW1") (unit 1)
+          (reference "SW14") (unit 1)
         )
       )
     )
@@ -5282,7 +5282,7 @@
   (symbol (lib_id "pcb-flat-right-rescue:MX-NO-LED-keyboard2") (at 764.54 52.07 90) (mirror x) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 00000000-0000-0000-0000-00005f432b16)
-    (property "Reference" "SW7" (at 760.0188 52.07 90)
+    (property "Reference" "SW13" (at 760.0188 52.07 90)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "MX1A-G1NN" (at 772.16 52.07 0)
@@ -5299,7 +5299,7 @@
     (instances
       (project "Europe-ergo"
         (path "/95af97f8-b0d4-471d-a7e2-0d2b460f21a8"
-          (reference "SW7") (unit 1)
+          (reference "SW13") (unit 1)
         )
       )
     )
@@ -5308,7 +5308,7 @@
   (symbol (lib_id "pcb-flat-right-rescue:MX-NO-LED-keyboard2") (at 736.6 52.07 90) (mirror x) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 00000000-0000-0000-0000-00005f433c0d)
-    (property "Reference" "SW13" (at 732.0788 52.07 90)
+    (property "Reference" "SW12" (at 732.0788 52.07 90)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "MX1A-G1NN" (at 744.22 52.07 0)
@@ -5325,7 +5325,7 @@
     (instances
       (project "Europe-ergo"
         (path "/95af97f8-b0d4-471d-a7e2-0d2b460f21a8"
-          (reference "SW13") (unit 1)
+          (reference "SW12") (unit 1)
         )
       )
     )
@@ -5334,7 +5334,7 @@
   (symbol (lib_id "pcb-flat-right-rescue:MX-NO-LED-keyboard2") (at 712.47 52.07 90) (mirror x) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 00000000-0000-0000-0000-00005f433c17)
-    (property "Reference" "SW19" (at 707.9488 52.07 90)
+    (property "Reference" "SW11" (at 707.9488 52.07 90)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "MX1A-G1NN" (at 720.09 52.07 0)
@@ -5351,7 +5351,7 @@
     (instances
       (project "Europe-ergo"
         (path "/95af97f8-b0d4-471d-a7e2-0d2b460f21a8"
-          (reference "SW19") (unit 1)
+          (reference "SW11") (unit 1)
         )
       )
     )
@@ -5360,7 +5360,7 @@
   (symbol (lib_id "pcb-flat-right-rescue:MX-NO-LED-keyboard2") (at 690.88 52.07 90) (mirror x) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 00000000-0000-0000-0000-00005f434983)
-    (property "Reference" "SW25" (at 686.3588 52.07 90)
+    (property "Reference" "SW10" (at 686.3588 52.07 90)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "MX1A-G1NN" (at 698.5 52.07 0)
@@ -5377,7 +5377,7 @@
     (instances
       (project "Europe-ergo"
         (path "/95af97f8-b0d4-471d-a7e2-0d2b460f21a8"
-          (reference "SW25") (unit 1)
+          (reference "SW10") (unit 1)
         )
       )
     )
@@ -5386,7 +5386,7 @@
   (symbol (lib_id "pcb-flat-right-rescue:MX-NO-LED-keyboard2") (at 665.48 52.07 90) (mirror x) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 00000000-0000-0000-0000-00005f43498d)
-    (property "Reference" "SW31" (at 660.9588 52.07 90)
+    (property "Reference" "SW9" (at 660.9588 52.07 90)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "MX1A-G1NN" (at 673.1 52.07 0)
@@ -5403,7 +5403,7 @@
     (instances
       (project "Europe-ergo"
         (path "/95af97f8-b0d4-471d-a7e2-0d2b460f21a8"
-          (reference "SW31") (unit 1)
+          (reference "SW9") (unit 1)
         )
       )
     )
@@ -5412,7 +5412,7 @@
   (symbol (lib_id "pcb-flat-right-rescue:MX-NO-LED-keyboard2") (at 641.35 52.07 90) (mirror x) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 00000000-0000-0000-0000-00005f435eaf)
-    (property "Reference" "SW37" (at 636.8288 52.07 90)
+    (property "Reference" "SW8" (at 636.8288 52.07 90)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "MX1A-G1NN" (at 648.97 52.07 0)
@@ -5429,7 +5429,7 @@
     (instances
       (project "Europe-ergo"
         (path "/95af97f8-b0d4-471d-a7e2-0d2b460f21a8"
-          (reference "SW37") (unit 1)
+          (reference "SW8") (unit 1)
         )
       )
     )
@@ -5438,7 +5438,7 @@
   (symbol (lib_id "pcb-flat-right-rescue:MX-NO-LED-keyboard2") (at 786.13 88.9 90) (mirror x) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 00000000-0000-0000-0000-00005f43da6c)
-    (property "Reference" "SW2" (at 781.6088 88.9 90)
+    (property "Reference" "SW32" (at 781.6088 88.9 90)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "MX1A-G1NN" (at 793.75 88.9 0)
@@ -5455,7 +5455,7 @@
     (instances
       (project "Europe-ergo"
         (path "/95af97f8-b0d4-471d-a7e2-0d2b460f21a8"
-          (reference "SW2") (unit 1)
+          (reference "SW32") (unit 1)
         )
       )
     )
@@ -5464,7 +5464,7 @@
   (symbol (lib_id "pcb-flat-right-rescue:MX-NO-LED-keyboard2") (at 760.73 88.9 90) (mirror x) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 00000000-0000-0000-0000-00005f43da76)
-    (property "Reference" "SW8" (at 756.2088 88.9 90)
+    (property "Reference" "SW31" (at 756.2088 88.9 90)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "MX1A-G1NN" (at 768.35 88.9 0)
@@ -5481,7 +5481,7 @@
     (instances
       (project "Europe-ergo"
         (path "/95af97f8-b0d4-471d-a7e2-0d2b460f21a8"
-          (reference "SW8") (unit 1)
+          (reference "SW31") (unit 1)
         )
       )
     )
@@ -5490,7 +5490,7 @@
   (symbol (lib_id "pcb-flat-right-rescue:MX-NO-LED-keyboard2") (at 732.79 88.9 90) (mirror x) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 00000000-0000-0000-0000-00005f43da80)
-    (property "Reference" "SW14" (at 728.2688 88.9 90)
+    (property "Reference" "SW30" (at 728.2688 88.9 90)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "MX1A-G1NN" (at 740.41 88.9 0)
@@ -5507,7 +5507,7 @@
     (instances
       (project "Europe-ergo"
         (path "/95af97f8-b0d4-471d-a7e2-0d2b460f21a8"
-          (reference "SW14") (unit 1)
+          (reference "SW30") (unit 1)
         )
       )
     )
@@ -5516,7 +5516,7 @@
   (symbol (lib_id "pcb-flat-right-rescue:MX-NO-LED-keyboard2") (at 708.66 88.9 90) (mirror x) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 00000000-0000-0000-0000-00005f43da8a)
-    (property "Reference" "SW20" (at 704.1388 88.9 90)
+    (property "Reference" "SW29" (at 704.1388 88.9 90)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "MX1A-G1NN" (at 716.28 88.9 0)
@@ -5533,7 +5533,7 @@
     (instances
       (project "Europe-ergo"
         (path "/95af97f8-b0d4-471d-a7e2-0d2b460f21a8"
-          (reference "SW20") (unit 1)
+          (reference "SW29") (unit 1)
         )
       )
     )
@@ -5542,7 +5542,7 @@
   (symbol (lib_id "pcb-flat-right-rescue:MX-NO-LED-keyboard2") (at 687.07 88.9 90) (mirror x) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 00000000-0000-0000-0000-00005f43da94)
-    (property "Reference" "SW26" (at 682.5488 88.9 90)
+    (property "Reference" "SW28" (at 682.5488 88.9 90)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "MX1A-G1NN" (at 694.69 88.9 0)
@@ -5559,7 +5559,7 @@
     (instances
       (project "Europe-ergo"
         (path "/95af97f8-b0d4-471d-a7e2-0d2b460f21a8"
-          (reference "SW26") (unit 1)
+          (reference "SW28") (unit 1)
         )
       )
     )
@@ -5568,7 +5568,7 @@
   (symbol (lib_id "pcb-flat-right-rescue:MX-NO-LED-keyboard2") (at 661.67 88.9 90) (mirror x) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 00000000-0000-0000-0000-00005f43da9e)
-    (property "Reference" "SW32" (at 657.1488 88.9 90)
+    (property "Reference" "SW27" (at 657.1488 88.9 90)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "MX1A-G1NN" (at 669.29 88.9 0)
@@ -5585,7 +5585,7 @@
     (instances
       (project "Europe-ergo"
         (path "/95af97f8-b0d4-471d-a7e2-0d2b460f21a8"
-          (reference "SW32") (unit 1)
+          (reference "SW27") (unit 1)
         )
       )
     )
@@ -5594,7 +5594,7 @@
   (symbol (lib_id "pcb-flat-right-rescue:MX-NO-LED-keyboard2") (at 637.54 88.9 90) (mirror x) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 00000000-0000-0000-0000-00005f43daa8)
-    (property "Reference" "SW38" (at 633.0188 88.9 90)
+    (property "Reference" "SW26" (at 633.0188 88.9 90)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "MX1A-G1NN" (at 645.16 88.9 0)
@@ -5611,7 +5611,7 @@
     (instances
       (project "Europe-ergo"
         (path "/95af97f8-b0d4-471d-a7e2-0d2b460f21a8"
-          (reference "SW38") (unit 1)
+          (reference "SW26") (unit 1)
         )
       )
     )
@@ -5620,7 +5620,7 @@
   (symbol (lib_id "pcb-flat-right-rescue:MX-NO-LED-keyboard2") (at 614.68 88.9 90) (mirror x) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 00000000-0000-0000-0000-00005f444b45)
-    (property "Reference" "SW42" (at 610.1588 88.9 90)
+    (property "Reference" "SW25" (at 610.1588 88.9 90)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "MX1A-G1NN" (at 622.3 88.9 0)
@@ -5637,7 +5637,7 @@
     (instances
       (project "Europe-ergo"
         (path "/95af97f8-b0d4-471d-a7e2-0d2b460f21a8"
-          (reference "SW42") (unit 1)
+          (reference "SW25") (unit 1)
         )
       )
     )
@@ -5646,7 +5646,7 @@
   (symbol (lib_id "Diode:1N4148") (at 782.32 59.69 0) (mirror x) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 00000000-0000-0000-0000-00005f44c9da)
-    (property "Reference" "D1" (at 782.32 54.1782 0)
+    (property "Reference" "D7" (at 782.32 54.1782 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "1N4148" (at 782.32 56.4896 0)
@@ -5663,7 +5663,7 @@
     (instances
       (project "Europe-ergo"
         (path "/95af97f8-b0d4-471d-a7e2-0d2b460f21a8"
-          (reference "D1") (unit 1)
+          (reference "D7") (unit 1)
         )
       )
     )
@@ -5672,7 +5672,7 @@
   (symbol (lib_id "Diode:1N4148") (at 755.65 59.69 0) (mirror x) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 00000000-0000-0000-0000-00005f451ffb)
-    (property "Reference" "D7" (at 755.65 54.1782 0)
+    (property "Reference" "D6" (at 755.65 54.1782 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "1N4148" (at 755.65 56.4896 0)
@@ -5689,7 +5689,7 @@
     (instances
       (project "Europe-ergo"
         (path "/95af97f8-b0d4-471d-a7e2-0d2b460f21a8"
-          (reference "D7") (unit 1)
+          (reference "D6") (unit 1)
         )
       )
     )
@@ -5698,7 +5698,7 @@
   (symbol (lib_id "Diode:1N4148") (at 779.78 96.52 0) (mirror x) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 00000000-0000-0000-0000-00005f452994)
-    (property "Reference" "D2" (at 779.78 91.0082 0)
+    (property "Reference" "D20" (at 779.78 91.0082 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "1N4148" (at 779.78 93.3196 0)
@@ -5715,7 +5715,7 @@
     (instances
       (project "Europe-ergo"
         (path "/95af97f8-b0d4-471d-a7e2-0d2b460f21a8"
-          (reference "D2") (unit 1)
+          (reference "D20") (unit 1)
         )
       )
     )
@@ -5724,7 +5724,7 @@
   (symbol (lib_id "Diode:1N4148") (at 754.38 96.52 0) (mirror x) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 00000000-0000-0000-0000-00005f453be1)
-    (property "Reference" "D8" (at 754.38 91.0082 0)
+    (property "Reference" "D19" (at 754.38 91.0082 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "1N4148" (at 754.38 93.3196 0)
@@ -5741,7 +5741,7 @@
     (instances
       (project "Europe-ergo"
         (path "/95af97f8-b0d4-471d-a7e2-0d2b460f21a8"
-          (reference "D8") (unit 1)
+          (reference "D19") (unit 1)
         )
       )
     )
@@ -5750,7 +5750,7 @@
   (symbol (lib_id "Diode:1N4148") (at 779.78 135.89 0) (mirror x) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 00000000-0000-0000-0000-00005f4578df)
-    (property "Reference" "D3" (at 779.78 130.3782 0)
+    (property "Reference" "D44" (at 779.78 130.3782 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "1N4148" (at 779.78 132.6896 0)
@@ -5767,7 +5767,7 @@
     (instances
       (project "Europe-ergo"
         (path "/95af97f8-b0d4-471d-a7e2-0d2b460f21a8"
-          (reference "D3") (unit 1)
+          (reference "D44") (unit 1)
         )
       )
     )
@@ -5776,7 +5776,7 @@
   (symbol (lib_id "Diode:1N4148") (at 754.38 135.89 0) (mirror x) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 00000000-0000-0000-0000-00005f458e52)
-    (property "Reference" "D9" (at 754.38 130.3782 0)
+    (property "Reference" "D43" (at 754.38 130.3782 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "1N4148" (at 754.38 132.6896 0)
@@ -5793,7 +5793,7 @@
     (instances
       (project "Europe-ergo"
         (path "/95af97f8-b0d4-471d-a7e2-0d2b460f21a8"
-          (reference "D9") (unit 1)
+          (reference "D43") (unit 1)
         )
       )
     )
@@ -5802,7 +5802,7 @@
   (symbol (lib_id "Diode:1N4148") (at 778.51 171.45 0) (mirror x) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 00000000-0000-0000-0000-00005f45ae36)
-    (property "Reference" "D4" (at 778.51 165.9382 0)
+    (property "Reference" "D58" (at 778.51 165.9382 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "1N4148" (at 778.51 168.2496 0)
@@ -5819,7 +5819,7 @@
     (instances
       (project "Europe-ergo"
         (path "/95af97f8-b0d4-471d-a7e2-0d2b460f21a8"
-          (reference "D4") (unit 1)
+          (reference "D58") (unit 1)
         )
       )
     )
@@ -5828,7 +5828,7 @@
   (symbol (lib_id "Diode:1N4148") (at 754.38 171.45 0) (mirror x) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 00000000-0000-0000-0000-00005f45bbc1)
-    (property "Reference" "D10" (at 754.38 165.9382 0)
+    (property "Reference" "D57" (at 754.38 165.9382 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "1N4148" (at 754.38 168.2496 0)
@@ -5845,7 +5845,7 @@
     (instances
       (project "Europe-ergo"
         (path "/95af97f8-b0d4-471d-a7e2-0d2b460f21a8"
-          (reference "D10") (unit 1)
+          (reference "D57") (unit 1)
         )
       )
     )
@@ -5854,7 +5854,7 @@
   (symbol (lib_id "Diode:1N4148") (at 778.51 207.01 0) (mirror x) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 00000000-0000-0000-0000-00005f45c46c)
-    (property "Reference" "D5" (at 778.51 201.4982 0)
+    (property "Reference" "D76" (at 778.51 201.4982 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "1N4148" (at 778.51 203.8096 0)
@@ -5871,7 +5871,7 @@
     (instances
       (project "Europe-ergo"
         (path "/95af97f8-b0d4-471d-a7e2-0d2b460f21a8"
-          (reference "D5") (unit 1)
+          (reference "D76") (unit 1)
         )
       )
     )
@@ -5880,7 +5880,7 @@
   (symbol (lib_id "Diode:1N4148") (at 754.38 207.01 0) (mirror x) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 00000000-0000-0000-0000-00005f45deb0)
-    (property "Reference" "D11" (at 754.38 201.4982 0)
+    (property "Reference" "D75" (at 754.38 201.4982 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "1N4148" (at 754.38 203.8096 0)
@@ -5897,7 +5897,7 @@
     (instances
       (project "Europe-ergo"
         (path "/95af97f8-b0d4-471d-a7e2-0d2b460f21a8"
-          (reference "D11") (unit 1)
+          (reference "D75") (unit 1)
         )
       )
     )
@@ -5906,7 +5906,7 @@
   (symbol (lib_id "Diode:1N4148") (at 777.24 238.76 0) (mirror x) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 00000000-0000-0000-0000-00005f45f9a2)
-    (property "Reference" "D6" (at 777.24 233.2482 0)
+    (property "Reference" "D96" (at 777.24 233.2482 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "1N4148" (at 777.24 235.5596 0)
@@ -5923,7 +5923,7 @@
     (instances
       (project "Europe-ergo"
         (path "/95af97f8-b0d4-471d-a7e2-0d2b460f21a8"
-          (reference "D6") (unit 1)
+          (reference "D96") (unit 1)
         )
       )
     )
@@ -5932,7 +5932,7 @@
   (symbol (lib_id "Diode:1N4148") (at 753.11 238.76 0) (mirror x) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 00000000-0000-0000-0000-00005f46025b)
-    (property "Reference" "D12" (at 753.11 241.3 0)
+    (property "Reference" "D95" (at 753.11 241.3 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "1N4148" (at 753.11 235.5596 0)
@@ -5949,7 +5949,7 @@
     (instances
       (project "Europe-ergo"
         (path "/95af97f8-b0d4-471d-a7e2-0d2b460f21a8"
-          (reference "D12") (unit 1)
+          (reference "D95") (unit 1)
         )
       )
     )
@@ -5958,7 +5958,7 @@
   (symbol (lib_id "Mechanical:MountingHole_Pad") (at 760.73 316.23 90) (mirror x) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 00000000-0000-0000-0000-00005f479fde)
-    (property "Reference" "H1" (at 756.92 315.0616 90)
+    (property "Reference" "H2" (at 756.92 315.0616 90)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "MountingHole_Pad" (at 756.92 317.373 90)
@@ -5974,7 +5974,7 @@
     (instances
       (project "Europe-ergo"
         (path "/95af97f8-b0d4-471d-a7e2-0d2b460f21a8"
-          (reference "H1") (unit 1)
+          (reference "H2") (unit 1)
         )
       )
     )
@@ -5983,7 +5983,7 @@
   (symbol (lib_id "Mechanical:MountingHole_Pad") (at 760.73 321.31 90) (mirror x) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 00000000-0000-0000-0000-00005f47a77f)
-    (property "Reference" "H2" (at 756.92 320.1416 90)
+    (property "Reference" "H4" (at 756.92 320.1416 90)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "MountingHole_Pad" (at 756.92 322.453 90)
@@ -5999,7 +5999,7 @@
     (instances
       (project "Europe-ergo"
         (path "/95af97f8-b0d4-471d-a7e2-0d2b460f21a8"
-          (reference "H2") (unit 1)
+          (reference "H4") (unit 1)
         )
       )
     )
@@ -6008,7 +6008,7 @@
   (symbol (lib_id "Mechanical:MountingHole_Pad") (at 760.73 327.66 90) (mirror x) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 00000000-0000-0000-0000-00005f47aecd)
-    (property "Reference" "H3" (at 756.92 326.4916 90)
+    (property "Reference" "H6" (at 756.92 326.4916 90)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "MountingHole_Pad" (at 756.92 328.803 90)
@@ -6024,7 +6024,7 @@
     (instances
       (project "Europe-ergo"
         (path "/95af97f8-b0d4-471d-a7e2-0d2b460f21a8"
-          (reference "H3") (unit 1)
+          (reference "H6") (unit 1)
         )
       )
     )
@@ -6033,7 +6033,7 @@
   (symbol (lib_id "Mechanical:MountingHole_Pad") (at 760.73 334.01 90) (mirror x) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 00000000-0000-0000-0000-00005f47b67d)
-    (property "Reference" "H4" (at 756.92 332.8416 90)
+    (property "Reference" "H8" (at 756.92 332.8416 90)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "MountingHole_Pad" (at 756.92 335.153 90)
@@ -6049,7 +6049,7 @@
     (instances
       (project "Europe-ergo"
         (path "/95af97f8-b0d4-471d-a7e2-0d2b460f21a8"
-          (reference "H4") (unit 1)
+          (reference "H8") (unit 1)
         )
       )
     )
@@ -6058,7 +6058,7 @@
   (symbol (lib_id "Mechanical:MountingHole_Pad") (at 760.73 340.36 90) (mirror x) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 00000000-0000-0000-0000-00005f47ef0b)
-    (property "Reference" "H5" (at 756.92 339.1916 90)
+    (property "Reference" "H10" (at 756.92 339.1916 90)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "MountingHole_Pad" (at 756.92 341.503 90)
@@ -6074,7 +6074,7 @@
     (instances
       (project "Europe-ergo"
         (path "/95af97f8-b0d4-471d-a7e2-0d2b460f21a8"
-          (reference "H5") (unit 1)
+          (reference "H10") (unit 1)
         )
       )
     )
@@ -6083,7 +6083,7 @@
   (symbol (lib_id "Mechanical:MountingHole_Pad") (at 760.73 345.44 90) (mirror x) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 00000000-0000-0000-0000-00005f47ef11)
-    (property "Reference" "H6" (at 756.92 344.2716 90)
+    (property "Reference" "H12" (at 756.92 344.2716 90)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "MountingHole_Pad" (at 756.92 346.583 90)
@@ -6099,7 +6099,7 @@
     (instances
       (project "Europe-ergo"
         (path "/95af97f8-b0d4-471d-a7e2-0d2b460f21a8"
-          (reference "H6") (unit 1)
+          (reference "H12") (unit 1)
         )
       )
     )
@@ -6108,7 +6108,7 @@
   (symbol (lib_id "Mechanical:MountingHole_Pad") (at 760.73 351.79 90) (mirror x) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 00000000-0000-0000-0000-00005f47ef17)
-    (property "Reference" "H7" (at 756.92 350.6216 90)
+    (property "Reference" "H14" (at 756.92 350.6216 90)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "MountingHole_Pad" (at 756.92 352.933 90)
@@ -6124,7 +6124,7 @@
     (instances
       (project "Europe-ergo"
         (path "/95af97f8-b0d4-471d-a7e2-0d2b460f21a8"
-          (reference "H7") (unit 1)
+          (reference "H14") (unit 1)
         )
       )
     )
@@ -6133,7 +6133,7 @@
   (symbol (lib_id "Mechanical:MountingHole_Pad") (at 760.73 358.14 90) (mirror x) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 00000000-0000-0000-0000-00005f47ef1d)
-    (property "Reference" "H8" (at 756.92 356.9716 90)
+    (property "Reference" "H16" (at 756.92 356.9716 90)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "MountingHole_Pad" (at 756.92 359.283 90)
@@ -6149,7 +6149,7 @@
     (instances
       (project "Europe-ergo"
         (path "/95af97f8-b0d4-471d-a7e2-0d2b460f21a8"
-          (reference "H8") (unit 1)
+          (reference "H16") (unit 1)
         )
       )
     )
@@ -6158,7 +6158,7 @@
   (symbol (lib_id "Diode:1N4148") (at 727.71 241.3 0) (mirror x) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 00000000-0000-0000-0000-00005f4d3e07)
-    (property "Reference" "D18" (at 727.71 235.7882 0)
+    (property "Reference" "D99" (at 727.71 235.7882 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "1N4148" (at 727.71 238.0996 0)
@@ -6175,7 +6175,7 @@
     (instances
       (project "Europe-ergo"
         (path "/95af97f8-b0d4-471d-a7e2-0d2b460f21a8"
-          (reference "D18") (unit 1)
+          (reference "D99") (unit 1)
         )
       )
     )
@@ -6184,7 +6184,7 @@
   (symbol (lib_id "Diode:1N4148") (at 728.98 210.82 0) (mirror x) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 00000000-0000-0000-0000-00005f4d54c6)
-    (property "Reference" "D16" (at 728.98 205.3082 0)
+    (property "Reference" "D84" (at 728.98 205.3082 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "1N4148" (at 728.98 207.6196 0)
@@ -6201,7 +6201,7 @@
     (instances
       (project "Europe-ergo"
         (path "/95af97f8-b0d4-471d-a7e2-0d2b460f21a8"
-          (reference "D16") (unit 1)
+          (reference "D84") (unit 1)
         )
       )
     )
@@ -6210,7 +6210,7 @@
   (symbol (lib_id "Diode:1N4148") (at 727.71 176.53 0) (mirror x) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 00000000-0000-0000-0000-00005f4dbe05)
-    (property "Reference" "D17" (at 727.71 171.0182 0)
+    (property "Reference" "D68" (at 727.71 171.0182 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "1N4148" (at 727.71 173.3296 0)
@@ -6227,7 +6227,7 @@
     (instances
       (project "Europe-ergo"
         (path "/95af97f8-b0d4-471d-a7e2-0d2b460f21a8"
-          (reference "D17") (unit 1)
+          (reference "D68") (unit 1)
         )
       )
     )
@@ -6236,7 +6236,7 @@
   (symbol (lib_id "Diode:1N4148") (at 728.98 139.7 0) (mirror x) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 00000000-0000-0000-0000-00005f4de166)
-    (property "Reference" "D15" (at 728.98 134.1882 0)
+    (property "Reference" "D52" (at 728.98 134.1882 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "1N4148" (at 728.98 136.4996 0)
@@ -6253,7 +6253,7 @@
     (instances
       (project "Europe-ergo"
         (path "/95af97f8-b0d4-471d-a7e2-0d2b460f21a8"
-          (reference "D15") (unit 1)
+          (reference "D52") (unit 1)
         )
       )
     )
@@ -6262,7 +6262,7 @@
   (symbol (lib_id "Diode:1N4148") (at 728.98 100.33 0) (mirror x) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 00000000-0000-0000-0000-00005f4e0c66)
-    (property "Reference" "D14" (at 728.98 94.8182 0)
+    (property "Reference" "D30" (at 728.98 94.8182 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "1N4148" (at 728.98 97.1296 0)
@@ -6279,7 +6279,7 @@
     (instances
       (project "Europe-ergo"
         (path "/95af97f8-b0d4-471d-a7e2-0d2b460f21a8"
-          (reference "D14") (unit 1)
+          (reference "D30") (unit 1)
         )
       )
     )
@@ -6288,7 +6288,7 @@
   (symbol (lib_id "Diode:1N4148") (at 730.25 60.96 0) (mirror x) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 00000000-0000-0000-0000-00005f4e4091)
-    (property "Reference" "D13" (at 730.25 55.4482 0)
+    (property "Reference" "D10" (at 730.25 55.4482 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "1N4148" (at 730.25 57.7596 0)
@@ -6305,7 +6305,7 @@
     (instances
       (project "Europe-ergo"
         (path "/95af97f8-b0d4-471d-a7e2-0d2b460f21a8"
-          (reference "D13") (unit 1)
+          (reference "D10") (unit 1)
         )
       )
     )
@@ -6314,7 +6314,7 @@
   (symbol (lib_id "Diode:1N4148") (at 704.85 64.77 0) (mirror x) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 00000000-0000-0000-0000-00005f52f7c6)
-    (property "Reference" "D19" (at 704.85 59.2582 0)
+    (property "Reference" "D14" (at 704.85 59.2582 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "1N4148" (at 704.85 61.5696 0)
@@ -6331,7 +6331,7 @@
     (instances
       (project "Europe-ergo"
         (path "/95af97f8-b0d4-471d-a7e2-0d2b460f21a8"
-          (reference "D19") (unit 1)
+          (reference "D14") (unit 1)
         )
       )
     )
@@ -6340,7 +6340,7 @@
   (symbol (lib_id "Diode:1N4148") (at 703.58 100.33 0) (mirror x) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 00000000-0000-0000-0000-00005f53cfc5)
-    (property "Reference" "D20" (at 703.58 94.8182 0)
+    (property "Reference" "D29" (at 703.58 94.8182 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "1N4148" (at 703.58 97.1296 0)
@@ -6357,7 +6357,7 @@
     (instances
       (project "Europe-ergo"
         (path "/95af97f8-b0d4-471d-a7e2-0d2b460f21a8"
-          (reference "D20") (unit 1)
+          (reference "D29") (unit 1)
         )
       )
     )
@@ -6366,7 +6366,7 @@
   (symbol (lib_id "Diode:1N4148") (at 703.58 176.53 0) (mirror x) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 00000000-0000-0000-0000-00005f53fb64)
-    (property "Reference" "D22" (at 703.58 171.0182 0)
+    (property "Reference" "D67" (at 703.58 171.0182 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "1N4148" (at 703.58 173.3296 0)
@@ -6383,7 +6383,7 @@
     (instances
       (project "Europe-ergo"
         (path "/95af97f8-b0d4-471d-a7e2-0d2b460f21a8"
-          (reference "D22") (unit 1)
+          (reference "D67") (unit 1)
         )
       )
     )
@@ -6392,7 +6392,7 @@
   (symbol (lib_id "Diode:1N4148") (at 703.58 210.82 0) (mirror x) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 00000000-0000-0000-0000-00005f5431f1)
-    (property "Reference" "D23" (at 703.58 205.3082 0)
+    (property "Reference" "D83" (at 703.58 205.3082 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "1N4148" (at 703.58 207.6196 0)
@@ -6409,7 +6409,7 @@
     (instances
       (project "Europe-ergo"
         (path "/95af97f8-b0d4-471d-a7e2-0d2b460f21a8"
-          (reference "D23") (unit 1)
+          (reference "D83") (unit 1)
         )
       )
     )
@@ -6418,7 +6418,7 @@
   (symbol (lib_id "Diode:1N4148") (at 703.58 243.84 0) (mirror x) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 00000000-0000-0000-0000-00005f545e0b)
-    (property "Reference" "D24" (at 703.58 238.3282 0)
+    (property "Reference" "D102" (at 703.58 238.3282 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "1N4148" (at 703.58 240.6396 0)
@@ -6435,7 +6435,7 @@
     (instances
       (project "Europe-ergo"
         (path "/95af97f8-b0d4-471d-a7e2-0d2b460f21a8"
-          (reference "D24") (unit 1)
+          (reference "D102") (unit 1)
         )
       )
     )
@@ -6444,7 +6444,7 @@
   (symbol (lib_id "Diode:1N4148") (at 703.58 140.97 0) (mirror x) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 00000000-0000-0000-0000-00005f57e51e)
-    (property "Reference" "D21" (at 703.58 135.4582 0)
+    (property "Reference" "D54" (at 703.58 135.4582 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "1N4148" (at 703.58 137.7696 0)
@@ -6461,7 +6461,7 @@
     (instances
       (project "Europe-ergo"
         (path "/95af97f8-b0d4-471d-a7e2-0d2b460f21a8"
-          (reference "D21") (unit 1)
+          (reference "D54") (unit 1)
         )
       )
     )
@@ -6470,7 +6470,7 @@
   (symbol (lib_id "Diode:1N4148") (at 680.72 242.57 0) (mirror x) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 00000000-0000-0000-0000-00005f5bb9b5)
-    (property "Reference" "D30" (at 680.72 237.0582 0)
+    (property "Reference" "D101" (at 680.72 237.0582 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "1N4148" (at 680.72 239.3696 0)
@@ -6487,7 +6487,7 @@
     (instances
       (project "Europe-ergo"
         (path "/95af97f8-b0d4-471d-a7e2-0d2b460f21a8"
-          (reference "D30") (unit 1)
+          (reference "D101") (unit 1)
         )
       )
     )
@@ -6496,7 +6496,7 @@
   (symbol (lib_id "Diode:1N4148") (at 680.72 210.82 0) (mirror x) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 00000000-0000-0000-0000-00005f5bcf1a)
-    (property "Reference" "D29" (at 680.72 205.3082 0)
+    (property "Reference" "D82" (at 680.72 205.3082 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "1N4148" (at 680.72 207.6196 0)
@@ -6513,7 +6513,7 @@
     (instances
       (project "Europe-ergo"
         (path "/95af97f8-b0d4-471d-a7e2-0d2b460f21a8"
-          (reference "D29") (unit 1)
+          (reference "D82") (unit 1)
         )
       )
     )
@@ -6522,7 +6522,7 @@
   (symbol (lib_id "Diode:1N4148") (at 680.72 175.26 0) (mirror x) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 00000000-0000-0000-0000-00005f5bfdec)
-    (property "Reference" "D28" (at 680.72 169.7482 0)
+    (property "Reference" "D66" (at 680.72 169.7482 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "1N4148" (at 680.72 172.0596 0)
@@ -6539,7 +6539,7 @@
     (instances
       (project "Europe-ergo"
         (path "/95af97f8-b0d4-471d-a7e2-0d2b460f21a8"
-          (reference "D28") (unit 1)
+          (reference "D66") (unit 1)
         )
       )
     )
@@ -6548,7 +6548,7 @@
   (symbol (lib_id "Diode:1N4148") (at 681.99 140.97 0) (mirror x) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 00000000-0000-0000-0000-00005f5c4c45)
-    (property "Reference" "D26" (at 681.99 135.4582 0)
+    (property "Reference" "D53" (at 681.99 135.4582 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "1N4148" (at 681.99 137.7696 0)
@@ -6565,7 +6565,7 @@
     (instances
       (project "Europe-ergo"
         (path "/95af97f8-b0d4-471d-a7e2-0d2b460f21a8"
-          (reference "D26") (unit 1)
+          (reference "D53") (unit 1)
         )
       )
     )
@@ -6574,7 +6574,7 @@
   (symbol (lib_id "Diode:1N4148") (at 680.72 100.33 0) (mirror x) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 00000000-0000-0000-0000-00005f5c844a)
-    (property "Reference" "D27" (at 680.72 94.8182 0)
+    (property "Reference" "D28" (at 680.72 94.8182 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "1N4148" (at 680.72 97.1296 0)
@@ -6591,7 +6591,7 @@
     (instances
       (project "Europe-ergo"
         (path "/95af97f8-b0d4-471d-a7e2-0d2b460f21a8"
-          (reference "D27") (unit 1)
+          (reference "D28") (unit 1)
         )
       )
     )
@@ -6600,7 +6600,7 @@
   (symbol (lib_id "Diode:1N4148") (at 683.26 64.77 0) (mirror x) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 00000000-0000-0000-0000-00005f5ccdba)
-    (property "Reference" "D25" (at 683.26 59.2582 0)
+    (property "Reference" "D13" (at 683.26 59.2582 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "1N4148" (at 683.26 61.5696 0)
@@ -6617,7 +6617,7 @@
     (instances
       (project "Europe-ergo"
         (path "/95af97f8-b0d4-471d-a7e2-0d2b460f21a8"
-          (reference "D25") (unit 1)
+          (reference "D13") (unit 1)
         )
       )
     )
@@ -6626,7 +6626,7 @@
   (symbol (lib_id "Diode:1N4148") (at 656.59 210.82 0) (mirror x) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 00000000-0000-0000-0000-00005f645ddf)
-    (property "Reference" "D35" (at 656.59 205.3082 0)
+    (property "Reference" "D81" (at 656.59 205.3082 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "1N4148" (at 656.59 207.6196 0)
@@ -6643,7 +6643,7 @@
     (instances
       (project "Europe-ergo"
         (path "/95af97f8-b0d4-471d-a7e2-0d2b460f21a8"
-          (reference "D35") (unit 1)
+          (reference "D81") (unit 1)
         )
       )
     )
@@ -6652,7 +6652,7 @@
   (symbol (lib_id "Diode:1N4148") (at 656.59 175.26 0) (mirror x) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 00000000-0000-0000-0000-00005f65aec1)
-    (property "Reference" "D34" (at 656.59 169.7482 0)
+    (property "Reference" "D65" (at 656.59 169.7482 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "1N4148" (at 656.59 172.0596 0)
@@ -6669,7 +6669,7 @@
     (instances
       (project "Europe-ergo"
         (path "/95af97f8-b0d4-471d-a7e2-0d2b460f21a8"
-          (reference "D34") (unit 1)
+          (reference "D65") (unit 1)
         )
       )
     )
@@ -6678,7 +6678,7 @@
   (symbol (lib_id "Diode:1N4148") (at 656.59 138.43 0) (mirror x) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 00000000-0000-0000-0000-00005f66e6e3)
-    (property "Reference" "D33" (at 656.59 132.9182 0)
+    (property "Reference" "D49" (at 656.59 132.9182 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "1N4148" (at 656.59 135.2296 0)
@@ -6695,7 +6695,7 @@
     (instances
       (project "Europe-ergo"
         (path "/95af97f8-b0d4-471d-a7e2-0d2b460f21a8"
-          (reference "D33") (unit 1)
+          (reference "D49") (unit 1)
         )
       )
     )
@@ -6704,7 +6704,7 @@
   (symbol (lib_id "Diode:1N4148") (at 656.59 100.33 0) (mirror x) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 00000000-0000-0000-0000-00005f684836)
-    (property "Reference" "D32" (at 656.59 94.8182 0)
+    (property "Reference" "D27" (at 656.59 94.8182 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "1N4148" (at 656.59 97.1296 0)
@@ -6721,7 +6721,7 @@
     (instances
       (project "Europe-ergo"
         (path "/95af97f8-b0d4-471d-a7e2-0d2b460f21a8"
-          (reference "D32") (unit 1)
+          (reference "D27") (unit 1)
         )
       )
     )
@@ -6730,7 +6730,7 @@
   (symbol (lib_id "Diode:1N4148") (at 657.86 60.96 0) (mirror x) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 00000000-0000-0000-0000-00005f69de34)
-    (property "Reference" "D31" (at 657.86 55.4482 0)
+    (property "Reference" "D9" (at 657.86 55.4482 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "1N4148" (at 657.86 57.7596 0)
@@ -6747,7 +6747,7 @@
     (instances
       (project "Europe-ergo"
         (path "/95af97f8-b0d4-471d-a7e2-0d2b460f21a8"
-          (reference "D31") (unit 1)
+          (reference "D9") (unit 1)
         )
       )
     )
@@ -6756,7 +6756,7 @@
   (symbol (lib_id "Diode:1N4148") (at 633.73 213.36 0) (mirror x) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 00000000-0000-0000-0000-00005f71817d)
-    (property "Reference" "D39" (at 633.73 207.8482 0)
+    (property "Reference" "D86" (at 633.73 207.8482 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "1N4148" (at 633.73 210.1596 0)
@@ -6773,7 +6773,7 @@
     (instances
       (project "Europe-ergo"
         (path "/95af97f8-b0d4-471d-a7e2-0d2b460f21a8"
-          (reference "D39") (unit 1)
+          (reference "D86") (unit 1)
         )
       )
     )
@@ -6782,7 +6782,7 @@
   (symbol (lib_id "Diode:1N4148") (at 632.46 175.26 0) (mirror x) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 00000000-0000-0000-0000-00005f718c72)
-    (property "Reference" "D41" (at 632.46 169.7482 0)
+    (property "Reference" "D64" (at 632.46 169.7482 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "1N4148" (at 632.46 172.0596 0)
@@ -6799,7 +6799,7 @@
     (instances
       (project "Europe-ergo"
         (path "/95af97f8-b0d4-471d-a7e2-0d2b460f21a8"
-          (reference "D41") (unit 1)
+          (reference "D64") (unit 1)
         )
       )
     )
@@ -6808,7 +6808,7 @@
   (symbol (lib_id "Diode:1N4148") (at 632.46 138.43 0) (mirror x) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 00000000-0000-0000-0000-00005f71c7bd)
-    (property "Reference" "D40" (at 632.46 132.9182 0)
+    (property "Reference" "D48" (at 632.46 132.9182 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "1N4148" (at 632.46 135.2296 0)
@@ -6825,7 +6825,7 @@
     (instances
       (project "Europe-ergo"
         (path "/95af97f8-b0d4-471d-a7e2-0d2b460f21a8"
-          (reference "D40") (unit 1)
+          (reference "D48") (unit 1)
         )
       )
     )
@@ -6834,7 +6834,7 @@
   (symbol (lib_id "Diode:1N4148") (at 633.73 100.33 0) (mirror x) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 00000000-0000-0000-0000-00005f720680)
-    (property "Reference" "D38" (at 633.73 94.8182 0)
+    (property "Reference" "D26" (at 633.73 94.8182 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "1N4148" (at 633.73 97.1296 0)
@@ -6851,7 +6851,7 @@
     (instances
       (project "Europe-ergo"
         (path "/95af97f8-b0d4-471d-a7e2-0d2b460f21a8"
-          (reference "D38") (unit 1)
+          (reference "D26") (unit 1)
         )
       )
     )
@@ -6860,7 +6860,7 @@
   (symbol (lib_id "Diode:1N4148") (at 635 60.96 0) (mirror x) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 00000000-0000-0000-0000-00005f7258b9)
-    (property "Reference" "D37" (at 635 55.4482 0)
+    (property "Reference" "D8" (at 635 55.4482 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "1N4148" (at 635 57.7596 0)
@@ -6877,7 +6877,7 @@
     (instances
       (project "Europe-ergo"
         (path "/95af97f8-b0d4-471d-a7e2-0d2b460f21a8"
-          (reference "D37") (unit 1)
+          (reference "D8") (unit 1)
         )
       )
     )
@@ -6886,7 +6886,7 @@
   (symbol (lib_id "Diode:1N4148") (at 605.79 96.52 0) (mirror x) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 00000000-0000-0000-0000-00005f72b01c)
-    (property "Reference" "D42" (at 605.79 91.0082 0)
+    (property "Reference" "D18" (at 605.79 91.0082 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "1N4148" (at 605.79 93.3196 0)
@@ -6903,7 +6903,7 @@
     (instances
       (project "Europe-ergo"
         (path "/95af97f8-b0d4-471d-a7e2-0d2b460f21a8"
-          (reference "D42") (unit 1)
+          (reference "D18") (unit 1)
         )
       )
     )
@@ -6912,7 +6912,7 @@
   (symbol (lib_id "Diode:1N4148") (at 604.52 135.89 0) (mirror x) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 00000000-0000-0000-0000-00005f72bde6)
-    (property "Reference" "D43" (at 604.52 130.3782 0)
+    (property "Reference" "D42" (at 604.52 130.3782 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "1N4148" (at 604.52 132.6896 0)
@@ -6929,7 +6929,7 @@
     (instances
       (project "Europe-ergo"
         (path "/95af97f8-b0d4-471d-a7e2-0d2b460f21a8"
-          (reference "D43") (unit 1)
+          (reference "D42") (unit 1)
         )
       )
     )
@@ -6938,7 +6938,7 @@
   (symbol (lib_id "Diode:1N4148") (at 603.25 207.01 0) (mirror x) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 00000000-0000-0000-0000-00005f734136)
-    (property "Reference" "D45" (at 603.25 201.4982 0)
+    (property "Reference" "D74" (at 603.25 201.4982 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "1N4148" (at 603.25 203.8096 0)
@@ -6955,7 +6955,7 @@
     (instances
       (project "Europe-ergo"
         (path "/95af97f8-b0d4-471d-a7e2-0d2b460f21a8"
-          (reference "D45") (unit 1)
+          (reference "D74") (unit 1)
         )
       )
     )
@@ -6964,7 +6964,7 @@
   (symbol (lib_id "Diode:1N4148") (at 574.04 207.01 0) (mirror x) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 00000000-0000-0000-0000-00005f7e4016)
-    (property "Reference" "D46" (at 574.04 201.4982 0)
+    (property "Reference" "D73" (at 574.04 201.4982 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "1N4148" (at 574.04 203.8096 0)
@@ -6981,7 +6981,7 @@
     (instances
       (project "Europe-ergo"
         (path "/95af97f8-b0d4-471d-a7e2-0d2b460f21a8"
-          (reference "D46") (unit 1)
+          (reference "D73") (unit 1)
         )
       )
     )
@@ -6990,7 +6990,7 @@
   (symbol (lib_id "Diode:1N4148") (at 652.78 238.76 0) (mirror x) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 00000000-0000-0000-0000-00005f7e7543)
-    (property "Reference" "D36" (at 652.78 233.2482 0)
+    (property "Reference" "D94" (at 652.78 233.2482 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "1N4148" (at 652.78 235.5596 0)
@@ -7007,7 +7007,7 @@
     (instances
       (project "Europe-ergo"
         (path "/95af97f8-b0d4-471d-a7e2-0d2b460f21a8"
-          (reference "D36") (unit 1)
+          (reference "D94") (unit 1)
         )
       )
     )
@@ -7016,7 +7016,7 @@
   (symbol (lib_id "Diode:1N4148") (at 604.52 238.76 0) (mirror x) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 00000000-0000-0000-0000-00005f7e8088)
-    (property "Reference" "D44" (at 604.52 233.2482 0)
+    (property "Reference" "D93" (at 604.52 233.2482 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "1N4148" (at 604.52 235.5596 0)
@@ -7033,7 +7033,7 @@
     (instances
       (project "Europe-ergo"
         (path "/95af97f8-b0d4-471d-a7e2-0d2b460f21a8"
-          (reference "D44") (unit 1)
+          (reference "D93") (unit 1)
         )
       )
     )
@@ -7042,7 +7042,7 @@
   (symbol (lib_id "Diode:1N4148") (at 574.04 238.76 0) (mirror x) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 00000000-0000-0000-0000-00005f7e8ad4)
-    (property "Reference" "D47" (at 574.04 233.2482 0)
+    (property "Reference" "D92" (at 574.04 233.2482 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "1N4148" (at 574.04 235.5596 0)
@@ -7059,7 +7059,7 @@
     (instances
       (project "Europe-ergo"
         (path "/95af97f8-b0d4-471d-a7e2-0d2b460f21a8"
-          (reference "D47") (unit 1)
+          (reference "D92") (unit 1)
         )
       )
     )
@@ -7068,7 +7068,7 @@
   (symbol (lib_id "Device:LED") (at 492.76 134.62 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 0008e4ab-5c4c-4ab9-8d90-82928e5a5301)
-    (property "Reference" "D49" (at 496.57 134.9374 90)
+    (property "Reference" "D39" (at 496.57 134.9374 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Value" "LTL-4233 " (at 496.57 137.4774 90)
@@ -7085,7 +7085,7 @@
     (instances
       (project "Europe-ergo"
         (path "/95af97f8-b0d4-471d-a7e2-0d2b460f21a8"
-          (reference "D49") (unit 1)
+          (reference "D39") (unit 1)
         )
       )
     )
@@ -7094,7 +7094,7 @@
   (symbol (lib_id "pcb-flat-left-rescue:MX-NO-LED-keyboard2-pcb-flat-right-rescue") (at 125.73 229.87 270) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 0378d9db-4ca8-4949-b322-e7bad8befa54)
-    (property "Reference" "SW74" (at 130.2512 229.87 90)
+    (property "Reference" "SW84" (at 130.2512 229.87 90)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "MX1A-G1NN" (at 118.11 229.87 0)
@@ -7111,7 +7111,7 @@
     (instances
       (project "Europe-ergo"
         (path "/95af97f8-b0d4-471d-a7e2-0d2b460f21a8"
-          (reference "SW74") (unit 1)
+          (reference "SW84") (unit 1)
         )
       )
     )
@@ -7120,7 +7120,7 @@
   (symbol (lib_id "pcb-flat-left-rescue:MX-NO-LED-keyboard2-pcb-flat-right-rescue") (at 73.66 162.56 270) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 03fb5c70-16d7-4e0b-9ff7-c4c4d41bb0e2)
-    (property "Reference" "SW85" (at 78.1812 162.56 90)
+    (property "Reference" "SW50" (at 78.1812 162.56 90)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "MX1A-G1NN" (at 66.04 162.56 0)
@@ -7137,7 +7137,7 @@
     (instances
       (project "Europe-ergo"
         (path "/95af97f8-b0d4-471d-a7e2-0d2b460f21a8"
-          (reference "SW85") (unit 1)
+          (reference "SW50") (unit 1)
         )
       )
     )
@@ -7146,7 +7146,7 @@
   (symbol (lib_id "pcb-flat-left-rescue:MX-NO-LED-keyboard2-pcb-flat-right-rescue") (at 146.05 87.63 270) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 08897bad-a2d9-4faf-a695-1e327e06e411)
-    (property "Reference" "SW69" (at 150.5712 87.63 90)
+    (property "Reference" "SW21" (at 150.5712 87.63 90)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "MX1A-G1NN" (at 138.43 87.63 0)
@@ -7163,7 +7163,7 @@
     (instances
       (project "Europe-ergo"
         (path "/95af97f8-b0d4-471d-a7e2-0d2b460f21a8"
-          (reference "SW69") (unit 1)
+          (reference "SW21") (unit 1)
         )
       )
     )
@@ -7172,7 +7172,7 @@
   (symbol (lib_id "Device:LED") (at 519.43 134.62 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 09b9a780-5f07-4191-b7cc-d5552208cb7c)
-    (property "Reference" "D50" (at 523.24 134.9374 90)
+    (property "Reference" "D40" (at 523.24 134.9374 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Value" "LTL-4233 " (at 523.24 137.4774 90)
@@ -7189,7 +7189,7 @@
     (instances
       (project "Europe-ergo"
         (path "/95af97f8-b0d4-471d-a7e2-0d2b460f21a8"
-          (reference "D50") (unit 1)
+          (reference "D40") (unit 1)
         )
       )
     )
@@ -7198,7 +7198,7 @@
   (symbol (lib_id "pcb-flat-left-rescue:MX-NO-LED-keyboard2-pcb-flat-right-rescue") (at 167.64 50.8 270) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 0d5de505-74c9-41f8-a06c-5848e7e6b9f0)
-    (property "Reference" "SW66" (at 172.1612 50.8 90)
+    (property "Reference" "SW6" (at 172.1612 50.8 90)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "MX1A-G1NN" (at 160.02 50.8 0)
@@ -7215,7 +7215,7 @@
     (instances
       (project "Europe-ergo"
         (path "/95af97f8-b0d4-471d-a7e2-0d2b460f21a8"
-          (reference "SW66") (unit 1)
+          (reference "SW6") (unit 1)
         )
       )
     )
@@ -7224,7 +7224,7 @@
   (symbol (lib_id "pcb-flat-left-rescue:MX-NO-LED-keyboard2-pcb-flat-right-rescue") (at 100.33 87.63 270) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 0d5e33ad-3113-45b9-9d2c-1ab8d3c98a1f)
-    (property "Reference" "SW81" (at 104.8512 87.63 90)
+    (property "Reference" "SW19" (at 104.8512 87.63 90)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "MX1A-G1NN" (at 92.71 87.63 0)
@@ -7241,7 +7241,7 @@
     (instances
       (project "Europe-ergo"
         (path "/95af97f8-b0d4-471d-a7e2-0d2b460f21a8"
-          (reference "SW81") (unit 1)
+          (reference "SW19") (unit 1)
         )
       )
     )
@@ -7250,7 +7250,7 @@
   (symbol (lib_id "pcb-flat-left-rescue:MX-NO-LED-keyboard2-pcb-flat-right-rescue") (at 218.44 127 270) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 0f2d89ce-d849-4a4c-8fb5-d057952fd461)
-    (property "Reference" "SW53" (at 222.9612 127 90)
+    (property "Reference" "SW40" (at 222.9612 127 90)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "MX1A-G1NN" (at 210.82 127 0)
@@ -7267,7 +7267,7 @@
     (instances
       (project "Europe-ergo"
         (path "/95af97f8-b0d4-471d-a7e2-0d2b460f21a8"
-          (reference "SW53") (unit 1)
+          (reference "SW40") (unit 1)
         )
       )
     )
@@ -7276,7 +7276,7 @@
   (symbol (lib_id "pcb-flat-left-rescue:MX-NO-LED-keyboard2-pcb-flat-right-rescue") (at 72.39 127 270) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 0f76f862-c76a-4381-addc-ea6c4275e5aa)
-    (property "Reference" "SW88" (at 76.9112 127 90)
+    (property "Reference" "SW34" (at 76.9112 127 90)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "MX1A-G1NN" (at 64.77 127 0)
@@ -7293,7 +7293,7 @@
     (instances
       (project "Europe-ergo"
         (path "/95af97f8-b0d4-471d-a7e2-0d2b460f21a8"
-          (reference "SW88") (unit 1)
+          (reference "SW34") (unit 1)
         )
       )
     )
@@ -7302,7 +7302,7 @@
   (symbol (lib_id "Diode:1N4148") (at 151.13 139.7 180) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 111eed34-8297-4ca8-9607-0a108fc9fd98)
-    (property "Reference" "D77" (at 151.13 134.1882 0)
+    (property "Reference" "D51" (at 151.13 134.1882 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "1N4148" (at 151.13 136.4996 0)
@@ -7319,7 +7319,7 @@
     (instances
       (project "Europe-ergo"
         (path "/95af97f8-b0d4-471d-a7e2-0d2b460f21a8"
-          (reference "D77") (unit 1)
+          (reference "D51") (unit 1)
         )
       )
     )
@@ -7328,7 +7328,7 @@
   (symbol (lib_id "pcb-flat-left-rescue:MX-NO-LED-keyboard2-pcb-flat-right-rescue") (at 46.99 87.63 270) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 14333cd9-812b-4111-8e3f-96ebc1593820)
-    (property "Reference" "SW93" (at 51.5112 87.63 90)
+    (property "Reference" "SW17" (at 51.5112 87.63 90)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "MX1A-G1NN" (at 39.37 87.63 0)
@@ -7345,7 +7345,7 @@
     (instances
       (project "Europe-ergo"
         (path "/95af97f8-b0d4-471d-a7e2-0d2b460f21a8"
-          (reference "SW93") (unit 1)
+          (reference "SW17") (unit 1)
         )
       )
     )
@@ -7354,7 +7354,7 @@
   (symbol (lib_id "Diode:1N4148") (at 176.53 209.55 180) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 1a3f4eea-23d2-41a3-b2d5-064d78bc69fe)
-    (property "Reference" "D71" (at 176.53 204.0382 0)
+    (property "Reference" "D80" (at 176.53 204.0382 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "1N4148" (at 176.53 206.3496 0)
@@ -7371,7 +7371,7 @@
     (instances
       (project "Europe-ergo"
         (path "/95af97f8-b0d4-471d-a7e2-0d2b460f21a8"
-          (reference "D71") (unit 1)
+          (reference "D80") (unit 1)
         )
       )
     )
@@ -7380,7 +7380,7 @@
   (symbol (lib_id "Device:LED") (at 372.11 134.62 270) (mirror x) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 1c0091b9-f935-4435-a307-1e2c5056028c)
-    (property "Reference" "D52" (at 365.633 134.7978 0)
+    (property "Reference" "D37" (at 365.633 134.7978 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "LTL-4233 " (at 367.9444 134.7978 0)
@@ -7397,7 +7397,7 @@
     (instances
       (project "Europe-ergo"
         (path "/95af97f8-b0d4-471d-a7e2-0d2b460f21a8"
-          (reference "D52") (unit 1)
+          (reference "D37") (unit 1)
         )
       )
     )
@@ -7406,7 +7406,7 @@
   (symbol (lib_id "MCU_RaspberryPi_and_Boards:Pico") (at 485.14 64.77 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 1ee01fdb-a5f3-4a9a-a5af-168c7d0b05f9)
-    (property "Reference" "U1" (at 485.14 33.02 0)
+    (property "Reference" "U2" (at 485.14 33.02 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "SC0915" (at 485.14 35.56 0)
@@ -7464,7 +7464,7 @@
     (instances
       (project "Europe-ergo"
         (path "/95af97f8-b0d4-471d-a7e2-0d2b460f21a8"
-          (reference "U1") (unit 1)
+          (reference "U2") (unit 1)
         )
       )
     )
@@ -7473,7 +7473,7 @@
   (symbol (lib_id "pcb-flat-left-rescue:MX-NO-LED-keyboard2-pcb-flat-right-rescue") (at 124.46 198.12 270) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 206a702c-d20a-40eb-a4eb-7d97ab634fd4)
-    (property "Reference" "SW77" (at 128.9812 198.12 90)
+    (property "Reference" "SW66" (at 128.9812 198.12 90)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "MX1A-G1NN" (at 116.84 198.12 0)
@@ -7490,7 +7490,7 @@
     (instances
       (project "Europe-ergo"
         (path "/95af97f8-b0d4-471d-a7e2-0d2b460f21a8"
-          (reference "SW77") (unit 1)
+          (reference "SW66") (unit 1)
         )
       )
     )
@@ -7499,7 +7499,7 @@
   (symbol (lib_id "pcb-flat-left-rescue:MX-NO-LED-keyboard2-pcb-flat-right-rescue") (at 171.45 198.12 270) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 21854156-bc45-4eeb-84c6-688662de723c)
-    (property "Reference" "SW64" (at 175.9712 198.12 90)
+    (property "Reference" "SW68" (at 175.9712 198.12 90)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "MX1A-G1NN" (at 163.83 198.12 0)
@@ -7516,7 +7516,7 @@
     (instances
       (project "Europe-ergo"
         (path "/95af97f8-b0d4-471d-a7e2-0d2b460f21a8"
-          (reference "SW64") (unit 1)
+          (reference "SW68") (unit 1)
         )
       )
     )
@@ -7525,7 +7525,7 @@
   (symbol (lib_id "pcb-flat-left-rescue:MX-NO-LED-keyboard2-pcb-flat-right-rescue") (at 101.6 162.56 270) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 23f09cbe-8c7f-4d0e-ab60-b0ae864ff7b5)
-    (property "Reference" "SW79" (at 106.1212 162.56 90)
+    (property "Reference" "SW51" (at 106.1212 162.56 90)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "MX1A-G1NN" (at 93.98 162.56 0)
@@ -7542,7 +7542,7 @@
     (instances
       (project "Europe-ergo"
         (path "/95af97f8-b0d4-471d-a7e2-0d2b460f21a8"
-          (reference "SW79") (unit 1)
+          (reference "SW51") (unit 1)
         )
       )
     )
@@ -7551,7 +7551,7 @@
   (symbol (lib_id "pcb-flat-left-rescue:MX-NO-LED-keyboard2-pcb-flat-right-rescue") (at 142.24 50.8 270) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 2412f4ea-a4e5-4dfe-956f-500adc6a5eeb)
-    (property "Reference" "SW72" (at 146.7612 50.8 90)
+    (property "Reference" "SW5" (at 146.7612 50.8 90)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "MX1A-G1NN" (at 134.62 50.8 0)
@@ -7568,7 +7568,7 @@
     (instances
       (project "Europe-ergo"
         (path "/95af97f8-b0d4-471d-a7e2-0d2b460f21a8"
-          (reference "SW72") (unit 1)
+          (reference "SW5") (unit 1)
         )
       )
     )
@@ -7577,7 +7577,7 @@
   (symbol (lib_id "Diode:1N4148") (at 104.14 99.06 180) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 246f7f9f-7052-4105-9ebc-26681da21745)
-    (property "Reference" "D87" (at 104.14 93.5482 0)
+    (property "Reference" "D21" (at 104.14 93.5482 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "1N4148" (at 104.14 95.8596 0)
@@ -7594,7 +7594,7 @@
     (instances
       (project "Europe-ergo"
         (path "/95af97f8-b0d4-471d-a7e2-0d2b460f21a8"
-          (reference "D87") (unit 1)
+          (reference "D21") (unit 1)
         )
       )
     )
@@ -7603,7 +7603,7 @@
   (symbol (lib_id "Mechanical:MountingHole_Pad") (at 78.74 340.36 270) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 26079fd2-1c5f-404d-ae6a-17811b11e499)
-    (property "Reference" "H13" (at 82.55 339.1916 90)
+    (property "Reference" "H9" (at 82.55 339.1916 90)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "MountingHole_Pad" (at 82.55 341.503 90)
@@ -7619,7 +7619,7 @@
     (instances
       (project "Europe-ergo"
         (path "/95af97f8-b0d4-471d-a7e2-0d2b460f21a8"
-          (reference "H13") (unit 1)
+          (reference "H9") (unit 1)
         )
       )
     )
@@ -7628,7 +7628,7 @@
   (symbol (lib_id "Device:R") (at 542.29 146.05 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 262ea3ac-06a7-4696-a737-b44bae5626ab)
-    (property "Reference" "R6" (at 544.83 144.7799 0)
+    (property "Reference" "R8" (at 544.83 144.7799 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "330" (at 544.83 147.3199 0)
@@ -7645,7 +7645,7 @@
     (instances
       (project "Europe-ergo"
         (path "/95af97f8-b0d4-471d-a7e2-0d2b460f21a8"
-          (reference "R6") (unit 1)
+          (reference "R8") (unit 1)
         )
       )
     )
@@ -7654,7 +7654,7 @@
   (symbol (lib_id "pcb-flat-left-rescue:MX-NO-LED-keyboard2-pcb-flat-right-rescue") (at 147.32 162.56 270) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 288cecdc-62ed-46b9-840e-dce7958bf651)
-    (property "Reference" "SW67" (at 151.8412 162.56 90)
+    (property "Reference" "SW53" (at 151.8412 162.56 90)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "MX1A-G1NN" (at 139.7 162.56 0)
@@ -7671,7 +7671,7 @@
     (instances
       (project "Europe-ergo"
         (path "/95af97f8-b0d4-471d-a7e2-0d2b460f21a8"
-          (reference "SW67") (unit 1)
+          (reference "SW53") (unit 1)
         )
       )
     )
@@ -7680,7 +7680,7 @@
   (symbol (lib_id "pcb-flat-left-rescue:MX-NO-LED-keyboard2-pcb-flat-right-rescue") (at 124.46 87.63 270) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 2a4f9e1e-6bdd-4c14-baf6-c59efd84f8e2)
-    (property "Reference" "SW75" (at 128.9812 87.63 90)
+    (property "Reference" "SW20" (at 128.9812 87.63 90)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "MX1A-G1NN" (at 116.84 87.63 0)
@@ -7697,7 +7697,7 @@
     (instances
       (project "Europe-ergo"
         (path "/95af97f8-b0d4-471d-a7e2-0d2b460f21a8"
-          (reference "SW75") (unit 1)
+          (reference "SW20") (unit 1)
         )
       )
     )
@@ -7706,7 +7706,7 @@
   (symbol (lib_id "pcb-flat-left-rescue:MX-NO-LED-keyboard2-pcb-flat-right-rescue") (at 48.26 162.56 270) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 2b0b798b-4ac5-4cec-a77b-5df71205d28c)
-    (property "Reference" "SW91" (at 52.7812 162.56 90)
+    (property "Reference" "SW49" (at 52.7812 162.56 90)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "MX1A-G1NN" (at 40.64 162.56 0)
@@ -7723,7 +7723,7 @@
     (instances
       (project "Europe-ergo"
         (path "/95af97f8-b0d4-471d-a7e2-0d2b460f21a8"
-          (reference "SW91") (unit 1)
+          (reference "SW49") (unit 1)
         )
       )
     )
@@ -7732,7 +7732,7 @@
   (symbol (lib_id "Diode:1N4148") (at 129.54 242.57 180) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 2b3a503c-dcc9-4ffe-b35e-0af1b52dc053)
-    (property "Reference" "D83" (at 129.54 237.0582 0)
+    (property "Reference" "D100" (at 129.54 237.0582 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "1N4148" (at 129.54 239.3696 0)
@@ -7749,7 +7749,7 @@
     (instances
       (project "Europe-ergo"
         (path "/95af97f8-b0d4-471d-a7e2-0d2b460f21a8"
-          (reference "D83") (unit 1)
+          (reference "D100") (unit 1)
         )
       )
     )
@@ -7758,7 +7758,7 @@
   (symbol (lib_id "MCU_RaspberryPi_and_Boards:Pico") (at 323.85 64.77 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 2bcfd741-2902-4297-b4ad-e387cdca1453)
-    (property "Reference" "U2" (at 323.85 33.02 0)
+    (property "Reference" "U1" (at 323.85 33.02 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "SC0915" (at 323.85 35.56 0)
@@ -7816,7 +7816,7 @@
     (instances
       (project "Europe-ergo"
         (path "/95af97f8-b0d4-471d-a7e2-0d2b460f21a8"
-          (reference "U2") (unit 1)
+          (reference "U1") (unit 1)
         )
       )
     )
@@ -7825,7 +7825,7 @@
   (symbol (lib_id "Diode:1N4148") (at 105.41 240.03 180) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 2d589016-d683-4eb4-9aa7-3f6fb76547bb)
-    (property "Reference" "D86" (at 105.41 234.5182 0)
+    (property "Reference" "D97" (at 105.41 234.5182 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "1N4148" (at 105.41 236.8296 0)
@@ -7842,7 +7842,7 @@
     (instances
       (project "Europe-ergo"
         (path "/95af97f8-b0d4-471d-a7e2-0d2b460f21a8"
-          (reference "D86") (unit 1)
+          (reference "D97") (unit 1)
         )
       )
     )
@@ -7851,7 +7851,7 @@
   (symbol (lib_id "Diode:1N4148") (at 262.89 237.49 180) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 2f6f740d-b4d9-4472-83a7-30c55fa16379)
-    (property "Reference" "D56" (at 262.89 231.9782 0)
+    (property "Reference" "D91" (at 262.89 231.9782 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "1N4148" (at 262.89 234.2896 0)
@@ -7868,7 +7868,7 @@
     (instances
       (project "Europe-ergo"
         (path "/95af97f8-b0d4-471d-a7e2-0d2b460f21a8"
-          (reference "D56") (unit 1)
+          (reference "D91") (unit 1)
         )
       )
     )
@@ -7877,7 +7877,7 @@
   (symbol (lib_id "Diode:1N4148") (at 128.27 63.5 180) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 322caaff-1193-41e0-9973-37f0885eaa64)
-    (property "Reference" "D84" (at 128.27 57.9882 0)
+    (property "Reference" "D11" (at 128.27 57.9882 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "1N4148" (at 128.27 60.2996 0)
@@ -7894,7 +7894,7 @@
     (instances
       (project "Europe-ergo"
         (path "/95af97f8-b0d4-471d-a7e2-0d2b460f21a8"
-          (reference "D84") (unit 1)
+          (reference "D11") (unit 1)
         )
       )
     )
@@ -7903,7 +7903,7 @@
   (symbol (lib_id "Diode:1N4148") (at 176.53 99.06 180) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 32c7594e-7702-46ee-815c-73a84549494e)
-    (property "Reference" "D68" (at 176.53 93.5482 0)
+    (property "Reference" "D24" (at 176.53 93.5482 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "1N4148" (at 176.53 95.8596 0)
@@ -7920,7 +7920,7 @@
     (instances
       (project "Europe-ergo"
         (path "/95af97f8-b0d4-471d-a7e2-0d2b460f21a8"
-          (reference "D68") (unit 1)
+          (reference "D24") (unit 1)
         )
       )
     )
@@ -7929,7 +7929,7 @@
   (symbol (lib_id "pcb-flat-left-rescue:MX-NO-LED-keyboard2-pcb-flat-right-rescue") (at 43.18 50.8 270) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 338d81f6-aa23-4412-97f4-be93090ec7ac)
-    (property "Reference" "SW96" (at 47.7012 50.8 90)
+    (property "Reference" "SW1" (at 47.7012 50.8 90)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "MX1A-G1NN" (at 35.56 50.8 0)
@@ -7946,7 +7946,7 @@
     (instances
       (project "Europe-ergo"
         (path "/95af97f8-b0d4-471d-a7e2-0d2b460f21a8"
-          (reference "SW96") (unit 1)
+          (reference "SW1") (unit 1)
         )
       )
     )
@@ -7955,7 +7955,7 @@
   (symbol (lib_id "pcb-flat-left-rescue:MX-NO-LED-keyboard2-pcb-flat-right-rescue") (at 68.58 50.8 270) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 3596e925-558c-46c0-bd4d-279122e2b70d)
-    (property "Reference" "SW90" (at 73.1012 50.8 90)
+    (property "Reference" "SW2" (at 73.1012 50.8 90)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "MX1A-G1NN" (at 60.96 50.8 0)
@@ -7972,7 +7972,7 @@
     (instances
       (project "Europe-ergo"
         (path "/95af97f8-b0d4-471d-a7e2-0d2b460f21a8"
-          (reference "SW90") (unit 1)
+          (reference "SW2") (unit 1)
         )
       )
     )
@@ -7981,7 +7981,7 @@
   (symbol (lib_id "pcb-flat-left-rescue:MX-NO-LED-keyboard2-pcb-flat-right-rescue") (at 171.45 127 270) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 36be2001-100e-4f08-b1e7-3c7db70d4847)
-    (property "Reference" "SW63" (at 175.9712 127 90)
+    (property "Reference" "SW38" (at 175.9712 127 90)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "MX1A-G1NN" (at 163.83 127 0)
@@ -7998,7 +7998,7 @@
     (instances
       (project "Europe-ergo"
         (path "/95af97f8-b0d4-471d-a7e2-0d2b460f21a8"
-          (reference "SW63") (unit 1)
+          (reference "SW38") (unit 1)
         )
       )
     )
@@ -8007,7 +8007,7 @@
   (symbol (lib_id "Device:LED") (at 542.29 134.62 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 36fe5871-afa0-4073-bec4-90cfa5d7b8c1)
-    (property "Reference" "D51" (at 546.1 134.9374 90)
+    (property "Reference" "D41" (at 546.1 134.9374 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Value" "LTL-4233 " (at 546.1 137.4774 90)
@@ -8024,7 +8024,7 @@
     (instances
       (project "Europe-ergo"
         (path "/95af97f8-b0d4-471d-a7e2-0d2b460f21a8"
-          (reference "D51") (unit 1)
+          (reference "D41") (unit 1)
         )
       )
     )
@@ -8033,7 +8033,7 @@
   (symbol (lib_id "Diode:1N4148") (at 78.74 95.25 180) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 3bb8adcf-193b-4283-89ea-3cbf8582a010)
-    (property "Reference" "D92" (at 78.74 89.7382 0)
+    (property "Reference" "D16" (at 78.74 89.7382 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "1N4148" (at 78.74 92.0496 0)
@@ -8050,7 +8050,7 @@
     (instances
       (project "Europe-ergo"
         (path "/95af97f8-b0d4-471d-a7e2-0d2b460f21a8"
-          (reference "D92") (unit 1)
+          (reference "D16") (unit 1)
         )
       )
     )
@@ -8059,7 +8059,7 @@
   (symbol (lib_id "pcb-flat-left-rescue:MX-NO-LED-keyboard2-pcb-flat-right-rescue") (at 254 229.87 270) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 409f3558-6540-4534-909a-d7ff1515dccf)
-    (property "Reference" "SW50" (at 258.5212 229.87 90)
+    (property "Reference" "SW88" (at 258.5212 229.87 90)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "MX1A-G1NN" (at 246.38 229.87 0)
@@ -8079,7 +8079,7 @@
     (instances
       (project "Europe-ergo"
         (path "/95af97f8-b0d4-471d-a7e2-0d2b460f21a8"
-          (reference "SW50") (unit 1)
+          (reference "SW88") (unit 1)
         )
       )
     )
@@ -8088,7 +8088,7 @@
   (symbol (lib_id "Diode:1N4148") (at 104.14 138.43 180) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 43929e75-87bc-479e-a91c-88a53b573190)
-    (property "Reference" "D88" (at 104.14 132.9182 0)
+    (property "Reference" "D47" (at 104.14 132.9182 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "1N4148" (at 104.14 135.2296 0)
@@ -8105,7 +8105,7 @@
     (instances
       (project "Europe-ergo"
         (path "/95af97f8-b0d4-471d-a7e2-0d2b460f21a8"
-          (reference "D88") (unit 1)
+          (reference "D47") (unit 1)
         )
       )
     )
@@ -8114,7 +8114,7 @@
   (symbol (lib_id "pcb-flat-left-rescue:MX-NO-LED-keyboard2-pcb-flat-right-rescue") (at 168.91 229.87 270) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 44230b9e-2ebb-45ee-ab8d-aa3fc1751ac2)
-    (property "Reference" "SW65" (at 173.4312 229.87 90)
+    (property "Reference" "SW86" (at 173.4312 229.87 90)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "MX1A-G1NN" (at 161.29 229.87 0)
@@ -8134,7 +8134,7 @@
     (instances
       (project "Europe-ergo"
         (path "/95af97f8-b0d4-471d-a7e2-0d2b460f21a8"
-          (reference "SW65") (unit 1)
+          (reference "SW86") (unit 1)
         )
       )
     )
@@ -8143,7 +8143,7 @@
   (symbol (lib_id "pcb-flat-left-rescue:MX-NO-LED-keyboard2-pcb-flat-right-rescue") (at 72.39 198.12 270) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 44ab45df-4674-4735-9ded-be00e9f41a78)
-    (property "Reference" "SW89" (at 76.9112 198.12 90)
+    (property "Reference" "SW64" (at 76.9112 198.12 90)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "MX1A-G1NN" (at 64.77 198.12 0)
@@ -8160,7 +8160,7 @@
     (instances
       (project "Europe-ergo"
         (path "/95af97f8-b0d4-471d-a7e2-0d2b460f21a8"
-          (reference "SW89") (unit 1)
+          (reference "SW64") (unit 1)
         )
       )
     )
@@ -8169,7 +8169,7 @@
   (symbol (lib_id "pcb-flat-left-rescue:MX-NO-LED-keyboard2-pcb-flat-right-rescue") (at 120.65 50.8 270) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 44b306f6-24e4-49bb-952c-faeceaea44dd)
-    (property "Reference" "SW78" (at 125.1712 50.8 90)
+    (property "Reference" "SW4" (at 125.1712 50.8 90)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "MX1A-G1NN" (at 113.03 50.8 0)
@@ -8186,7 +8186,7 @@
     (instances
       (project "Europe-ergo"
         (path "/95af97f8-b0d4-471d-a7e2-0d2b460f21a8"
-          (reference "SW78") (unit 1)
+          (reference "SW4") (unit 1)
         )
       )
     )
@@ -8195,7 +8195,7 @@
   (symbol (lib_id "pcb-flat-left-rescue:MX-NO-LED-keyboard2-pcb-flat-right-rescue") (at 147.32 229.87 270) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 44bb2bea-2505-4110-a2fa-c8f0a6694809)
-    (property "Reference" "SW68" (at 151.8412 229.87 90)
+    (property "Reference" "SW85" (at 151.8412 229.87 90)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "MX1A-G1NN" (at 139.7 229.87 0)
@@ -8212,7 +8212,7 @@
     (instances
       (project "Europe-ergo"
         (path "/95af97f8-b0d4-471d-a7e2-0d2b460f21a8"
-          (reference "SW68") (unit 1)
+          (reference "SW85") (unit 1)
         )
       )
     )
@@ -8221,7 +8221,7 @@
   (symbol (lib_id "pcb-flat-left-rescue:MX-NO-LED-keyboard2-pcb-flat-right-rescue") (at 96.52 50.8 270) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 491114ad-964b-4e1c-8b0e-fbdf9560168b)
-    (property "Reference" "SW84" (at 101.0412 50.8 90)
+    (property "Reference" "SW3" (at 101.0412 50.8 90)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "MX1A-G1NN" (at 88.9 50.8 0)
@@ -8238,7 +8238,7 @@
     (instances
       (project "Europe-ergo"
         (path "/95af97f8-b0d4-471d-a7e2-0d2b460f21a8"
-          (reference "SW84") (unit 1)
+          (reference "SW3") (unit 1)
         )
       )
     )
@@ -8247,7 +8247,7 @@
   (symbol (lib_id "Diode:1N4148") (at 129.54 139.7 180) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 4944dcc3-907f-4c1e-ba98-9e09d147b6b0)
-    (property "Reference" "D80" (at 129.54 134.1882 0)
+    (property "Reference" "D50" (at 129.54 134.1882 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "1N4148" (at 129.54 136.4996 0)
@@ -8264,7 +8264,7 @@
     (instances
       (project "Europe-ergo"
         (path "/95af97f8-b0d4-471d-a7e2-0d2b460f21a8"
-          (reference "D80") (unit 1)
+          (reference "D50") (unit 1)
         )
       )
     )
@@ -8273,7 +8273,7 @@
   (symbol (lib_id "pcb-flat-left-rescue:MX-NO-LED-keyboard2-pcb-flat-right-rescue") (at 218.44 229.87 270) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 495bf538-dbe7-4427-9d4c-7e1d2ceb033a)
-    (property "Reference" "SW55" (at 222.9612 229.87 90)
+    (property "Reference" "SW87" (at 222.9612 229.87 90)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "MX1A-G1NN" (at 210.82 229.87 0)
@@ -8293,7 +8293,7 @@
     (instances
       (project "Europe-ergo"
         (path "/95af97f8-b0d4-471d-a7e2-0d2b460f21a8"
-          (reference "SW55") (unit 1)
+          (reference "SW87") (unit 1)
         )
       )
     )
@@ -8302,7 +8302,7 @@
   (symbol (lib_id "Diode:1N4148") (at 102.87 59.69 180) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 49a7c852-8746-4941-ac36-d26d677285c4)
-    (property "Reference" "D90" (at 102.87 54.1782 0)
+    (property "Reference" "D3" (at 102.87 54.1782 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "1N4148" (at 102.87 56.4896 0)
@@ -8319,7 +8319,7 @@
     (instances
       (project "Europe-ergo"
         (path "/95af97f8-b0d4-471d-a7e2-0d2b460f21a8"
-          (reference "D90") (unit 1)
+          (reference "D3") (unit 1)
         )
       )
     )
@@ -8328,7 +8328,7 @@
   (symbol (lib_id "Diode:1N4148") (at 54.61 205.74 180) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 4aa0a502-e6bb-422b-890b-fe70c5f41628)
-    (property "Reference" "D99" (at 54.61 200.2282 0)
+    (property "Reference" "D69" (at 54.61 200.2282 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "1N4148" (at 54.61 202.5396 0)
@@ -8345,7 +8345,7 @@
     (instances
       (project "Europe-ergo"
         (path "/95af97f8-b0d4-471d-a7e2-0d2b460f21a8"
-          (reference "D99") (unit 1)
+          (reference "D69") (unit 1)
         )
       )
     )
@@ -8354,7 +8354,7 @@
   (symbol (lib_id "pcb-flat-left-rescue:MX-NO-LED-keyboard2-pcb-flat-right-rescue") (at 72.39 87.63 270) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 4b0f8e4b-7454-4f53-bc7f-31f036a03493)
-    (property "Reference" "SW87" (at 76.9112 87.63 90)
+    (property "Reference" "SW18" (at 76.9112 87.63 90)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "MX1A-G1NN" (at 64.77 87.63 0)
@@ -8371,7 +8371,7 @@
     (instances
       (project "Europe-ergo"
         (path "/95af97f8-b0d4-471d-a7e2-0d2b460f21a8"
-          (reference "SW87") (unit 1)
+          (reference "SW18") (unit 1)
         )
       )
     )
@@ -8380,7 +8380,7 @@
   (symbol (lib_id "Device:R") (at 519.43 146.05 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 4bc13a03-bd5a-46fe-8c62-b886566c94ff)
-    (property "Reference" "R4" (at 521.97 144.7799 0)
+    (property "Reference" "R7" (at 521.97 144.7799 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "330" (at 521.97 147.3199 0)
@@ -8397,7 +8397,7 @@
     (instances
       (project "Europe-ergo"
         (path "/95af97f8-b0d4-471d-a7e2-0d2b460f21a8"
-          (reference "R4") (unit 1)
+          (reference "R7") (unit 1)
         )
       )
     )
@@ -8406,7 +8406,7 @@
   (symbol (lib_id "Diode:1N4148") (at 200.66 137.16 180) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 4c77a925-a659-47e5-840b-189ed550fcb8)
-    (property "Reference" "D62" (at 200.66 131.6482 0)
+    (property "Reference" "D46" (at 200.66 131.6482 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "1N4148" (at 200.66 133.9596 0)
@@ -8423,7 +8423,7 @@
     (instances
       (project "Europe-ergo"
         (path "/95af97f8-b0d4-471d-a7e2-0d2b460f21a8"
-          (reference "D62") (unit 1)
+          (reference "D46") (unit 1)
         )
       )
     )
@@ -8432,7 +8432,7 @@
   (symbol (lib_id "Switch:SW_Push") (at 368.3 66.04 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 4edcd9cc-6aaf-46eb-a98a-c7592c13988e)
-    (property "Reference" "SW49" (at 368.3 68.58 0)
+    (property "Reference" "SW15" (at 368.3 68.58 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "800SP9B6M2RE" (at 368.3 72.39 0)
@@ -8449,7 +8449,7 @@
     (instances
       (project "Europe-ergo"
         (path "/95af97f8-b0d4-471d-a7e2-0d2b460f21a8"
-          (reference "SW49") (unit 1)
+          (reference "SW15") (unit 1)
         )
       )
     )
@@ -8458,7 +8458,7 @@
   (symbol (lib_id "pcb-flat-left-rescue:MX-NO-LED-keyboard2-pcb-flat-right-rescue") (at 196.85 162.56 270) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 55cb0e0a-09c3-42fd-b88e-a5671cee1ecc)
-    (property "Reference" "SW56" (at 201.3712 162.56 90)
+    (property "Reference" "SW55" (at 201.3712 162.56 90)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "MX1A-G1NN" (at 189.23 162.56 0)
@@ -8475,7 +8475,7 @@
     (instances
       (project "Europe-ergo"
         (path "/95af97f8-b0d4-471d-a7e2-0d2b460f21a8"
-          (reference "SW56") (unit 1)
+          (reference "SW55") (unit 1)
         )
       )
     )
@@ -8484,7 +8484,7 @@
   (symbol (lib_id "Diode:1N4148") (at 198.12 59.69 180) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 55ebf610-dcd3-479e-a416-43f7f7ff4cb5)
-    (property "Reference" "D66" (at 198.12 54.1782 0)
+    (property "Reference" "D5" (at 198.12 54.1782 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "1N4148" (at 198.12 56.4896 0)
@@ -8501,7 +8501,7 @@
     (instances
       (project "Europe-ergo"
         (path "/95af97f8-b0d4-471d-a7e2-0d2b460f21a8"
-          (reference "D66") (unit 1)
+          (reference "D5") (unit 1)
         )
       )
     )
@@ -8510,7 +8510,7 @@
   (symbol (lib_id "Diode:1N4148") (at 104.14 209.55 180) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 55ed4f91-f754-422f-bf60-35e0f134683d)
-    (property "Reference" "D89" (at 104.14 204.0382 0)
+    (property "Reference" "D77" (at 104.14 204.0382 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "1N4148" (at 104.14 206.3496 0)
@@ -8527,7 +8527,7 @@
     (instances
       (project "Europe-ergo"
         (path "/95af97f8-b0d4-471d-a7e2-0d2b460f21a8"
-          (reference "D89") (unit 1)
+          (reference "D77") (unit 1)
         )
       )
     )
@@ -8536,7 +8536,7 @@
   (symbol (lib_id "pcb-flat-left-rescue:MX-NO-LED-keyboard2-pcb-flat-right-rescue") (at 46.99 127 270) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 55f76f69-f8ae-41e1-819b-2d0c3aa103e6)
-    (property "Reference" "SW94" (at 51.5112 127 90)
+    (property "Reference" "SW33" (at 51.5112 127 90)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "MX1A-G1NN" (at 39.37 127 0)
@@ -8553,7 +8553,7 @@
     (instances
       (project "Europe-ergo"
         (path "/95af97f8-b0d4-471d-a7e2-0d2b460f21a8"
-          (reference "SW94") (unit 1)
+          (reference "SW33") (unit 1)
         )
       )
     )
@@ -8562,7 +8562,7 @@
   (symbol (lib_id "Device:LED") (at 463.55 134.62 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 57030591-5750-40c7-a3c0-c7617345f841)
-    (property "Reference" "D48" (at 467.36 134.9374 90)
+    (property "Reference" "D38" (at 467.36 134.9374 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Value" "LTL-4233 " (at 467.36 137.4774 90)
@@ -8579,7 +8579,7 @@
     (instances
       (project "Europe-ergo"
         (path "/95af97f8-b0d4-471d-a7e2-0d2b460f21a8"
-          (reference "D48") (unit 1)
+          (reference "D38") (unit 1)
         )
       )
     )
@@ -8588,7 +8588,7 @@
   (symbol (lib_id "pcb-flat-left-rescue:MX-NO-LED-keyboard2-pcb-flat-right-rescue") (at 172.72 162.56 270) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 58c2370d-d244-4212-bb9d-d7e4be76acbb)
-    (property "Reference" "SW61" (at 177.2412 162.56 90)
+    (property "Reference" "SW54" (at 177.2412 162.56 90)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "MX1A-G1NN" (at 165.1 162.56 0)
@@ -8605,7 +8605,7 @@
     (instances
       (project "Europe-ergo"
         (path "/95af97f8-b0d4-471d-a7e2-0d2b460f21a8"
-          (reference "SW61") (unit 1)
+          (reference "SW54") (unit 1)
         )
       )
     )
@@ -8614,7 +8614,7 @@
   (symbol (lib_id "Diode:1N4148") (at 80.01 237.49 180) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 5af597d8-1f0d-4da7-b5d9-db5edc34b08d)
-    (property "Reference" "D91" (at 80.01 240.03 0)
+    (property "Reference" "D88" (at 80.01 240.03 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "1N4148" (at 80.01 234.2896 0)
@@ -8631,7 +8631,7 @@
     (instances
       (project "Europe-ergo"
         (path "/95af97f8-b0d4-471d-a7e2-0d2b460f21a8"
-          (reference "D91") (unit 1)
+          (reference "D88") (unit 1)
         )
       )
     )
@@ -8640,7 +8640,7 @@
   (symbol (lib_id "Diode:1N4148") (at 78.74 134.62 180) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 5da43b2e-bc37-4dba-afeb-93298a5bb279)
-    (property "Reference" "D93" (at 78.74 129.1082 0)
+    (property "Reference" "D34" (at 78.74 129.1082 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "1N4148" (at 78.74 131.4196 0)
@@ -8657,7 +8657,7 @@
     (instances
       (project "Europe-ergo"
         (path "/95af97f8-b0d4-471d-a7e2-0d2b460f21a8"
-          (reference "D93") (unit 1)
+          (reference "D34") (unit 1)
         )
       )
     )
@@ -8666,7 +8666,7 @@
   (symbol (lib_id "Device:R") (at 500.38 193.04 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 60fbabbc-1e62-457b-9c32-9706b1a8627e)
-    (property "Reference" "R3" (at 502.92 191.7699 0)
+    (property "Reference" "R9" (at 502.92 191.7699 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "4.7K" (at 502.92 194.3099 0)
@@ -8683,7 +8683,7 @@
     (instances
       (project "Europe-ergo"
         (path "/95af97f8-b0d4-471d-a7e2-0d2b460f21a8"
-          (reference "R3") (unit 1)
+          (reference "R9") (unit 1)
         )
       )
     )
@@ -8692,7 +8692,7 @@
   (symbol (lib_id "Diode:1N4148") (at 53.34 134.62 180) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 62e1181c-7cec-4afa-a325-e6f78974dab1)
-    (property "Reference" "D101" (at 53.34 129.1082 0)
+    (property "Reference" "D33" (at 53.34 129.1082 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "1N4148" (at 53.34 131.4196 0)
@@ -8709,7 +8709,7 @@
     (instances
       (project "Europe-ergo"
         (path "/95af97f8-b0d4-471d-a7e2-0d2b460f21a8"
-          (reference "D101") (unit 1)
+          (reference "D33") (unit 1)
         )
       )
     )
@@ -8718,7 +8718,7 @@
   (symbol (lib_id "pcb-flat-left-rescue:MX-NO-LED-keyboard2-pcb-flat-right-rescue") (at 218.44 198.12 270) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 6370c637-d287-4614-ba45-9101eb90b4f7)
-    (property "Reference" "SW54" (at 222.9612 198.12 90)
+    (property "Reference" "SW70" (at 222.9612 198.12 90)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "MX1A-G1NN" (at 210.82 198.12 0)
@@ -8735,7 +8735,7 @@
     (instances
       (project "Europe-ergo"
         (path "/95af97f8-b0d4-471d-a7e2-0d2b460f21a8"
-          (reference "SW54") (unit 1)
+          (reference "SW70") (unit 1)
         )
       )
     )
@@ -8744,7 +8744,7 @@
   (symbol (lib_id "Device:LED") (at 345.44 134.62 270) (mirror x) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 6d56a726-7fc8-4819-91b5-38f3d0fb7f80)
-    (property "Reference" "D53" (at 338.963 134.7978 0)
+    (property "Reference" "D36" (at 338.963 134.7978 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "LTL-4233 " (at 341.2744 134.7978 0)
@@ -8761,7 +8761,7 @@
     (instances
       (project "Europe-ergo"
         (path "/95af97f8-b0d4-471d-a7e2-0d2b460f21a8"
-          (reference "D53") (unit 1)
+          (reference "D36") (unit 1)
         )
       )
     )
@@ -8770,7 +8770,7 @@
   (symbol (lib_id "pcb-flat-left-rescue:MX-NO-LED-keyboard2-pcb-flat-right-rescue") (at 46.99 198.12 270) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 6e6e403f-45e1-4844-b6f9-2ad7d0ed54dd)
-    (property "Reference" "SW95" (at 51.5112 198.12 90)
+    (property "Reference" "SW63" (at 51.5112 198.12 90)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "MX1A-G1NN" (at 39.37 198.12 0)
@@ -8787,7 +8787,7 @@
     (instances
       (project "Europe-ergo"
         (path "/95af97f8-b0d4-471d-a7e2-0d2b460f21a8"
-          (reference "SW95") (unit 1)
+          (reference "SW63") (unit 1)
         )
       )
     )
@@ -8796,7 +8796,7 @@
   (symbol (lib_id "Diode:1N4148") (at 199.39 99.06 180) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 705e632f-a55f-4fa3-8895-adca3c849f70)
-    (property "Reference" "D64" (at 199.39 93.5482 0)
+    (property "Reference" "D25" (at 199.39 93.5482 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "1N4148" (at 199.39 95.8596 0)
@@ -8813,7 +8813,7 @@
     (instances
       (project "Europe-ergo"
         (path "/95af97f8-b0d4-471d-a7e2-0d2b460f21a8"
-          (reference "D64") (unit 1)
+          (reference "D25") (unit 1)
         )
       )
     )
@@ -8822,7 +8822,7 @@
   (symbol (lib_id "pcb-flat-left-rescue:MX-NO-LED-keyboard2-pcb-flat-right-rescue") (at 171.45 87.63 270) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 7215ebd4-996f-4d44-8c78-a060988cfedf)
-    (property "Reference" "SW62" (at 175.9712 87.63 90)
+    (property "Reference" "SW22" (at 175.9712 87.63 90)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "MX1A-G1NN" (at 163.83 87.63 0)
@@ -8839,7 +8839,7 @@
     (instances
       (project "Europe-ergo"
         (path "/95af97f8-b0d4-471d-a7e2-0d2b460f21a8"
-          (reference "SW62") (unit 1)
+          (reference "SW22") (unit 1)
         )
       )
     )
@@ -8848,7 +8848,7 @@
   (symbol (lib_id "Diode:1N4148") (at 149.86 63.5 180) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 72f12fed-703f-4310-a8e4-2a827e3580e0)
-    (property "Reference" "D78" (at 149.86 57.9882 0)
+    (property "Reference" "D12" (at 149.86 57.9882 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "1N4148" (at 149.86 60.2996 0)
@@ -8865,7 +8865,7 @@
     (instances
       (project "Europe-ergo"
         (path "/95af97f8-b0d4-471d-a7e2-0d2b460f21a8"
-          (reference "D78") (unit 1)
+          (reference "D12") (unit 1)
         )
       )
     )
@@ -8874,7 +8874,7 @@
   (symbol (lib_id "Diode:1N4148") (at 54.61 170.18 180) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 76364a60-f7d4-43e3-90c4-b7d3e88bdfdd)
-    (property "Reference" "D98" (at 54.61 164.6682 0)
+    (property "Reference" "D55" (at 54.61 164.6682 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "1N4148" (at 54.61 166.9796 0)
@@ -8891,7 +8891,7 @@
     (instances
       (project "Europe-ergo"
         (path "/95af97f8-b0d4-471d-a7e2-0d2b460f21a8"
-          (reference "D98") (unit 1)
+          (reference "D55") (unit 1)
         )
       )
     )
@@ -8900,7 +8900,7 @@
   (symbol (lib_id "Device:R") (at 321.31 146.05 0) (mirror x) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 7883b42b-e84b-4c80-b8e6-7ce7c28887f1)
-    (property "Reference" "R10" (at 316.0522 146.05 90)
+    (property "Reference" "R2" (at 316.0522 146.05 90)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "330" (at 318.3636 146.05 90)
@@ -8917,7 +8917,7 @@
     (instances
       (project "Europe-ergo"
         (path "/95af97f8-b0d4-471d-a7e2-0d2b460f21a8"
-          (reference "R10") (unit 1)
+          (reference "R2") (unit 1)
         )
       )
     )
@@ -8926,7 +8926,7 @@
   (symbol (lib_id "pcb-flat-left-rescue:MX-NO-LED-keyboard2-pcb-flat-right-rescue") (at 124.46 127 270) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 78c7b64a-b4ac-4073-b49a-075b19cb093c)
-    (property "Reference" "SW76" (at 128.9812 127 90)
+    (property "Reference" "SW36" (at 128.9812 127 90)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "MX1A-G1NN" (at 116.84 127 0)
@@ -8943,7 +8943,7 @@
     (instances
       (project "Europe-ergo"
         (path "/95af97f8-b0d4-471d-a7e2-0d2b460f21a8"
-          (reference "SW76") (unit 1)
+          (reference "SW36") (unit 1)
         )
       )
     )
@@ -8952,7 +8952,7 @@
   (symbol (lib_id "Device:R") (at 509.27 193.04 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 79e40e00-9b37-47a3-b3a7-35a8971fa0d4)
-    (property "Reference" "R5" (at 511.81 191.7699 0)
+    (property "Reference" "R10" (at 511.81 191.7699 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "4.7K" (at 511.81 194.3099 0)
@@ -8969,7 +8969,7 @@
     (instances
       (project "Europe-ergo"
         (path "/95af97f8-b0d4-471d-a7e2-0d2b460f21a8"
-          (reference "R5") (unit 1)
+          (reference "R10") (unit 1)
         )
       )
     )
@@ -8978,7 +8978,7 @@
   (symbol (lib_id "Device:R") (at 334.01 196.85 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 81544126-7ad5-4db3-82b1-6e837b38a58e)
-    (property "Reference" "R11" (at 336.55 195.5799 0)
+    (property "Reference" "R12" (at 336.55 195.5799 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "4.7K" (at 336.55 198.1199 0)
@@ -8995,7 +8995,7 @@
     (instances
       (project "Europe-ergo"
         (path "/95af97f8-b0d4-471d-a7e2-0d2b460f21a8"
-          (reference "R11") (unit 1)
+          (reference "R12") (unit 1)
         )
       )
     )
@@ -9004,7 +9004,7 @@
   (symbol (lib_id "pcb-flat-left-rescue:MX-NO-LED-keyboard2-pcb-flat-right-rescue") (at 218.44 87.63 270) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 8530b761-deb8-4c25-8afe-a2332c20a993)
-    (property "Reference" "SW52" (at 222.9612 87.63 90)
+    (property "Reference" "SW24" (at 222.9612 87.63 90)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "MX1A-G1NN" (at 210.82 87.63 0)
@@ -9021,7 +9021,7 @@
     (instances
       (project "Europe-ergo"
         (path "/95af97f8-b0d4-471d-a7e2-0d2b460f21a8"
-          (reference "SW52") (unit 1)
+          (reference "SW24") (unit 1)
         )
       )
     )
@@ -9030,7 +9030,7 @@
   (symbol (lib_id "Diode:1N4148") (at 105.41 175.26 180) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 856942cf-27f7-4565-aa3e-b01a9f0ced10)
-    (property "Reference" "D85" (at 105.41 169.7482 0)
+    (property "Reference" "D62" (at 105.41 169.7482 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "1N4148" (at 105.41 172.0596 0)
@@ -9047,7 +9047,7 @@
     (instances
       (project "Europe-ergo"
         (path "/95af97f8-b0d4-471d-a7e2-0d2b460f21a8"
-          (reference "D85") (unit 1)
+          (reference "D62") (unit 1)
         )
       )
     )
@@ -9056,7 +9056,7 @@
   (symbol (lib_id "Mechanical:MountingHole_Pad") (at 78.74 327.66 270) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 8c64b932-2f3f-49f5-9289-3c20b8285ece)
-    (property "Reference" "H11" (at 82.55 326.4916 90)
+    (property "Reference" "H5" (at 82.55 326.4916 90)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "MountingHole_Pad" (at 82.55 328.803 90)
@@ -9072,7 +9072,7 @@
     (instances
       (project "Europe-ergo"
         (path "/95af97f8-b0d4-471d-a7e2-0d2b460f21a8"
-          (reference "H11") (unit 1)
+          (reference "H5") (unit 1)
         )
       )
     )
@@ -9081,7 +9081,7 @@
   (symbol (lib_id "pcb-flat-left-rescue:MX-NO-LED-keyboard2-pcb-flat-right-rescue") (at 146.05 198.12 270) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 8d4ee8b6-2aa4-4de1-8848-a36d88332960)
-    (property "Reference" "SW71" (at 150.5712 198.12 90)
+    (property "Reference" "SW67" (at 150.5712 198.12 90)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "MX1A-G1NN" (at 138.43 198.12 0)
@@ -9098,7 +9098,7 @@
     (instances
       (project "Europe-ergo"
         (path "/95af97f8-b0d4-471d-a7e2-0d2b460f21a8"
-          (reference "SW71") (unit 1)
+          (reference "SW67") (unit 1)
         )
       )
     )
@@ -9107,7 +9107,7 @@
   (symbol (lib_id "Diode:1N4148") (at 228.6 134.62 180) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 8e5b0a6c-c91f-4577-b65a-2c50b5237ca5)
-    (property "Reference" "D59" (at 228.6 129.1082 0)
+    (property "Reference" "D35" (at 228.6 129.1082 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "1N4148" (at 228.6 131.4196 0)
@@ -9124,7 +9124,7 @@
     (instances
       (project "Europe-ergo"
         (path "/95af97f8-b0d4-471d-a7e2-0d2b460f21a8"
-          (reference "D59") (unit 1)
+          (reference "D35") (unit 1)
         )
       )
     )
@@ -9133,7 +9133,7 @@
   (symbol (lib_id "Diode:1N4148") (at 176.53 137.16 180) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 90619ad3-a5ec-4ee9-9d28-191fe5931a81)
-    (property "Reference" "D69" (at 176.53 131.6482 0)
+    (property "Reference" "D45" (at 176.53 131.6482 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "1N4148" (at 176.53 133.9596 0)
@@ -9150,7 +9150,7 @@
     (instances
       (project "Europe-ergo"
         (path "/95af97f8-b0d4-471d-a7e2-0d2b460f21a8"
-          (reference "D69") (unit 1)
+          (reference "D45") (unit 1)
         )
       )
     )
@@ -9159,7 +9159,7 @@
   (symbol (lib_id "Device:R") (at 372.11 146.05 0) (mirror x) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 90a26282-7806-4f1e-a459-aa0b3a1396c1)
-    (property "Reference" "R7" (at 366.8522 146.05 90)
+    (property "Reference" "R4" (at 366.8522 146.05 90)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "330" (at 369.1636 146.05 90)
@@ -9176,7 +9176,7 @@
     (instances
       (project "Europe-ergo"
         (path "/95af97f8-b0d4-471d-a7e2-0d2b460f21a8"
-          (reference "R7") (unit 1)
+          (reference "R4") (unit 1)
         )
       )
     )
@@ -9185,7 +9185,7 @@
   (symbol (lib_id "Device:R") (at 463.55 146.05 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 9150a2db-2c19-4fd2-898c-5626ac1ec48b)
-    (property "Reference" "R1" (at 466.09 144.7799 0)
+    (property "Reference" "R5" (at 466.09 144.7799 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "330" (at 466.09 147.3199 0)
@@ -9202,7 +9202,7 @@
     (instances
       (project "Europe-ergo"
         (path "/95af97f8-b0d4-471d-a7e2-0d2b460f21a8"
-          (reference "R1") (unit 1)
+          (reference "R5") (unit 1)
         )
       )
     )
@@ -9211,7 +9211,7 @@
   (symbol (lib_id "Device:R") (at 345.44 146.05 0) (mirror x) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 92dde5bf-0879-4fc3-9d04-564d1d55d524)
-    (property "Reference" "R8" (at 340.1822 146.05 90)
+    (property "Reference" "R3" (at 340.1822 146.05 90)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "330" (at 342.4936 146.05 90)
@@ -9228,7 +9228,7 @@
     (instances
       (project "Europe-ergo"
         (path "/95af97f8-b0d4-471d-a7e2-0d2b460f21a8"
-          (reference "R8") (unit 1)
+          (reference "R3") (unit 1)
         )
       )
     )
@@ -9237,7 +9237,7 @@
   (symbol (lib_id "Diode:1N4148") (at 55.88 237.49 180) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 9707bc36-aa43-482e-a66d-7aeed92882e3)
-    (property "Reference" "D97" (at 55.88 231.9782 0)
+    (property "Reference" "D87" (at 55.88 231.9782 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "1N4148" (at 55.88 234.2896 0)
@@ -9254,7 +9254,7 @@
     (instances
       (project "Europe-ergo"
         (path "/95af97f8-b0d4-471d-a7e2-0d2b460f21a8"
-          (reference "D97") (unit 1)
+          (reference "D87") (unit 1)
         )
       )
     )
@@ -9263,7 +9263,7 @@
   (symbol (lib_id "Switch:SW_Push") (at 528.32 66.04 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 9755c8d6-9eff-403d-ab7c-5d74dd4bed4f)
-    (property "Reference" "SW48" (at 528.32 58.42 0)
+    (property "Reference" "SW16" (at 528.32 58.42 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "800SP9B6M2RE" (at 528.32 60.96 0)
@@ -9280,7 +9280,7 @@
     (instances
       (project "Europe-ergo"
         (path "/95af97f8-b0d4-471d-a7e2-0d2b460f21a8"
-          (reference "SW48") (unit 1)
+          (reference "SW16") (unit 1)
         )
       )
     )
@@ -9289,7 +9289,7 @@
   (symbol (lib_id "pcb-flat-left-rescue:MX-NO-LED-keyboard2-pcb-flat-right-rescue") (at 100.33 198.12 270) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 9bd78305-6953-4b96-9393-f98b458c5a14)
-    (property "Reference" "SW83" (at 104.8512 198.12 90)
+    (property "Reference" "SW65" (at 104.8512 198.12 90)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "MX1A-G1NN" (at 92.71 198.12 0)
@@ -9306,7 +9306,7 @@
     (instances
       (project "Europe-ergo"
         (path "/95af97f8-b0d4-471d-a7e2-0d2b460f21a8"
-          (reference "SW83") (unit 1)
+          (reference "SW65") (unit 1)
         )
       )
     )
@@ -9315,7 +9315,7 @@
   (symbol (lib_id "pcb-flat-left-rescue:MX-NO-LED-keyboard2-pcb-flat-right-rescue") (at 191.77 50.8 270) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 9d27087a-44a0-4a93-b1a5-7f26f94aae33)
-    (property "Reference" "SW60" (at 196.2912 50.8 90)
+    (property "Reference" "SW7" (at 196.2912 50.8 90)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "MX1A-G1NN" (at 184.15 50.8 0)
@@ -9332,7 +9332,7 @@
     (instances
       (project "Europe-ergo"
         (path "/95af97f8-b0d4-471d-a7e2-0d2b460f21a8"
-          (reference "SW60") (unit 1)
+          (reference "SW7") (unit 1)
         )
       )
     )
@@ -9341,7 +9341,7 @@
   (symbol (lib_id "Diode:1N4148") (at 129.54 209.55 180) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 9e08e713-8ea9-4362-a99f-2cac2e89f04d)
-    (property "Reference" "D82" (at 129.54 204.0382 0)
+    (property "Reference" "D78" (at 129.54 204.0382 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "1N4148" (at 129.54 206.3496 0)
@@ -9358,7 +9358,7 @@
     (instances
       (project "Europe-ergo"
         (path "/95af97f8-b0d4-471d-a7e2-0d2b460f21a8"
-          (reference "D82") (unit 1)
+          (reference "D78") (unit 1)
         )
       )
     )
@@ -9367,7 +9367,7 @@
   (symbol (lib_id "Diode:1N4148") (at 229.87 205.74 180) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 9eeb9244-557a-4a32-b768-2f5b9ce8931a)
-    (property "Reference" "D58" (at 229.87 200.2282 0)
+    (property "Reference" "D71" (at 229.87 200.2282 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "1N4148" (at 229.87 202.5396 0)
@@ -9384,7 +9384,7 @@
     (instances
       (project "Europe-ergo"
         (path "/95af97f8-b0d4-471d-a7e2-0d2b460f21a8"
-          (reference "D58") (unit 1)
+          (reference "D71") (unit 1)
         )
       )
     )
@@ -9393,7 +9393,7 @@
   (symbol (lib_id "Device:LED") (at 321.31 133.35 270) (mirror x) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid a2814a60-2ba3-498c-8dde-e37716d717e4)
-    (property "Reference" "D54" (at 314.833 133.5278 0)
+    (property "Reference" "D32" (at 314.833 133.5278 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "LTL-4233 " (at 317.1444 133.5278 0)
@@ -9410,7 +9410,7 @@
     (instances
       (project "Europe-ergo"
         (path "/95af97f8-b0d4-471d-a7e2-0d2b460f21a8"
-          (reference "D54") (unit 1)
+          (reference "D32") (unit 1)
         )
       )
     )
@@ -9419,7 +9419,7 @@
   (symbol (lib_id "Mechanical:MountingHole_Pad") (at 78.74 351.79 270) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid a94070a2-0e63-4551-b27d-ed8843955e9e)
-    (property "Reference" "H15" (at 82.55 350.6216 90)
+    (property "Reference" "H13" (at 82.55 350.6216 90)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "MountingHole_Pad" (at 82.55 352.933 90)
@@ -9435,7 +9435,7 @@
     (instances
       (project "Europe-ergo"
         (path "/95af97f8-b0d4-471d-a7e2-0d2b460f21a8"
-          (reference "H15") (unit 1)
+          (reference "H13") (unit 1)
         )
       )
     )
@@ -9444,7 +9444,7 @@
   (symbol (lib_id "pcb-flat-left-rescue:MX-NO-LED-keyboard2-pcb-flat-right-rescue") (at 101.6 229.87 270) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid aa19c816-cc68-4766-9e01-6d916eacc1d1)
-    (property "Reference" "SW80" (at 106.1212 229.87 90)
+    (property "Reference" "SW83" (at 106.1212 229.87 90)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "MX1A-G1NN" (at 93.98 229.87 0)
@@ -9461,7 +9461,7 @@
     (instances
       (project "Europe-ergo"
         (path "/95af97f8-b0d4-471d-a7e2-0d2b460f21a8"
-          (reference "SW80") (unit 1)
+          (reference "SW83") (unit 1)
         )
       )
     )
@@ -9470,7 +9470,7 @@
   (symbol (lib_id "Mechanical:MountingHole_Pad") (at 78.74 316.23 270) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid aad646a0-fc97-4b68-9f72-4da1cf9c0af1)
-    (property "Reference" "H9" (at 82.55 315.0616 90)
+    (property "Reference" "H1" (at 82.55 315.0616 90)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "MountingHole_Pad" (at 82.55 317.373 90)
@@ -9486,7 +9486,7 @@
     (instances
       (project "Europe-ergo"
         (path "/95af97f8-b0d4-471d-a7e2-0d2b460f21a8"
-          (reference "H9") (unit 1)
+          (reference "H1") (unit 1)
         )
       )
     )
@@ -9495,7 +9495,7 @@
   (symbol (lib_id "Diode:1N4148") (at 152.4 241.3 180) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid b2523973-0e43-4477-bb22-6d6f68b331a3)
-    (property "Reference" "D76" (at 152.4 235.7882 0)
+    (property "Reference" "D98" (at 152.4 235.7882 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "1N4148" (at 152.4 238.0996 0)
@@ -9512,7 +9512,7 @@
     (instances
       (project "Europe-ergo"
         (path "/95af97f8-b0d4-471d-a7e2-0d2b460f21a8"
-          (reference "D76") (unit 1)
+          (reference "D98") (unit 1)
         )
       )
     )
@@ -9521,7 +9521,7 @@
   (symbol (lib_id "pcb-flat-left-rescue:MX-NO-LED-keyboard2-pcb-flat-right-rescue") (at 195.58 127 270) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid b2ced0d7-7189-4ec8-8539-71fbc5e878c4)
-    (property "Reference" "SW58" (at 200.1012 127 90)
+    (property "Reference" "SW39" (at 200.1012 127 90)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "MX1A-G1NN" (at 187.96 127 0)
@@ -9538,7 +9538,7 @@
     (instances
       (project "Europe-ergo"
         (path "/95af97f8-b0d4-471d-a7e2-0d2b460f21a8"
-          (reference "SW58") (unit 1)
+          (reference "SW39") (unit 1)
         )
       )
     )
@@ -9547,7 +9547,7 @@
   (symbol (lib_id "Diode:1N4148") (at 53.34 95.25 180) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid b41e3399-b429-446b-bd45-c066806f183c)
-    (property "Reference" "D100" (at 53.34 89.7382 0)
+    (property "Reference" "D15" (at 53.34 89.7382 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "1N4148" (at 53.34 92.0496 0)
@@ -9564,7 +9564,7 @@
     (instances
       (project "Europe-ergo"
         (path "/95af97f8-b0d4-471d-a7e2-0d2b460f21a8"
-          (reference "D100") (unit 1)
+          (reference "D15") (unit 1)
         )
       )
     )
@@ -9573,7 +9573,7 @@
   (symbol (lib_id "Device:R") (at 325.12 196.85 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid b52538f7-b73b-455b-8cd9-751065da2706)
-    (property "Reference" "R9" (at 327.66 195.5799 0)
+    (property "Reference" "R11" (at 327.66 195.5799 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "4.7K" (at 327.66 198.1199 0)
@@ -9590,7 +9590,7 @@
     (instances
       (project "Europe-ergo"
         (path "/95af97f8-b0d4-471d-a7e2-0d2b460f21a8"
-          (reference "R9") (unit 1)
+          (reference "R11") (unit 1)
         )
       )
     )
@@ -9599,7 +9599,7 @@
   (symbol (lib_id "Device:R") (at 295.91 146.05 0) (mirror x) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid b83a3970-817d-4251-a87c-5ca04f4a2d52)
-    (property "Reference" "R12" (at 290.6522 146.05 90)
+    (property "Reference" "R1" (at 290.6522 146.05 90)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "330" (at 292.9636 146.05 90)
@@ -9616,7 +9616,7 @@
     (instances
       (project "Europe-ergo"
         (path "/95af97f8-b0d4-471d-a7e2-0d2b460f21a8"
-          (reference "R12") (unit 1)
+          (reference "R1") (unit 1)
         )
       )
     )
@@ -9625,7 +9625,7 @@
   (symbol (lib_id "Diode:1N4148") (at 77.47 58.42 180) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid b9ee0fce-25ec-41d1-be1d-18046ebaef97)
-    (property "Reference" "D96" (at 77.47 52.9082 0)
+    (property "Reference" "D2" (at 77.47 52.9082 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "1N4148" (at 77.47 55.2196 0)
@@ -9642,7 +9642,7 @@
     (instances
       (project "Europe-ergo"
         (path "/95af97f8-b0d4-471d-a7e2-0d2b460f21a8"
-          (reference "D96") (unit 1)
+          (reference "D2") (unit 1)
         )
       )
     )
@@ -9651,7 +9651,7 @@
   (symbol (lib_id "Diode:1N4148") (at 50.8 58.42 180) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid ba19c26a-1219-4114-8dd8-5a8d543fc007)
-    (property "Reference" "D102" (at 50.8 52.9082 0)
+    (property "Reference" "D1" (at 50.8 52.9082 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "1N4148" (at 50.8 55.2196 0)
@@ -9668,7 +9668,7 @@
     (instances
       (project "Europe-ergo"
         (path "/95af97f8-b0d4-471d-a7e2-0d2b460f21a8"
-          (reference "D102") (unit 1)
+          (reference "D1") (unit 1)
         )
       )
     )
@@ -9677,7 +9677,7 @@
   (symbol (lib_id "Diode:1N4148") (at 177.8 237.49 180) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid bc7237ed-2575-4d73-b155-a56444d21a3b)
-    (property "Reference" "D67" (at 177.8 231.9782 0)
+    (property "Reference" "D89" (at 177.8 231.9782 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "1N4148" (at 177.8 234.2896 0)
@@ -9694,7 +9694,7 @@
     (instances
       (project "Europe-ergo"
         (path "/95af97f8-b0d4-471d-a7e2-0d2b460f21a8"
-          (reference "D67") (unit 1)
+          (reference "D89") (unit 1)
         )
       )
     )
@@ -9703,7 +9703,7 @@
   (symbol (lib_id "Connector:Conn_01x04_Male") (at 488.95 185.42 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid bcbf6456-a268-4571-98a7-f76d400f1e35)
-    (property "Reference" "J1" (at 489.585 177.8 0)
+    (property "Reference" "J2" (at 489.585 177.8 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" " SJ-43514" (at 489.585 180.34 0)
@@ -9722,7 +9722,7 @@
     (instances
       (project "Europe-ergo"
         (path "/95af97f8-b0d4-471d-a7e2-0d2b460f21a8"
-          (reference "J1") (unit 1)
+          (reference "J2") (unit 1)
         )
       )
     )
@@ -9731,7 +9731,7 @@
   (symbol (lib_id "Connector:Conn_01x04_Male") (at 314.96 184.15 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid bd999351-9dec-4c6e-be4f-9dc843edca2c)
-    (property "Reference" "J2" (at 315.595 176.53 0)
+    (property "Reference" "J1" (at 315.595 176.53 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" " SJ-43514" (at 315.595 179.07 0)
@@ -9750,7 +9750,7 @@
     (instances
       (project "Europe-ergo"
         (path "/95af97f8-b0d4-471d-a7e2-0d2b460f21a8"
-          (reference "J2") (unit 1)
+          (reference "J1") (unit 1)
         )
       )
     )
@@ -9759,7 +9759,7 @@
   (symbol (lib_id "Diode:1N4148") (at 259.08 205.74 180) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid c2c67c1a-e87c-4cac-bf60-c15876b1eba0)
-    (property "Reference" "D57" (at 259.08 200.2282 0)
+    (property "Reference" "D72" (at 259.08 200.2282 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "1N4148" (at 259.08 202.5396 0)
@@ -9776,7 +9776,7 @@
     (instances
       (project "Europe-ergo"
         (path "/95af97f8-b0d4-471d-a7e2-0d2b460f21a8"
-          (reference "D57") (unit 1)
+          (reference "D72") (unit 1)
         )
       )
     )
@@ -9785,7 +9785,7 @@
   (symbol (lib_id "Device:R") (at 492.76 146.05 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid c9a708c1-ab4c-4525-909d-c46549ce1f90)
-    (property "Reference" "R2" (at 495.3 144.7799 0)
+    (property "Reference" "R6" (at 495.3 144.7799 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "330" (at 495.3 147.3199 0)
@@ -9802,7 +9802,7 @@
     (instances
       (project "Europe-ergo"
         (path "/95af97f8-b0d4-471d-a7e2-0d2b460f21a8"
-          (reference "R2") (unit 1)
+          (reference "R6") (unit 1)
         )
       )
     )
@@ -9811,7 +9811,7 @@
   (symbol (lib_id "Diode:1N4148") (at 129.54 99.06 180) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid c9b5bfe4-5d1c-4fa3-90b2-254768afe95d)
-    (property "Reference" "D79" (at 129.54 93.5482 0)
+    (property "Reference" "D22" (at 129.54 93.5482 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "1N4148" (at 129.54 95.8596 0)
@@ -9828,7 +9828,7 @@
     (instances
       (project "Europe-ergo"
         (path "/95af97f8-b0d4-471d-a7e2-0d2b460f21a8"
-          (reference "D79") (unit 1)
+          (reference "D22") (unit 1)
         )
       )
     )
@@ -9837,7 +9837,7 @@
   (symbol (lib_id "Diode:1N4148") (at 152.4 173.99 180) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid ca01f0e9-b294-485b-851e-bc0eb2d66864)
-    (property "Reference" "D74" (at 152.4 168.4782 0)
+    (property "Reference" "D59" (at 152.4 168.4782 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "1N4148" (at 152.4 170.7896 0)
@@ -9854,7 +9854,7 @@
     (instances
       (project "Europe-ergo"
         (path "/95af97f8-b0d4-471d-a7e2-0d2b460f21a8"
-          (reference "D74") (unit 1)
+          (reference "D59") (unit 1)
         )
       )
     )
@@ -9863,7 +9863,7 @@
   (symbol (lib_id "pcb-flat-left-rescue:MX-NO-LED-keyboard2-pcb-flat-right-rescue") (at 125.73 162.56 270) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid d2261ec9-69d4-41e4-9f67-a399d5693142)
-    (property "Reference" "SW73" (at 130.2512 162.56 90)
+    (property "Reference" "SW52" (at 130.2512 162.56 90)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "MX1A-G1NN" (at 118.11 162.56 0)
@@ -9880,7 +9880,7 @@
     (instances
       (project "Europe-ergo"
         (path "/95af97f8-b0d4-471d-a7e2-0d2b460f21a8"
-          (reference "SW73") (unit 1)
+          (reference "SW52") (unit 1)
         )
       )
     )
@@ -9889,7 +9889,7 @@
   (symbol (lib_id "pcb-flat-left-rescue:MX-NO-LED-keyboard2-pcb-flat-right-rescue") (at 250.19 198.12 270) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid d4756793-b261-4efb-8902-b199a3057148)
-    (property "Reference" "SW51" (at 254.7112 198.12 90)
+    (property "Reference" "SW71" (at 254.7112 198.12 90)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "MX1A-G1NN" (at 242.57 198.12 0)
@@ -9909,7 +9909,7 @@
     (instances
       (project "Europe-ergo"
         (path "/95af97f8-b0d4-471d-a7e2-0d2b460f21a8"
-          (reference "SW51") (unit 1)
+          (reference "SW71") (unit 1)
         )
       )
     )
@@ -9918,7 +9918,7 @@
   (symbol (lib_id "Device:LED") (at 295.91 132.08 270) (mirror x) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid d475b75b-df73-4a55-abc9-147eebea5d88)
-    (property "Reference" "D55" (at 289.433 132.2578 0)
+    (property "Reference" "D31" (at 289.433 132.2578 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "LTL-4233 " (at 291.7444 132.2578 0)
@@ -9935,7 +9935,7 @@
     (instances
       (project "Europe-ergo"
         (path "/95af97f8-b0d4-471d-a7e2-0d2b460f21a8"
-          (reference "D55") (unit 1)
+          (reference "D31") (unit 1)
         )
       )
     )
@@ -9944,7 +9944,7 @@
   (symbol (lib_id "Diode:1N4148") (at 129.54 175.26 180) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid d65e4c46-cd87-4a2b-acb9-91c56bb7ff81)
-    (property "Reference" "D81" (at 129.54 169.7482 0)
+    (property "Reference" "D63" (at 129.54 169.7482 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "1N4148" (at 129.54 172.0596 0)
@@ -9961,7 +9961,7 @@
     (instances
       (project "Europe-ergo"
         (path "/95af97f8-b0d4-471d-a7e2-0d2b460f21a8"
-          (reference "D81") (unit 1)
+          (reference "D63") (unit 1)
         )
       )
     )
@@ -9970,7 +9970,7 @@
   (symbol (lib_id "Diode:1N4148") (at 78.74 170.18 180) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid daf2f9e0-2d14-4a1d-ac51-595949a05dee)
-    (property "Reference" "D94" (at 78.74 164.6682 0)
+    (property "Reference" "D56" (at 78.74 164.6682 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "1N4148" (at 78.74 166.9796 0)
@@ -9987,7 +9987,7 @@
     (instances
       (project "Europe-ergo"
         (path "/95af97f8-b0d4-471d-a7e2-0d2b460f21a8"
-          (reference "D94") (unit 1)
+          (reference "D56") (unit 1)
         )
       )
     )
@@ -9996,7 +9996,7 @@
   (symbol (lib_id "pcb-flat-left-rescue:MX-NO-LED-keyboard2-pcb-flat-right-rescue") (at 146.05 127 270) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid dc339856-50dd-48ce-bf56-b8a737dde2f4)
-    (property "Reference" "SW70" (at 150.5712 127 90)
+    (property "Reference" "SW37" (at 150.5712 127 90)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "MX1A-G1NN" (at 138.43 127 0)
@@ -10013,7 +10013,7 @@
     (instances
       (project "Europe-ergo"
         (path "/95af97f8-b0d4-471d-a7e2-0d2b460f21a8"
-          (reference "SW70") (unit 1)
+          (reference "SW37") (unit 1)
         )
       )
     )
@@ -10022,7 +10022,7 @@
   (symbol (lib_id "Diode:1N4148") (at 152.4 209.55 180) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid dd742d19-f645-4a65-ba39-d4fcd3956f9f)
-    (property "Reference" "D75" (at 152.4 204.0382 0)
+    (property "Reference" "D79" (at 152.4 204.0382 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "1N4148" (at 152.4 206.3496 0)
@@ -10039,7 +10039,7 @@
     (instances
       (project "Europe-ergo"
         (path "/95af97f8-b0d4-471d-a7e2-0d2b460f21a8"
-          (reference "D75") (unit 1)
+          (reference "D79") (unit 1)
         )
       )
     )
@@ -10048,7 +10048,7 @@
   (symbol (lib_id "Diode:1N4148") (at 200.66 173.99 180) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid e00dbe14-7e96-472d-88e6-fd5155da9225)
-    (property "Reference" "D63" (at 200.66 168.4782 0)
+    (property "Reference" "D61" (at 200.66 168.4782 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "1N4148" (at 200.66 170.7896 0)
@@ -10065,7 +10065,7 @@
     (instances
       (project "Europe-ergo"
         (path "/95af97f8-b0d4-471d-a7e2-0d2b460f21a8"
-          (reference "D63") (unit 1)
+          (reference "D61") (unit 1)
         )
       )
     )
@@ -10074,7 +10074,7 @@
   (symbol (lib_id "Mechanical:MountingHole_Pad") (at 78.74 358.14 270) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid e15b5dd3-f10f-48a8-9278-74b53fc798f0)
-    (property "Reference" "H16" (at 82.55 356.9716 90)
+    (property "Reference" "H15" (at 82.55 356.9716 90)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "MountingHole_Pad" (at 82.55 359.283 90)
@@ -10090,7 +10090,7 @@
     (instances
       (project "Europe-ergo"
         (path "/95af97f8-b0d4-471d-a7e2-0d2b460f21a8"
-          (reference "H16") (unit 1)
+          (reference "H15") (unit 1)
         )
       )
     )
@@ -10099,7 +10099,7 @@
   (symbol (lib_id "Diode:1N4148") (at 227.33 95.25 180) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid e55d5c86-7915-4500-8aa6-e7dd3777fa63)
-    (property "Reference" "D60" (at 227.33 89.7382 0)
+    (property "Reference" "D17" (at 227.33 89.7382 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "1N4148" (at 227.33 92.0496 0)
@@ -10116,7 +10116,7 @@
     (instances
       (project "Europe-ergo"
         (path "/95af97f8-b0d4-471d-a7e2-0d2b460f21a8"
-          (reference "D60") (unit 1)
+          (reference "D17") (unit 1)
         )
       )
     )
@@ -10125,7 +10125,7 @@
   (symbol (lib_id "Mechanical:MountingHole_Pad") (at 78.74 345.44 270) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid e770fcb6-da4f-48e9-a9fc-6b1a4fb92931)
-    (property "Reference" "H14" (at 82.55 344.2716 90)
+    (property "Reference" "H11" (at 82.55 344.2716 90)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "MountingHole_Pad" (at 82.55 346.583 90)
@@ -10141,7 +10141,7 @@
     (instances
       (project "Europe-ergo"
         (path "/95af97f8-b0d4-471d-a7e2-0d2b460f21a8"
-          (reference "H14") (unit 1)
+          (reference "H11") (unit 1)
         )
       )
     )
@@ -10150,7 +10150,7 @@
   (symbol (lib_id "pcb-flat-left-rescue:MX-NO-LED-keyboard2-pcb-flat-right-rescue") (at 100.33 127 270) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid e7791cfe-7d35-4862-b215-998ddee1b2d9)
-    (property "Reference" "SW82" (at 104.8512 127 90)
+    (property "Reference" "SW35" (at 104.8512 127 90)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "MX1A-G1NN" (at 92.71 127 0)
@@ -10167,7 +10167,7 @@
     (instances
       (project "Europe-ergo"
         (path "/95af97f8-b0d4-471d-a7e2-0d2b460f21a8"
-          (reference "SW82") (unit 1)
+          (reference "SW35") (unit 1)
         )
       )
     )
@@ -10176,7 +10176,7 @@
   (symbol (lib_id "Diode:1N4148") (at 227.33 237.49 180) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid e85ca7c4-22e8-4277-aae6-22c3c1d36be4)
-    (property "Reference" "D61" (at 227.33 231.9782 0)
+    (property "Reference" "D90" (at 227.33 231.9782 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "1N4148" (at 227.33 234.2896 0)
@@ -10193,7 +10193,7 @@
     (instances
       (project "Europe-ergo"
         (path "/95af97f8-b0d4-471d-a7e2-0d2b460f21a8"
-          (reference "D61") (unit 1)
+          (reference "D90") (unit 1)
         )
       )
     )
@@ -10202,7 +10202,7 @@
   (symbol (lib_id "Diode:1N4148") (at 152.4 99.06 180) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid e8ceeb92-7a8a-4bc4-8cd2-f5800bdc217c)
-    (property "Reference" "D73" (at 152.4 93.5482 0)
+    (property "Reference" "D23" (at 152.4 93.5482 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "1N4148" (at 152.4 95.8596 0)
@@ -10219,7 +10219,7 @@
     (instances
       (project "Europe-ergo"
         (path "/95af97f8-b0d4-471d-a7e2-0d2b460f21a8"
-          (reference "D73") (unit 1)
+          (reference "D23") (unit 1)
         )
       )
     )
@@ -10228,7 +10228,7 @@
   (symbol (lib_id "Diode:1N4148") (at 176.53 173.99 180) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid ebe6391f-2be6-421c-a90b-c5bb5a0c79a3)
-    (property "Reference" "D70" (at 176.53 168.4782 0)
+    (property "Reference" "D60" (at 176.53 168.4782 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "1N4148" (at 176.53 170.7896 0)
@@ -10245,7 +10245,7 @@
     (instances
       (project "Europe-ergo"
         (path "/95af97f8-b0d4-471d-a7e2-0d2b460f21a8"
-          (reference "D70") (unit 1)
+          (reference "D60") (unit 1)
         )
       )
     )
@@ -10254,7 +10254,7 @@
   (symbol (lib_id "pcb-flat-left-rescue:MX-NO-LED-keyboard2-pcb-flat-right-rescue") (at 73.66 229.87 270) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid edb06941-8a10-4090-be84-122175a78586)
-    (property "Reference" "SW86" (at 78.1812 229.87 90)
+    (property "Reference" "SW82" (at 78.1812 229.87 90)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "MX1A-G1NN" (at 66.04 229.87 0)
@@ -10271,7 +10271,7 @@
     (instances
       (project "Europe-ergo"
         (path "/95af97f8-b0d4-471d-a7e2-0d2b460f21a8"
-          (reference "SW86") (unit 1)
+          (reference "SW82") (unit 1)
         )
       )
     )
@@ -10280,7 +10280,7 @@
   (symbol (lib_id "Mechanical:MountingHole_Pad") (at 78.74 321.31 270) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid ee45ca2d-0191-4438-896a-ea4b071ebe42)
-    (property "Reference" "H10" (at 82.55 320.1416 90)
+    (property "Reference" "H3" (at 82.55 320.1416 90)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "MountingHole_Pad" (at 82.55 322.453 90)
@@ -10296,7 +10296,7 @@
     (instances
       (project "Europe-ergo"
         (path "/95af97f8-b0d4-471d-a7e2-0d2b460f21a8"
-          (reference "H10") (unit 1)
+          (reference "H3") (unit 1)
         )
       )
     )
@@ -10305,7 +10305,7 @@
   (symbol (lib_id "Diode:1N4148") (at 175.26 59.69 180) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid f2cb60e0-6f65-4004-9ef0-96bcffcabfe5)
-    (property "Reference" "D72" (at 175.26 54.1782 0)
+    (property "Reference" "D4" (at 175.26 54.1782 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "1N4148" (at 175.26 56.4896 0)
@@ -10322,7 +10322,7 @@
     (instances
       (project "Europe-ergo"
         (path "/95af97f8-b0d4-471d-a7e2-0d2b460f21a8"
-          (reference "D72") (unit 1)
+          (reference "D4") (unit 1)
         )
       )
     )
@@ -10331,7 +10331,7 @@
   (symbol (lib_id "Diode:1N4148") (at 78.74 205.74 180) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid f42fa392-ad18-4021-b938-6571639fac66)
-    (property "Reference" "D95" (at 78.74 200.2282 0)
+    (property "Reference" "D70" (at 78.74 200.2282 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "1N4148" (at 78.74 202.5396 0)
@@ -10348,7 +10348,7 @@
     (instances
       (project "Europe-ergo"
         (path "/95af97f8-b0d4-471d-a7e2-0d2b460f21a8"
-          (reference "D95") (unit 1)
+          (reference "D70") (unit 1)
         )
       )
     )
@@ -10357,7 +10357,7 @@
   (symbol (lib_id "Mechanical:MountingHole_Pad") (at 78.74 334.01 270) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid f631b174-93bd-4358-a3f2-12a365ea0aff)
-    (property "Reference" "H12" (at 82.55 332.8416 90)
+    (property "Reference" "H7" (at 82.55 332.8416 90)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "MountingHole_Pad" (at 82.55 335.153 90)
@@ -10373,7 +10373,7 @@
     (instances
       (project "Europe-ergo"
         (path "/95af97f8-b0d4-471d-a7e2-0d2b460f21a8"
-          (reference "H12") (unit 1)
+          (reference "H7") (unit 1)
         )
       )
     )
@@ -10382,7 +10382,7 @@
   (symbol (lib_id "pcb-flat-left-rescue:MX-NO-LED-keyboard2-pcb-flat-right-rescue") (at 195.58 87.63 270) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid f909c478-21fa-47de-8705-c9b0da6764ec)
-    (property "Reference" "SW57" (at 200.1012 87.63 90)
+    (property "Reference" "SW23" (at 200.1012 87.63 90)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "MX1A-G1NN" (at 187.96 87.63 0)
@@ -10399,7 +10399,7 @@
     (instances
       (project "Europe-ergo"
         (path "/95af97f8-b0d4-471d-a7e2-0d2b460f21a8"
-          (reference "SW57") (unit 1)
+          (reference "SW23") (unit 1)
         )
       )
     )
@@ -10408,7 +10408,7 @@
   (symbol (lib_id "Diode:1N4148") (at 199.39 212.09 180) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid f9aa31c1-4c7f-474b-99d8-86f25a0641c5)
-    (property "Reference" "D65" (at 199.39 206.5782 0)
+    (property "Reference" "D85" (at 199.39 206.5782 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "1N4148" (at 199.39 208.8896 0)
@@ -10425,7 +10425,7 @@
     (instances
       (project "Europe-ergo"
         (path "/95af97f8-b0d4-471d-a7e2-0d2b460f21a8"
-          (reference "D65") (unit 1)
+          (reference "D85") (unit 1)
         )
       )
     )
@@ -10434,7 +10434,7 @@
   (symbol (lib_id "pcb-flat-left-rescue:MX-NO-LED-keyboard2-pcb-flat-right-rescue") (at 195.58 198.12 270) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid fd0ad613-f831-44ce-bcc7-9263a03ac789)
-    (property "Reference" "SW59" (at 200.1012 198.12 90)
+    (property "Reference" "SW69" (at 200.1012 198.12 90)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "MX1A-G1NN" (at 187.96 198.12 0)
@@ -10451,7 +10451,7 @@
     (instances
       (project "Europe-ergo"
         (path "/95af97f8-b0d4-471d-a7e2-0d2b460f21a8"
-          (reference "SW59") (unit 1)
+          (reference "SW69") (unit 1)
         )
       )
     )
@@ -10460,7 +10460,7 @@
   (symbol (lib_id "pcb-flat-left-rescue:MX-NO-LED-keyboard2-pcb-flat-right-rescue") (at 48.26 229.87 270) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid fda13864-9ace-41cb-8f2b-5c8418f32035)
-    (property "Reference" "SW92" (at 52.7812 229.87 90)
+    (property "Reference" "SW81" (at 52.7812 229.87 90)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "MX1A-G1NN" (at 40.64 229.87 0)
@@ -10477,7 +10477,7 @@
     (instances
       (project "Europe-ergo"
         (path "/95af97f8-b0d4-471d-a7e2-0d2b460f21a8"
-          (reference "SW92") (unit 1)
+          (reference "SW81") (unit 1)
         )
       )
     )
