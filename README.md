@@ -19,6 +19,9 @@ The L1/L2 button is to change from  Norwegian QWERTY to Norwegian Dvorak.
 Keycaps:
 https://github.com/Supermagnum/Europe-ergo/blob/main/keycaps.jpg
 
+Electronic diagram:
+https://github.com/Supermagnum/Europe-ergo/blob/main/Europe-ergo-PCB/schema/Europe-ergo.pdf
+
 
 
 It compiles with QMK.
