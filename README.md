@@ -37,7 +37,7 @@ Vial:
 https://get.vial.today/
 
 
-PWM1 to PWM 4 controls LED's ( ON/OFF) based by the active layer, and also caps lock and scroll lock active.
+PWM1 to PWM 5 controls LED's ( ON/OFF) based by the active layer, and also caps lock and scroll lock active.
 
 Those and the electrical diagram can be found here:
 https://github.com/Supermagnum/Europe-ergo/blob/main/Europe-ergo-PCB/schema/Europe-ergo.pdf
