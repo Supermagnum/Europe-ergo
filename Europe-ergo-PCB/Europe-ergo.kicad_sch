@@ -919,6 +919,9 @@
   (junction (at 101.6 154.94) (diameter 0) (color 0 0 0 0)
     (uuid 7e8507e0-71bb-4989-9136-e5cb359db9f8)
   )
+  (junction (at 372.11 149.86) (diameter 0) (color 0 0 0 0)
+    (uuid 814f19f7-9f71-45cf-90d9-79f8b0cef994)
+  )
   (junction (at 240.03 134.62) (diameter 0) (color 0 0 0 0)
     (uuid 822fc5ad-681a-4d26-9213-0e9f619458b6)
   )
@@ -1041,6 +1044,9 @@
   )
   (junction (at 334.01 200.66) (diameter 0) (color 0 0 0 0)
     (uuid b284d3c0-4d4d-417d-94cc-3588e4f824af)
+  )
+  (junction (at 542.29 149.86) (diameter 0) (color 0 0 0 0)
+    (uuid b4b7451d-ba3d-4ee5-a5e6-6a1530c140ab)
   )
   (junction (at 786.13 81.28) (diameter 0) (color 0 0 0 0)
     (uuid b5d591a1-6831-4eb4-8928-533657a8f86c)
@@ -1218,9 +1224,7 @@
   (no_connect (at 341.63 55.88) (uuid 5f956e7a-77cd-4f36-a9a3-c9568d9d55c9))
   (no_connect (at 502.92 43.18) (uuid 5fe5d9c2-42ab-4b1a-9d93-0666f88a76ae))
   (no_connect (at 341.63 43.18) (uuid 6ce4a386-043e-4e52-b441-743dee8ae580))
-  (no_connect (at 341.63 68.58) (uuid 736849bd-a3c5-46c3-a77b-3e545e3f2003))
   (no_connect (at 502.92 60.96) (uuid 75e20386-218b-4c1a-aa75-8d2a1ee1ddc8))
-  (no_connect (at 502.92 68.58) (uuid 7badef2e-edad-4019-b3a8-8b1866811d95))
   (no_connect (at 502.92 50.8) (uuid 7e0a5cac-6ff9-4d9b-a9a7-fb8641f114c9))
   (no_connect (at 326.39 93.98) (uuid 83cbe83b-8e4e-4d5b-91aa-4d5ca7fda7f3))
   (no_connect (at 341.63 50.8) (uuid 9632d21c-8a37-436e-8b50-d8166d1fde06))
@@ -1359,6 +1363,10 @@
   (wire (pts (xy 50.8 205.74) (xy 46.99 205.74))
     (stroke (width 0) (type default))
     (uuid 0e6be228-019f-4e16-a177-875b6d660440)
+  )
+  (wire (pts (xy 372.11 149.86) (xy 388.62 149.86))
+    (stroke (width 0) (type default))
+    (uuid 0e7518e2-155c-48af-b451-e0de15dbb134)
   )
   (wire (pts (xy 85.09 170.18) (xy 85.09 205.74))
     (stroke (width 0) (type default))
@@ -2164,6 +2172,10 @@
     (uuid 6535ffd5-0b2f-438e-b940-00fa19cdd363)
   )
 
+  (wire (pts (xy 565.15 121.92) (xy 565.15 130.81))
+    (stroke (width 0) (type default))
+    (uuid 65457a60-823c-4eb2-9b44-1415303ec632)
+  )
   (wire (pts (xy 731.52 171.45) (xy 731.52 176.53))
     (stroke (width 0) (type default))
     (uuid 657ec21c-df41-45e4-8470-12db45a4d6c8)
@@ -2239,6 +2251,10 @@
   (wire (pts (xy 299.72 45.72) (xy 306.07 45.72))
     (stroke (width 0) (type default))
     (uuid 6fd66d79-f739-4d63-a2a5-25160c4d16b3)
+  )
+  (wire (pts (xy 388.62 142.24) (xy 388.62 138.43))
+    (stroke (width 0) (type default))
+    (uuid 6fe9aba8-4c65-4782-a9ed-3b7af955b844)
   )
   (wire (pts (xy 76.2 321.31) (xy 76.2 316.23))
     (stroke (width 0) (type default))
@@ -2576,6 +2592,10 @@
     (stroke (width 0) (type default))
     (uuid 9ec107ca-d0e0-41bb-9cc6-d5a59ee985c4)
   )
+  (wire (pts (xy 388.62 130.81) (xy 388.62 125.73))
+    (stroke (width 0) (type default))
+    (uuid 9efe9119-4e84-4905-9195-eba7daf27a79)
+  )
   (wire (pts (xy 72.39 205.74) (xy 74.93 205.74))
     (stroke (width 0) (type default))
     (uuid 9f94890d-966b-4f84-b816-30d90d033e93)
@@ -2655,6 +2675,10 @@
   (wire (pts (xy 661.67 138.43) (xy 661.67 135.89))
     (stroke (width 0) (type default))
     (uuid a6cccd07-0edc-4e33-a683-47c85f17c399)
+  )
+  (wire (pts (xy 341.63 68.58) (xy 345.44 68.58))
+    (stroke (width 0) (type default))
+    (uuid a754d66e-625d-409b-a6fa-265d21d5336c)
   )
   (wire (pts (xy 684.53 210.82) (xy 687.07 210.82))
     (stroke (width 0) (type default))
@@ -2852,6 +2876,10 @@
     (stroke (width 0) (type default))
     (uuid b9405702-a192-4d6f-85f0-4d480b4f659f)
   )
+  (wire (pts (xy 565.15 142.24) (xy 565.15 138.43))
+    (stroke (width 0) (type default))
+    (uuid b94e1366-9783-4982-af27-e87d10dc96b9)
+  )
   (wire (pts (xy 732.79 120.65) (xy 708.66 120.65))
     (stroke (width 0) (type default))
     (uuid b9abcd39-9851-4863-83c3-65c9db995ddd)
@@ -2927,6 +2955,10 @@
   (wire (pts (xy 732.79 135.89) (xy 732.79 139.7))
     (stroke (width 0) (type default))
     (uuid c071d6e8-b99b-48ff-963a-fc1ce6da8e46)
+  )
+  (wire (pts (xy 502.92 68.58) (xy 505.46 68.58))
+    (stroke (width 0) (type default))
+    (uuid c1ef3b39-45ad-4951-9006-564d4a02c63e)
   )
   (wire (pts (xy 180.34 99.06) (xy 181.61 99.06))
     (stroke (width 0) (type default))
@@ -3459,6 +3491,10 @@
     (stroke (width 0) (type default))
     (uuid fa24d769-f352-43cd-8f3e-93b1a1977c2c)
   )
+  (wire (pts (xy 542.29 149.86) (xy 565.15 149.86))
+    (stroke (width 0) (type default))
+    (uuid fc279bdd-1b03-404c-94dd-fc480c0138e1)
+  )
   (wire (pts (xy 651.51 138.43) (xy 651.51 175.26))
     (stroke (width 0) (type default))
     (uuid fc65a935-c978-41fd-ba27-16c93aef9e51)
@@ -3501,6 +3537,10 @@
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid 3ce57fe0-5a00-4914-885c-7f8a1fd79650)
   )
+  (text "OMIT 4.7K RES IF SERIAL COMM IS USED." (at 486.41 201.93 0)
+    (effects (font (size 1.27 1.27)) (justify left bottom))
+    (uuid 3d66173b-7f5b-4f19-97ca-e922012a123f)
+  )
   (text "L1 \n" (at 520.7 132.08 0)
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid 5b6f4fe2-24fd-419c-8406-686ed00d008f)
@@ -3521,21 +3561,25 @@
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid 8e0b871f-bed6-4bbe-a238-37f4a399fe94)
   )
-  (text "OMIT R9 R11 IF SERIAL COMM IS USED." (at 487.68 200.66 0)
-    (effects (font (size 1.27 1.27)) (justify left bottom))
-    (uuid 9113ca8e-c4f6-4bfa-b88d-1b7e86307025)
-  )
   (text "SPLIT_HAND_PIN_LOW_IS_LEFT" (at 345.44 62.23 0)
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid 9cbc4230-a2ae-48cc-8c5b-b9ed45581e6c)
+  )
+  (text "NUM" (at 391.16 134.62 0)
+    (effects (font (size 1.27 1.27)) (justify left bottom))
+    (uuid c4ececc9-c1de-41c8-bfa0-0f4b4621d720)
   )
   (text "TRRS jack, SJ-43514" (at 496.57 176.53 0)
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid c877cf50-4c98-4000-9f4a-d32011a89f8c)
   )
-  (text "OMIT R9 R11 IF SERIAL COMM IS USED." (at 318.77 207.01 0)
+  (text "OMIT 4.7K RES IF SERIAL COMM IS USED." (at 318.77 207.01 0)
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid e1b4ed9c-c004-4f59-96c5-66f60a225ade)
+  )
+  (text "NUM" (at 567.69 134.62 0)
+    (effects (font (size 1.27 1.27)) (justify left bottom))
+    (uuid e4b7feac-2513-4741-8fc7-bc6c12955f07)
   )
   (text "TRRS jack, SJ-43514" (at 325.12 176.53 0)
     (effects (font (size 1.27 1.27)) (justify left bottom))
@@ -3678,6 +3722,13 @@
     (uuid 0ffd0c5c-9ae5-4a08-8249-ff5e84fa2f14)
     (property "Intersheetrefs" "${INTERSHEET_REFS}" (at 457.3553 45.6406 0)
       (effects (font (size 1.27 1.27)) (justify right) hide)
+    )
+  )
+  (global_label "PWM5" (shape input) (at 388.62 125.73 90) (fields_autoplaced)
+    (effects (font (size 1.27 1.27)) (justify left))
+    (uuid 1103ed4d-a655-43f7-bd31-c72f52b09d47)
+    (property "Intersheetrefs" "${INTERSHEET_REFS}" (at 388.62 117.4419 90)
+      (effects (font (size 1.27 1.27)) (justify left) hide)
     )
   )
   (global_label "PWM4" (shape input) (at 346.71 78.74 0) (fields_autoplaced)
@@ -3827,6 +3878,13 @@
       (effects (font (size 1.27 1.27)) (justify left) hide)
     )
   )
+  (global_label "PWM5R" (shape input) (at 505.46 68.58 0) (fields_autoplaced)
+    (effects (font (size 1.27 1.27)) (justify left))
+    (uuid 3cbfe421-2986-44bf-9de5-e1a660e846bc)
+    (property "Intersheetrefs" "${INTERSHEET_REFS}" (at 515.0181 68.58 0)
+      (effects (font (size 1.27 1.27)) (justify left) hide)
+    )
+  )
   (global_label "GNDL" (shape bidirectional) (at 345.44 45.72 0) (fields_autoplaced)
     (effects (font (size 1.27 1.27)) (justify left))
     (uuid 420ce522-4d25-41f4-a3c5-dc38684a8a41)
@@ -3930,6 +3988,13 @@
     (uuid 60a6465b-9718-4b36-b62e-41bf90c93ee8)
     (property "Intersheetrefs" "${INTERSHEET_REFS}" (at 492.6806 162.4936 90)
       (effects (font (size 1.27 1.27)) (justify right) hide)
+    )
+  )
+  (global_label "PWM5R" (shape input) (at 565.15 121.92 90) (fields_autoplaced)
+    (effects (font (size 1.27 1.27)) (justify left))
+    (uuid 62aba459-63d1-4f08-af1e-94d03964bae7)
+    (property "Intersheetrefs" "${INTERSHEET_REFS}" (at 565.15 112.3619 90)
+      (effects (font (size 1.27 1.27)) (justify left) hide)
     )
   )
   (global_label "ROW2" (shape input) (at 300.99 55.88 180) (fields_autoplaced)
@@ -4077,6 +4142,13 @@
     (uuid 93b04e15-f2d8-4964-809f-f1b977d84cda)
     (property "Intersheetrefs" "${INTERSHEET_REFS}" (at 447.4977 86.2806 0)
       (effects (font (size 1.27 1.27)) (justify right) hide)
+    )
+  )
+  (global_label "PWM5" (shape input) (at 345.44 68.58 0) (fields_autoplaced)
+    (effects (font (size 1.27 1.27)) (justify left))
+    (uuid 95e7e4aa-f2fa-446f-83f7-aea093a39e72)
+    (property "Intersheetrefs" "${INTERSHEET_REFS}" (at 353.7281 68.58 0)
+      (effects (font (size 1.27 1.27)) (justify left) hide)
     )
   )
   (global_label "ROW6R" (shape input) (at 802.64 223.52 0) (fields_autoplaced)
@@ -5750,7 +5822,7 @@
   (symbol (lib_id "Diode:1N4148") (at 779.78 135.89 0) (mirror x) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 00000000-0000-0000-0000-00005f4578df)
-    (property "Reference" "D44" (at 779.78 130.3782 0)
+    (property "Reference" "D46" (at 779.78 130.3782 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "1N4148" (at 779.78 132.6896 0)
@@ -5767,7 +5839,7 @@
     (instances
       (project "Europe-ergo"
         (path "/95af97f8-b0d4-471d-a7e2-0d2b460f21a8"
-          (reference "D44") (unit 1)
+          (reference "D46") (unit 1)
         )
       )
     )
@@ -5776,7 +5848,7 @@
   (symbol (lib_id "Diode:1N4148") (at 754.38 135.89 0) (mirror x) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 00000000-0000-0000-0000-00005f458e52)
-    (property "Reference" "D43" (at 754.38 130.3782 0)
+    (property "Reference" "D45" (at 754.38 130.3782 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "1N4148" (at 754.38 132.6896 0)
@@ -5793,7 +5865,7 @@
     (instances
       (project "Europe-ergo"
         (path "/95af97f8-b0d4-471d-a7e2-0d2b460f21a8"
-          (reference "D43") (unit 1)
+          (reference "D45") (unit 1)
         )
       )
     )
@@ -5802,7 +5874,7 @@
   (symbol (lib_id "Diode:1N4148") (at 778.51 171.45 0) (mirror x) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 00000000-0000-0000-0000-00005f45ae36)
-    (property "Reference" "D58" (at 778.51 165.9382 0)
+    (property "Reference" "D60" (at 778.51 165.9382 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "1N4148" (at 778.51 168.2496 0)
@@ -5819,7 +5891,7 @@
     (instances
       (project "Europe-ergo"
         (path "/95af97f8-b0d4-471d-a7e2-0d2b460f21a8"
-          (reference "D58") (unit 1)
+          (reference "D60") (unit 1)
         )
       )
     )
@@ -5828,7 +5900,7 @@
   (symbol (lib_id "Diode:1N4148") (at 754.38 171.45 0) (mirror x) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 00000000-0000-0000-0000-00005f45bbc1)
-    (property "Reference" "D57" (at 754.38 165.9382 0)
+    (property "Reference" "D59" (at 754.38 165.9382 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "1N4148" (at 754.38 168.2496 0)
@@ -5845,7 +5917,7 @@
     (instances
       (project "Europe-ergo"
         (path "/95af97f8-b0d4-471d-a7e2-0d2b460f21a8"
-          (reference "D57") (unit 1)
+          (reference "D59") (unit 1)
         )
       )
     )
@@ -5854,7 +5926,7 @@
   (symbol (lib_id "Diode:1N4148") (at 778.51 207.01 0) (mirror x) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 00000000-0000-0000-0000-00005f45c46c)
-    (property "Reference" "D76" (at 778.51 201.4982 0)
+    (property "Reference" "D78" (at 778.51 201.4982 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "1N4148" (at 778.51 203.8096 0)
@@ -5871,7 +5943,7 @@
     (instances
       (project "Europe-ergo"
         (path "/95af97f8-b0d4-471d-a7e2-0d2b460f21a8"
-          (reference "D76") (unit 1)
+          (reference "D78") (unit 1)
         )
       )
     )
@@ -5880,7 +5952,7 @@
   (symbol (lib_id "Diode:1N4148") (at 754.38 207.01 0) (mirror x) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 00000000-0000-0000-0000-00005f45deb0)
-    (property "Reference" "D75" (at 754.38 201.4982 0)
+    (property "Reference" "D77" (at 754.38 201.4982 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "1N4148" (at 754.38 203.8096 0)
@@ -5897,7 +5969,7 @@
     (instances
       (project "Europe-ergo"
         (path "/95af97f8-b0d4-471d-a7e2-0d2b460f21a8"
-          (reference "D75") (unit 1)
+          (reference "D77") (unit 1)
         )
       )
     )
@@ -5906,7 +5978,7 @@
   (symbol (lib_id "Diode:1N4148") (at 777.24 238.76 0) (mirror x) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 00000000-0000-0000-0000-00005f45f9a2)
-    (property "Reference" "D96" (at 777.24 233.2482 0)
+    (property "Reference" "D98" (at 777.24 233.2482 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "1N4148" (at 777.24 235.5596 0)
@@ -5923,7 +5995,7 @@
     (instances
       (project "Europe-ergo"
         (path "/95af97f8-b0d4-471d-a7e2-0d2b460f21a8"
-          (reference "D96") (unit 1)
+          (reference "D98") (unit 1)
         )
       )
     )
@@ -5932,7 +6004,7 @@
   (symbol (lib_id "Diode:1N4148") (at 753.11 238.76 0) (mirror x) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 00000000-0000-0000-0000-00005f46025b)
-    (property "Reference" "D95" (at 753.11 241.3 0)
+    (property "Reference" "D97" (at 753.11 241.3 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "1N4148" (at 753.11 235.5596 0)
@@ -5949,7 +6021,7 @@
     (instances
       (project "Europe-ergo"
         (path "/95af97f8-b0d4-471d-a7e2-0d2b460f21a8"
-          (reference "D95") (unit 1)
+          (reference "D97") (unit 1)
         )
       )
     )
@@ -6158,7 +6230,7 @@
   (symbol (lib_id "Diode:1N4148") (at 727.71 241.3 0) (mirror x) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 00000000-0000-0000-0000-00005f4d3e07)
-    (property "Reference" "D99" (at 727.71 235.7882 0)
+    (property "Reference" "D101" (at 727.71 235.7882 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "1N4148" (at 727.71 238.0996 0)
@@ -6175,7 +6247,7 @@
     (instances
       (project "Europe-ergo"
         (path "/95af97f8-b0d4-471d-a7e2-0d2b460f21a8"
-          (reference "D99") (unit 1)
+          (reference "D101") (unit 1)
         )
       )
     )
@@ -6184,7 +6256,7 @@
   (symbol (lib_id "Diode:1N4148") (at 728.98 210.82 0) (mirror x) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 00000000-0000-0000-0000-00005f4d54c6)
-    (property "Reference" "D84" (at 728.98 205.3082 0)
+    (property "Reference" "D86" (at 728.98 205.3082 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "1N4148" (at 728.98 207.6196 0)
@@ -6201,7 +6273,7 @@
     (instances
       (project "Europe-ergo"
         (path "/95af97f8-b0d4-471d-a7e2-0d2b460f21a8"
-          (reference "D84") (unit 1)
+          (reference "D86") (unit 1)
         )
       )
     )
@@ -6210,7 +6282,7 @@
   (symbol (lib_id "Diode:1N4148") (at 727.71 176.53 0) (mirror x) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 00000000-0000-0000-0000-00005f4dbe05)
-    (property "Reference" "D68" (at 727.71 171.0182 0)
+    (property "Reference" "D70" (at 727.71 171.0182 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "1N4148" (at 727.71 173.3296 0)
@@ -6227,7 +6299,7 @@
     (instances
       (project "Europe-ergo"
         (path "/95af97f8-b0d4-471d-a7e2-0d2b460f21a8"
-          (reference "D68") (unit 1)
+          (reference "D70") (unit 1)
         )
       )
     )
@@ -6236,7 +6308,7 @@
   (symbol (lib_id "Diode:1N4148") (at 728.98 139.7 0) (mirror x) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 00000000-0000-0000-0000-00005f4de166)
-    (property "Reference" "D52" (at 728.98 134.1882 0)
+    (property "Reference" "D54" (at 728.98 134.1882 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "1N4148" (at 728.98 136.4996 0)
@@ -6253,7 +6325,7 @@
     (instances
       (project "Europe-ergo"
         (path "/95af97f8-b0d4-471d-a7e2-0d2b460f21a8"
-          (reference "D52") (unit 1)
+          (reference "D54") (unit 1)
         )
       )
     )
@@ -6366,7 +6438,7 @@
   (symbol (lib_id "Diode:1N4148") (at 703.58 176.53 0) (mirror x) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 00000000-0000-0000-0000-00005f53fb64)
-    (property "Reference" "D67" (at 703.58 171.0182 0)
+    (property "Reference" "D69" (at 703.58 171.0182 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "1N4148" (at 703.58 173.3296 0)
@@ -6383,7 +6455,7 @@
     (instances
       (project "Europe-ergo"
         (path "/95af97f8-b0d4-471d-a7e2-0d2b460f21a8"
-          (reference "D67") (unit 1)
+          (reference "D69") (unit 1)
         )
       )
     )
@@ -6392,7 +6464,7 @@
   (symbol (lib_id "Diode:1N4148") (at 703.58 210.82 0) (mirror x) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 00000000-0000-0000-0000-00005f5431f1)
-    (property "Reference" "D83" (at 703.58 205.3082 0)
+    (property "Reference" "D85" (at 703.58 205.3082 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "1N4148" (at 703.58 207.6196 0)
@@ -6409,7 +6481,7 @@
     (instances
       (project "Europe-ergo"
         (path "/95af97f8-b0d4-471d-a7e2-0d2b460f21a8"
-          (reference "D83") (unit 1)
+          (reference "D85") (unit 1)
         )
       )
     )
@@ -6418,7 +6490,7 @@
   (symbol (lib_id "Diode:1N4148") (at 703.58 243.84 0) (mirror x) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 00000000-0000-0000-0000-00005f545e0b)
-    (property "Reference" "D102" (at 703.58 238.3282 0)
+    (property "Reference" "D104" (at 703.58 238.3282 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "1N4148" (at 703.58 240.6396 0)
@@ -6435,7 +6507,7 @@
     (instances
       (project "Europe-ergo"
         (path "/95af97f8-b0d4-471d-a7e2-0d2b460f21a8"
-          (reference "D102") (unit 1)
+          (reference "D104") (unit 1)
         )
       )
     )
@@ -6444,7 +6516,7 @@
   (symbol (lib_id "Diode:1N4148") (at 703.58 140.97 0) (mirror x) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 00000000-0000-0000-0000-00005f57e51e)
-    (property "Reference" "D54" (at 703.58 135.4582 0)
+    (property "Reference" "D56" (at 703.58 135.4582 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "1N4148" (at 703.58 137.7696 0)
@@ -6461,7 +6533,7 @@
     (instances
       (project "Europe-ergo"
         (path "/95af97f8-b0d4-471d-a7e2-0d2b460f21a8"
-          (reference "D54") (unit 1)
+          (reference "D56") (unit 1)
         )
       )
     )
@@ -6470,7 +6542,7 @@
   (symbol (lib_id "Diode:1N4148") (at 680.72 242.57 0) (mirror x) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 00000000-0000-0000-0000-00005f5bb9b5)
-    (property "Reference" "D101" (at 680.72 237.0582 0)
+    (property "Reference" "D103" (at 680.72 237.0582 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "1N4148" (at 680.72 239.3696 0)
@@ -6487,7 +6559,7 @@
     (instances
       (project "Europe-ergo"
         (path "/95af97f8-b0d4-471d-a7e2-0d2b460f21a8"
-          (reference "D101") (unit 1)
+          (reference "D103") (unit 1)
         )
       )
     )
@@ -6496,7 +6568,7 @@
   (symbol (lib_id "Diode:1N4148") (at 680.72 210.82 0) (mirror x) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 00000000-0000-0000-0000-00005f5bcf1a)
-    (property "Reference" "D82" (at 680.72 205.3082 0)
+    (property "Reference" "D84" (at 680.72 205.3082 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "1N4148" (at 680.72 207.6196 0)
@@ -6513,7 +6585,7 @@
     (instances
       (project "Europe-ergo"
         (path "/95af97f8-b0d4-471d-a7e2-0d2b460f21a8"
-          (reference "D82") (unit 1)
+          (reference "D84") (unit 1)
         )
       )
     )
@@ -6522,7 +6594,7 @@
   (symbol (lib_id "Diode:1N4148") (at 680.72 175.26 0) (mirror x) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 00000000-0000-0000-0000-00005f5bfdec)
-    (property "Reference" "D66" (at 680.72 169.7482 0)
+    (property "Reference" "D68" (at 680.72 169.7482 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "1N4148" (at 680.72 172.0596 0)
@@ -6539,7 +6611,7 @@
     (instances
       (project "Europe-ergo"
         (path "/95af97f8-b0d4-471d-a7e2-0d2b460f21a8"
-          (reference "D66") (unit 1)
+          (reference "D68") (unit 1)
         )
       )
     )
@@ -6548,7 +6620,7 @@
   (symbol (lib_id "Diode:1N4148") (at 681.99 140.97 0) (mirror x) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 00000000-0000-0000-0000-00005f5c4c45)
-    (property "Reference" "D53" (at 681.99 135.4582 0)
+    (property "Reference" "D55" (at 681.99 135.4582 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "1N4148" (at 681.99 137.7696 0)
@@ -6565,7 +6637,7 @@
     (instances
       (project "Europe-ergo"
         (path "/95af97f8-b0d4-471d-a7e2-0d2b460f21a8"
-          (reference "D53") (unit 1)
+          (reference "D55") (unit 1)
         )
       )
     )
@@ -6626,7 +6698,7 @@
   (symbol (lib_id "Diode:1N4148") (at 656.59 210.82 0) (mirror x) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 00000000-0000-0000-0000-00005f645ddf)
-    (property "Reference" "D81" (at 656.59 205.3082 0)
+    (property "Reference" "D83" (at 656.59 205.3082 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "1N4148" (at 656.59 207.6196 0)
@@ -6643,7 +6715,7 @@
     (instances
       (project "Europe-ergo"
         (path "/95af97f8-b0d4-471d-a7e2-0d2b460f21a8"
-          (reference "D81") (unit 1)
+          (reference "D83") (unit 1)
         )
       )
     )
@@ -6652,7 +6724,7 @@
   (symbol (lib_id "Diode:1N4148") (at 656.59 175.26 0) (mirror x) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 00000000-0000-0000-0000-00005f65aec1)
-    (property "Reference" "D65" (at 656.59 169.7482 0)
+    (property "Reference" "D67" (at 656.59 169.7482 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "1N4148" (at 656.59 172.0596 0)
@@ -6669,7 +6741,7 @@
     (instances
       (project "Europe-ergo"
         (path "/95af97f8-b0d4-471d-a7e2-0d2b460f21a8"
-          (reference "D65") (unit 1)
+          (reference "D67") (unit 1)
         )
       )
     )
@@ -6678,7 +6750,7 @@
   (symbol (lib_id "Diode:1N4148") (at 656.59 138.43 0) (mirror x) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 00000000-0000-0000-0000-00005f66e6e3)
-    (property "Reference" "D49" (at 656.59 132.9182 0)
+    (property "Reference" "D51" (at 656.59 132.9182 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "1N4148" (at 656.59 135.2296 0)
@@ -6695,7 +6767,7 @@
     (instances
       (project "Europe-ergo"
         (path "/95af97f8-b0d4-471d-a7e2-0d2b460f21a8"
-          (reference "D49") (unit 1)
+          (reference "D51") (unit 1)
         )
       )
     )
@@ -6756,7 +6828,7 @@
   (symbol (lib_id "Diode:1N4148") (at 633.73 213.36 0) (mirror x) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 00000000-0000-0000-0000-00005f71817d)
-    (property "Reference" "D86" (at 633.73 207.8482 0)
+    (property "Reference" "D88" (at 633.73 207.8482 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "1N4148" (at 633.73 210.1596 0)
@@ -6773,7 +6845,7 @@
     (instances
       (project "Europe-ergo"
         (path "/95af97f8-b0d4-471d-a7e2-0d2b460f21a8"
-          (reference "D86") (unit 1)
+          (reference "D88") (unit 1)
         )
       )
     )
@@ -6782,7 +6854,7 @@
   (symbol (lib_id "Diode:1N4148") (at 632.46 175.26 0) (mirror x) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 00000000-0000-0000-0000-00005f718c72)
-    (property "Reference" "D64" (at 632.46 169.7482 0)
+    (property "Reference" "D66" (at 632.46 169.7482 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "1N4148" (at 632.46 172.0596 0)
@@ -6799,7 +6871,7 @@
     (instances
       (project "Europe-ergo"
         (path "/95af97f8-b0d4-471d-a7e2-0d2b460f21a8"
-          (reference "D64") (unit 1)
+          (reference "D66") (unit 1)
         )
       )
     )
@@ -6808,7 +6880,7 @@
   (symbol (lib_id "Diode:1N4148") (at 632.46 138.43 0) (mirror x) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 00000000-0000-0000-0000-00005f71c7bd)
-    (property "Reference" "D48" (at 632.46 132.9182 0)
+    (property "Reference" "D50" (at 632.46 132.9182 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "1N4148" (at 632.46 135.2296 0)
@@ -6825,7 +6897,7 @@
     (instances
       (project "Europe-ergo"
         (path "/95af97f8-b0d4-471d-a7e2-0d2b460f21a8"
-          (reference "D48") (unit 1)
+          (reference "D50") (unit 1)
         )
       )
     )
@@ -6912,7 +6984,7 @@
   (symbol (lib_id "Diode:1N4148") (at 604.52 135.89 0) (mirror x) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 00000000-0000-0000-0000-00005f72bde6)
-    (property "Reference" "D42" (at 604.52 130.3782 0)
+    (property "Reference" "D44" (at 604.52 130.3782 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "1N4148" (at 604.52 132.6896 0)
@@ -6929,7 +7001,7 @@
     (instances
       (project "Europe-ergo"
         (path "/95af97f8-b0d4-471d-a7e2-0d2b460f21a8"
-          (reference "D42") (unit 1)
+          (reference "D44") (unit 1)
         )
       )
     )
@@ -6938,7 +7010,7 @@
   (symbol (lib_id "Diode:1N4148") (at 603.25 207.01 0) (mirror x) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 00000000-0000-0000-0000-00005f734136)
-    (property "Reference" "D74" (at 603.25 201.4982 0)
+    (property "Reference" "D76" (at 603.25 201.4982 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "1N4148" (at 603.25 203.8096 0)
@@ -6955,7 +7027,7 @@
     (instances
       (project "Europe-ergo"
         (path "/95af97f8-b0d4-471d-a7e2-0d2b460f21a8"
-          (reference "D74") (unit 1)
+          (reference "D76") (unit 1)
         )
       )
     )
@@ -6964,7 +7036,7 @@
   (symbol (lib_id "Diode:1N4148") (at 574.04 207.01 0) (mirror x) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 00000000-0000-0000-0000-00005f7e4016)
-    (property "Reference" "D73" (at 574.04 201.4982 0)
+    (property "Reference" "D75" (at 574.04 201.4982 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "1N4148" (at 574.04 203.8096 0)
@@ -6981,7 +7053,7 @@
     (instances
       (project "Europe-ergo"
         (path "/95af97f8-b0d4-471d-a7e2-0d2b460f21a8"
-          (reference "D73") (unit 1)
+          (reference "D75") (unit 1)
         )
       )
     )
@@ -6990,7 +7062,7 @@
   (symbol (lib_id "Diode:1N4148") (at 652.78 238.76 0) (mirror x) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 00000000-0000-0000-0000-00005f7e7543)
-    (property "Reference" "D94" (at 652.78 233.2482 0)
+    (property "Reference" "D96" (at 652.78 233.2482 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "1N4148" (at 652.78 235.5596 0)
@@ -7007,7 +7079,7 @@
     (instances
       (project "Europe-ergo"
         (path "/95af97f8-b0d4-471d-a7e2-0d2b460f21a8"
-          (reference "D94") (unit 1)
+          (reference "D96") (unit 1)
         )
       )
     )
@@ -7016,7 +7088,7 @@
   (symbol (lib_id "Diode:1N4148") (at 604.52 238.76 0) (mirror x) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 00000000-0000-0000-0000-00005f7e8088)
-    (property "Reference" "D93" (at 604.52 233.2482 0)
+    (property "Reference" "D95" (at 604.52 233.2482 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "1N4148" (at 604.52 235.5596 0)
@@ -7033,7 +7105,7 @@
     (instances
       (project "Europe-ergo"
         (path "/95af97f8-b0d4-471d-a7e2-0d2b460f21a8"
-          (reference "D93") (unit 1)
+          (reference "D95") (unit 1)
         )
       )
     )
@@ -7042,7 +7114,7 @@
   (symbol (lib_id "Diode:1N4148") (at 574.04 238.76 0) (mirror x) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 00000000-0000-0000-0000-00005f7e8ad4)
-    (property "Reference" "D92" (at 574.04 233.2482 0)
+    (property "Reference" "D94" (at 574.04 233.2482 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "1N4148" (at 574.04 235.5596 0)
@@ -7059,7 +7131,7 @@
     (instances
       (project "Europe-ergo"
         (path "/95af97f8-b0d4-471d-a7e2-0d2b460f21a8"
-          (reference "D92") (unit 1)
+          (reference "D94") (unit 1)
         )
       )
     )
@@ -7068,7 +7140,7 @@
   (symbol (lib_id "Device:LED") (at 492.76 134.62 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 0008e4ab-5c4c-4ab9-8d90-82928e5a5301)
-    (property "Reference" "D39" (at 496.57 134.9374 90)
+    (property "Reference" "D40" (at 496.57 134.9374 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Value" "LTL-4233 " (at 496.57 137.4774 90)
@@ -7085,7 +7157,7 @@
     (instances
       (project "Europe-ergo"
         (path "/95af97f8-b0d4-471d-a7e2-0d2b460f21a8"
-          (reference "D39") (unit 1)
+          (reference "D40") (unit 1)
         )
       )
     )
@@ -7143,6 +7215,32 @@
     )
   )
 
+  (symbol (lib_id "Device:LED") (at 565.15 134.62 270) (mirror x) (unit 1)
+    (in_bom yes) (on_board yes) (dnp no)
+    (uuid 057cdbbd-bbee-4320-8668-093d344700cf)
+    (property "Reference" "D43" (at 558.673 134.7978 0)
+      (effects (font (size 1.27 1.27)))
+    )
+    (property "Value" "LTL-4233 " (at 560.9844 134.7978 0)
+      (effects (font (size 1.27 1.27)))
+    )
+    (property "Footprint" "Diode_THT:D_A-405_P2.54mm_Vertical_AnodeUp" (at 565.15 134.62 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "Datasheet" "~" (at 565.15 134.62 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (pin "1" (uuid 52ff19fe-aaeb-400c-ad48-1eb5ecad3a97))
+    (pin "2" (uuid fa542fd2-d15b-4930-b46b-d658496bec81))
+    (instances
+      (project "Europe-ergo"
+        (path "/95af97f8-b0d4-471d-a7e2-0d2b460f21a8"
+          (reference "D43") (unit 1)
+        )
+      )
+    )
+  )
+
   (symbol (lib_id "pcb-flat-left-rescue:MX-NO-LED-keyboard2-pcb-flat-right-rescue") (at 146.05 87.63 270) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 08897bad-a2d9-4faf-a695-1e327e06e411)
@@ -7172,7 +7270,7 @@
   (symbol (lib_id "Device:LED") (at 519.43 134.62 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 09b9a780-5f07-4191-b7cc-d5552208cb7c)
-    (property "Reference" "D40" (at 523.24 134.9374 90)
+    (property "Reference" "D41" (at 523.24 134.9374 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Value" "LTL-4233 " (at 523.24 137.4774 90)
@@ -7189,7 +7287,7 @@
     (instances
       (project "Europe-ergo"
         (path "/95af97f8-b0d4-471d-a7e2-0d2b460f21a8"
-          (reference "D40") (unit 1)
+          (reference "D41") (unit 1)
         )
       )
     )
@@ -7302,7 +7400,7 @@
   (symbol (lib_id "Diode:1N4148") (at 151.13 139.7 180) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 111eed34-8297-4ca8-9607-0a108fc9fd98)
-    (property "Reference" "D51" (at 151.13 134.1882 0)
+    (property "Reference" "D53" (at 151.13 134.1882 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "1N4148" (at 151.13 136.4996 0)
@@ -7319,7 +7417,7 @@
     (instances
       (project "Europe-ergo"
         (path "/95af97f8-b0d4-471d-a7e2-0d2b460f21a8"
-          (reference "D51") (unit 1)
+          (reference "D53") (unit 1)
         )
       )
     )
@@ -7354,7 +7452,7 @@
   (symbol (lib_id "Diode:1N4148") (at 176.53 209.55 180) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 1a3f4eea-23d2-41a3-b2d5-064d78bc69fe)
-    (property "Reference" "D80" (at 176.53 204.0382 0)
+    (property "Reference" "D82" (at 176.53 204.0382 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "1N4148" (at 176.53 206.3496 0)
@@ -7371,7 +7469,7 @@
     (instances
       (project "Europe-ergo"
         (path "/95af97f8-b0d4-471d-a7e2-0d2b460f21a8"
-          (reference "D80") (unit 1)
+          (reference "D82") (unit 1)
         )
       )
     )
@@ -7628,7 +7726,7 @@
   (symbol (lib_id "Device:R") (at 542.29 146.05 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 262ea3ac-06a7-4696-a737-b44bae5626ab)
-    (property "Reference" "R8" (at 544.83 144.7799 0)
+    (property "Reference" "R9" (at 544.83 144.7799 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "330" (at 544.83 147.3199 0)
@@ -7645,7 +7743,7 @@
     (instances
       (project "Europe-ergo"
         (path "/95af97f8-b0d4-471d-a7e2-0d2b460f21a8"
-          (reference "R8") (unit 1)
+          (reference "R9") (unit 1)
         )
       )
     )
@@ -7672,6 +7770,32 @@
       (project "Europe-ergo"
         (path "/95af97f8-b0d4-471d-a7e2-0d2b460f21a8"
           (reference "SW53") (unit 1)
+        )
+      )
+    )
+  )
+
+  (symbol (lib_id "Device:R") (at 388.62 146.05 0) (mirror x) (unit 1)
+    (in_bom yes) (on_board yes) (dnp no)
+    (uuid 28dd868a-4590-4d51-9907-49e9d366b8f6)
+    (property "Reference" "R5" (at 383.3622 146.05 90)
+      (effects (font (size 1.27 1.27)))
+    )
+    (property "Value" "330" (at 385.6736 146.05 90)
+      (effects (font (size 1.27 1.27)))
+    )
+    (property "Footprint" "Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal" (at 386.842 146.05 90)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "Datasheet" "~" (at 388.62 146.05 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (pin "1" (uuid dd0e2ad3-89a0-438e-8774-d75719b29ffd))
+    (pin "2" (uuid 77f28973-cf94-4912-9b11-a76523817f8c))
+    (instances
+      (project "Europe-ergo"
+        (path "/95af97f8-b0d4-471d-a7e2-0d2b460f21a8"
+          (reference "R5") (unit 1)
         )
       )
     )
@@ -7732,7 +7856,7 @@
   (symbol (lib_id "Diode:1N4148") (at 129.54 242.57 180) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 2b3a503c-dcc9-4ffe-b35e-0af1b52dc053)
-    (property "Reference" "D100" (at 129.54 237.0582 0)
+    (property "Reference" "D102" (at 129.54 237.0582 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "1N4148" (at 129.54 239.3696 0)
@@ -7749,7 +7873,7 @@
     (instances
       (project "Europe-ergo"
         (path "/95af97f8-b0d4-471d-a7e2-0d2b460f21a8"
-          (reference "D100") (unit 1)
+          (reference "D102") (unit 1)
         )
       )
     )
@@ -7825,7 +7949,7 @@
   (symbol (lib_id "Diode:1N4148") (at 105.41 240.03 180) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 2d589016-d683-4eb4-9aa7-3f6fb76547bb)
-    (property "Reference" "D97" (at 105.41 234.5182 0)
+    (property "Reference" "D99" (at 105.41 234.5182 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "1N4148" (at 105.41 236.8296 0)
@@ -7842,7 +7966,7 @@
     (instances
       (project "Europe-ergo"
         (path "/95af97f8-b0d4-471d-a7e2-0d2b460f21a8"
-          (reference "D97") (unit 1)
+          (reference "D99") (unit 1)
         )
       )
     )
@@ -7851,7 +7975,7 @@
   (symbol (lib_id "Diode:1N4148") (at 262.89 237.49 180) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 2f6f740d-b4d9-4472-83a7-30c55fa16379)
-    (property "Reference" "D91" (at 262.89 231.9782 0)
+    (property "Reference" "D93" (at 262.89 231.9782 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "1N4148" (at 262.89 234.2896 0)
@@ -7868,7 +7992,7 @@
     (instances
       (project "Europe-ergo"
         (path "/95af97f8-b0d4-471d-a7e2-0d2b460f21a8"
-          (reference "D91") (unit 1)
+          (reference "D93") (unit 1)
         )
       )
     )
@@ -8007,7 +8131,7 @@
   (symbol (lib_id "Device:LED") (at 542.29 134.62 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 36fe5871-afa0-4073-bec4-90cfa5d7b8c1)
-    (property "Reference" "D41" (at 546.1 134.9374 90)
+    (property "Reference" "D42" (at 546.1 134.9374 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Value" "LTL-4233 " (at 546.1 137.4774 90)
@@ -8024,7 +8148,7 @@
     (instances
       (project "Europe-ergo"
         (path "/95af97f8-b0d4-471d-a7e2-0d2b460f21a8"
-          (reference "D41") (unit 1)
+          (reference "D42") (unit 1)
         )
       )
     )
@@ -8088,7 +8212,7 @@
   (symbol (lib_id "Diode:1N4148") (at 104.14 138.43 180) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 43929e75-87bc-479e-a91c-88a53b573190)
-    (property "Reference" "D47" (at 104.14 132.9182 0)
+    (property "Reference" "D49" (at 104.14 132.9182 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "1N4148" (at 104.14 135.2296 0)
@@ -8105,7 +8229,7 @@
     (instances
       (project "Europe-ergo"
         (path "/95af97f8-b0d4-471d-a7e2-0d2b460f21a8"
-          (reference "D47") (unit 1)
+          (reference "D49") (unit 1)
         )
       )
     )
@@ -8247,7 +8371,7 @@
   (symbol (lib_id "Diode:1N4148") (at 129.54 139.7 180) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 4944dcc3-907f-4c1e-ba98-9e09d147b6b0)
-    (property "Reference" "D50" (at 129.54 134.1882 0)
+    (property "Reference" "D52" (at 129.54 134.1882 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "1N4148" (at 129.54 136.4996 0)
@@ -8264,7 +8388,7 @@
     (instances
       (project "Europe-ergo"
         (path "/95af97f8-b0d4-471d-a7e2-0d2b460f21a8"
-          (reference "D50") (unit 1)
+          (reference "D52") (unit 1)
         )
       )
     )
@@ -8328,7 +8452,7 @@
   (symbol (lib_id "Diode:1N4148") (at 54.61 205.74 180) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 4aa0a502-e6bb-422b-890b-fe70c5f41628)
-    (property "Reference" "D69" (at 54.61 200.2282 0)
+    (property "Reference" "D71" (at 54.61 200.2282 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "1N4148" (at 54.61 202.5396 0)
@@ -8345,7 +8469,7 @@
     (instances
       (project "Europe-ergo"
         (path "/95af97f8-b0d4-471d-a7e2-0d2b460f21a8"
-          (reference "D69") (unit 1)
+          (reference "D71") (unit 1)
         )
       )
     )
@@ -8380,7 +8504,7 @@
   (symbol (lib_id "Device:R") (at 519.43 146.05 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 4bc13a03-bd5a-46fe-8c62-b886566c94ff)
-    (property "Reference" "R7" (at 521.97 144.7799 0)
+    (property "Reference" "R8" (at 521.97 144.7799 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "330" (at 521.97 147.3199 0)
@@ -8397,7 +8521,7 @@
     (instances
       (project "Europe-ergo"
         (path "/95af97f8-b0d4-471d-a7e2-0d2b460f21a8"
-          (reference "R7") (unit 1)
+          (reference "R8") (unit 1)
         )
       )
     )
@@ -8406,7 +8530,7 @@
   (symbol (lib_id "Diode:1N4148") (at 200.66 137.16 180) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 4c77a925-a659-47e5-840b-189ed550fcb8)
-    (property "Reference" "D46" (at 200.66 131.6482 0)
+    (property "Reference" "D48" (at 200.66 131.6482 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "1N4148" (at 200.66 133.9596 0)
@@ -8423,7 +8547,7 @@
     (instances
       (project "Europe-ergo"
         (path "/95af97f8-b0d4-471d-a7e2-0d2b460f21a8"
-          (reference "D46") (unit 1)
+          (reference "D48") (unit 1)
         )
       )
     )
@@ -8510,7 +8634,7 @@
   (symbol (lib_id "Diode:1N4148") (at 104.14 209.55 180) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 55ed4f91-f754-422f-bf60-35e0f134683d)
-    (property "Reference" "D77" (at 104.14 204.0382 0)
+    (property "Reference" "D79" (at 104.14 204.0382 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "1N4148" (at 104.14 206.3496 0)
@@ -8527,7 +8651,7 @@
     (instances
       (project "Europe-ergo"
         (path "/95af97f8-b0d4-471d-a7e2-0d2b460f21a8"
-          (reference "D77") (unit 1)
+          (reference "D79") (unit 1)
         )
       )
     )
@@ -8562,7 +8686,7 @@
   (symbol (lib_id "Device:LED") (at 463.55 134.62 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 57030591-5750-40c7-a3c0-c7617345f841)
-    (property "Reference" "D38" (at 467.36 134.9374 90)
+    (property "Reference" "D39" (at 467.36 134.9374 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Value" "LTL-4233 " (at 467.36 137.4774 90)
@@ -8579,7 +8703,7 @@
     (instances
       (project "Europe-ergo"
         (path "/95af97f8-b0d4-471d-a7e2-0d2b460f21a8"
-          (reference "D38") (unit 1)
+          (reference "D39") (unit 1)
         )
       )
     )
@@ -8614,7 +8738,7 @@
   (symbol (lib_id "Diode:1N4148") (at 80.01 237.49 180) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 5af597d8-1f0d-4da7-b5d9-db5edc34b08d)
-    (property "Reference" "D88" (at 80.01 240.03 0)
+    (property "Reference" "D90" (at 80.01 240.03 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "1N4148" (at 80.01 234.2896 0)
@@ -8631,7 +8755,7 @@
     (instances
       (project "Europe-ergo"
         (path "/95af97f8-b0d4-471d-a7e2-0d2b460f21a8"
-          (reference "D88") (unit 1)
+          (reference "D90") (unit 1)
         )
       )
     )
@@ -8666,7 +8790,7 @@
   (symbol (lib_id "Device:R") (at 500.38 193.04 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 60fbabbc-1e62-457b-9c32-9706b1a8627e)
-    (property "Reference" "R9" (at 502.92 191.7699 0)
+    (property "Reference" "R11" (at 502.92 191.7699 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "4.7K" (at 502.92 194.3099 0)
@@ -8683,7 +8807,7 @@
     (instances
       (project "Europe-ergo"
         (path "/95af97f8-b0d4-471d-a7e2-0d2b460f21a8"
-          (reference "R9") (unit 1)
+          (reference "R11") (unit 1)
         )
       )
     )
@@ -8874,7 +8998,7 @@
   (symbol (lib_id "Diode:1N4148") (at 54.61 170.18 180) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 76364a60-f7d4-43e3-90c4-b7d3e88bdfdd)
-    (property "Reference" "D55" (at 54.61 164.6682 0)
+    (property "Reference" "D57" (at 54.61 164.6682 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "1N4148" (at 54.61 166.9796 0)
@@ -8891,7 +9015,7 @@
     (instances
       (project "Europe-ergo"
         (path "/95af97f8-b0d4-471d-a7e2-0d2b460f21a8"
-          (reference "D55") (unit 1)
+          (reference "D57") (unit 1)
         )
       )
     )
@@ -8952,7 +9076,7 @@
   (symbol (lib_id "Device:R") (at 509.27 193.04 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 79e40e00-9b37-47a3-b3a7-35a8971fa0d4)
-    (property "Reference" "R10" (at 511.81 191.7699 0)
+    (property "Reference" "R12" (at 511.81 191.7699 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "4.7K" (at 511.81 194.3099 0)
@@ -8969,7 +9093,7 @@
     (instances
       (project "Europe-ergo"
         (path "/95af97f8-b0d4-471d-a7e2-0d2b460f21a8"
-          (reference "R10") (unit 1)
+          (reference "R12") (unit 1)
         )
       )
     )
@@ -8978,7 +9102,7 @@
   (symbol (lib_id "Device:R") (at 334.01 196.85 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 81544126-7ad5-4db3-82b1-6e837b38a58e)
-    (property "Reference" "R12" (at 336.55 195.5799 0)
+    (property "Reference" "R14" (at 336.55 195.5799 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "4.7K" (at 336.55 198.1199 0)
@@ -8995,7 +9119,7 @@
     (instances
       (project "Europe-ergo"
         (path "/95af97f8-b0d4-471d-a7e2-0d2b460f21a8"
-          (reference "R12") (unit 1)
+          (reference "R14") (unit 1)
         )
       )
     )
@@ -9030,7 +9154,7 @@
   (symbol (lib_id "Diode:1N4148") (at 105.41 175.26 180) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 856942cf-27f7-4565-aa3e-b01a9f0ced10)
-    (property "Reference" "D62" (at 105.41 169.7482 0)
+    (property "Reference" "D64" (at 105.41 169.7482 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "1N4148" (at 105.41 172.0596 0)
@@ -9047,7 +9171,7 @@
     (instances
       (project "Europe-ergo"
         (path "/95af97f8-b0d4-471d-a7e2-0d2b460f21a8"
-          (reference "D62") (unit 1)
+          (reference "D64") (unit 1)
         )
       )
     )
@@ -9133,7 +9257,7 @@
   (symbol (lib_id "Diode:1N4148") (at 176.53 137.16 180) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 90619ad3-a5ec-4ee9-9d28-191fe5931a81)
-    (property "Reference" "D45" (at 176.53 131.6482 0)
+    (property "Reference" "D47" (at 176.53 131.6482 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "1N4148" (at 176.53 133.9596 0)
@@ -9150,7 +9274,7 @@
     (instances
       (project "Europe-ergo"
         (path "/95af97f8-b0d4-471d-a7e2-0d2b460f21a8"
-          (reference "D45") (unit 1)
+          (reference "D47") (unit 1)
         )
       )
     )
@@ -9185,7 +9309,7 @@
   (symbol (lib_id "Device:R") (at 463.55 146.05 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 9150a2db-2c19-4fd2-898c-5626ac1ec48b)
-    (property "Reference" "R5" (at 466.09 144.7799 0)
+    (property "Reference" "R6" (at 466.09 144.7799 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "330" (at 466.09 147.3199 0)
@@ -9202,7 +9326,7 @@
     (instances
       (project "Europe-ergo"
         (path "/95af97f8-b0d4-471d-a7e2-0d2b460f21a8"
-          (reference "R5") (unit 1)
+          (reference "R6") (unit 1)
         )
       )
     )
@@ -9237,7 +9361,7 @@
   (symbol (lib_id "Diode:1N4148") (at 55.88 237.49 180) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 9707bc36-aa43-482e-a66d-7aeed92882e3)
-    (property "Reference" "D87" (at 55.88 231.9782 0)
+    (property "Reference" "D89" (at 55.88 231.9782 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "1N4148" (at 55.88 234.2896 0)
@@ -9254,7 +9378,7 @@
     (instances
       (project "Europe-ergo"
         (path "/95af97f8-b0d4-471d-a7e2-0d2b460f21a8"
-          (reference "D87") (unit 1)
+          (reference "D89") (unit 1)
         )
       )
     )
@@ -9341,7 +9465,7 @@
   (symbol (lib_id "Diode:1N4148") (at 129.54 209.55 180) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 9e08e713-8ea9-4362-a99f-2cac2e89f04d)
-    (property "Reference" "D78" (at 129.54 204.0382 0)
+    (property "Reference" "D80" (at 129.54 204.0382 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "1N4148" (at 129.54 206.3496 0)
@@ -9358,7 +9482,7 @@
     (instances
       (project "Europe-ergo"
         (path "/95af97f8-b0d4-471d-a7e2-0d2b460f21a8"
-          (reference "D78") (unit 1)
+          (reference "D80") (unit 1)
         )
       )
     )
@@ -9367,7 +9491,7 @@
   (symbol (lib_id "Diode:1N4148") (at 229.87 205.74 180) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 9eeb9244-557a-4a32-b768-2f5b9ce8931a)
-    (property "Reference" "D71" (at 229.87 200.2282 0)
+    (property "Reference" "D73" (at 229.87 200.2282 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "1N4148" (at 229.87 202.5396 0)
@@ -9384,7 +9508,7 @@
     (instances
       (project "Europe-ergo"
         (path "/95af97f8-b0d4-471d-a7e2-0d2b460f21a8"
-          (reference "D71") (unit 1)
+          (reference "D73") (unit 1)
         )
       )
     )
@@ -9495,7 +9619,7 @@
   (symbol (lib_id "Diode:1N4148") (at 152.4 241.3 180) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid b2523973-0e43-4477-bb22-6d6f68b331a3)
-    (property "Reference" "D98" (at 152.4 235.7882 0)
+    (property "Reference" "D100" (at 152.4 235.7882 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "1N4148" (at 152.4 238.0996 0)
@@ -9512,7 +9636,7 @@
     (instances
       (project "Europe-ergo"
         (path "/95af97f8-b0d4-471d-a7e2-0d2b460f21a8"
-          (reference "D98") (unit 1)
+          (reference "D100") (unit 1)
         )
       )
     )
@@ -9573,7 +9697,7 @@
   (symbol (lib_id "Device:R") (at 325.12 196.85 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid b52538f7-b73b-455b-8cd9-751065da2706)
-    (property "Reference" "R11" (at 327.66 195.5799 0)
+    (property "Reference" "R13" (at 327.66 195.5799 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "4.7K" (at 327.66 198.1199 0)
@@ -9590,7 +9714,7 @@
     (instances
       (project "Europe-ergo"
         (path "/95af97f8-b0d4-471d-a7e2-0d2b460f21a8"
-          (reference "R11") (unit 1)
+          (reference "R13") (unit 1)
         )
       )
     )
@@ -9677,7 +9801,7 @@
   (symbol (lib_id "Diode:1N4148") (at 177.8 237.49 180) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid bc7237ed-2575-4d73-b155-a56444d21a3b)
-    (property "Reference" "D89" (at 177.8 231.9782 0)
+    (property "Reference" "D91" (at 177.8 231.9782 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "1N4148" (at 177.8 234.2896 0)
@@ -9694,7 +9818,7 @@
     (instances
       (project "Europe-ergo"
         (path "/95af97f8-b0d4-471d-a7e2-0d2b460f21a8"
-          (reference "D89") (unit 1)
+          (reference "D91") (unit 1)
         )
       )
     )
@@ -9756,10 +9880,36 @@
     )
   )
 
+  (symbol (lib_id "Device:LED") (at 388.62 134.62 270) (mirror x) (unit 1)
+    (in_bom yes) (on_board yes) (dnp no)
+    (uuid c01b9714-504d-46c0-9402-2fd7adec5f92)
+    (property "Reference" "D38" (at 382.143 134.7978 0)
+      (effects (font (size 1.27 1.27)))
+    )
+    (property "Value" "LTL-4233 " (at 384.4544 134.7978 0)
+      (effects (font (size 1.27 1.27)))
+    )
+    (property "Footprint" "Diode_THT:D_A-405_P2.54mm_Vertical_AnodeUp" (at 388.62 134.62 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "Datasheet" "~" (at 388.62 134.62 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (pin "1" (uuid 5ca7d595-ab3e-4730-a344-aa93934fac32))
+    (pin "2" (uuid 8c21feb5-fb40-4465-b5c7-f410d9af8b55))
+    (instances
+      (project "Europe-ergo"
+        (path "/95af97f8-b0d4-471d-a7e2-0d2b460f21a8"
+          (reference "D38") (unit 1)
+        )
+      )
+    )
+  )
+
   (symbol (lib_id "Diode:1N4148") (at 259.08 205.74 180) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid c2c67c1a-e87c-4cac-bf60-c15876b1eba0)
-    (property "Reference" "D72" (at 259.08 200.2282 0)
+    (property "Reference" "D74" (at 259.08 200.2282 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "1N4148" (at 259.08 202.5396 0)
@@ -9776,7 +9926,7 @@
     (instances
       (project "Europe-ergo"
         (path "/95af97f8-b0d4-471d-a7e2-0d2b460f21a8"
-          (reference "D72") (unit 1)
+          (reference "D74") (unit 1)
         )
       )
     )
@@ -9785,7 +9935,7 @@
   (symbol (lib_id "Device:R") (at 492.76 146.05 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid c9a708c1-ab4c-4525-909d-c46549ce1f90)
-    (property "Reference" "R6" (at 495.3 144.7799 0)
+    (property "Reference" "R7" (at 495.3 144.7799 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "330" (at 495.3 147.3199 0)
@@ -9802,7 +9952,7 @@
     (instances
       (project "Europe-ergo"
         (path "/95af97f8-b0d4-471d-a7e2-0d2b460f21a8"
-          (reference "R6") (unit 1)
+          (reference "R7") (unit 1)
         )
       )
     )
@@ -9837,7 +9987,7 @@
   (symbol (lib_id "Diode:1N4148") (at 152.4 173.99 180) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid ca01f0e9-b294-485b-851e-bc0eb2d66864)
-    (property "Reference" "D59" (at 152.4 168.4782 0)
+    (property "Reference" "D61" (at 152.4 168.4782 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "1N4148" (at 152.4 170.7896 0)
@@ -9854,7 +10004,7 @@
     (instances
       (project "Europe-ergo"
         (path "/95af97f8-b0d4-471d-a7e2-0d2b460f21a8"
-          (reference "D59") (unit 1)
+          (reference "D61") (unit 1)
         )
       )
     )
@@ -9944,7 +10094,7 @@
   (symbol (lib_id "Diode:1N4148") (at 129.54 175.26 180) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid d65e4c46-cd87-4a2b-acb9-91c56bb7ff81)
-    (property "Reference" "D63" (at 129.54 169.7482 0)
+    (property "Reference" "D65" (at 129.54 169.7482 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "1N4148" (at 129.54 172.0596 0)
@@ -9961,7 +10111,7 @@
     (instances
       (project "Europe-ergo"
         (path "/95af97f8-b0d4-471d-a7e2-0d2b460f21a8"
-          (reference "D63") (unit 1)
+          (reference "D65") (unit 1)
         )
       )
     )
@@ -9970,7 +10120,7 @@
   (symbol (lib_id "Diode:1N4148") (at 78.74 170.18 180) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid daf2f9e0-2d14-4a1d-ac51-595949a05dee)
-    (property "Reference" "D56" (at 78.74 164.6682 0)
+    (property "Reference" "D58" (at 78.74 164.6682 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "1N4148" (at 78.74 166.9796 0)
@@ -9987,7 +10137,7 @@
     (instances
       (project "Europe-ergo"
         (path "/95af97f8-b0d4-471d-a7e2-0d2b460f21a8"
-          (reference "D56") (unit 1)
+          (reference "D58") (unit 1)
         )
       )
     )
@@ -10022,7 +10172,7 @@
   (symbol (lib_id "Diode:1N4148") (at 152.4 209.55 180) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid dd742d19-f645-4a65-ba39-d4fcd3956f9f)
-    (property "Reference" "D79" (at 152.4 204.0382 0)
+    (property "Reference" "D81" (at 152.4 204.0382 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "1N4148" (at 152.4 206.3496 0)
@@ -10039,7 +10189,7 @@
     (instances
       (project "Europe-ergo"
         (path "/95af97f8-b0d4-471d-a7e2-0d2b460f21a8"
-          (reference "D79") (unit 1)
+          (reference "D81") (unit 1)
         )
       )
     )
@@ -10048,7 +10198,7 @@
   (symbol (lib_id "Diode:1N4148") (at 200.66 173.99 180) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid e00dbe14-7e96-472d-88e6-fd5155da9225)
-    (property "Reference" "D61" (at 200.66 168.4782 0)
+    (property "Reference" "D63" (at 200.66 168.4782 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "1N4148" (at 200.66 170.7896 0)
@@ -10065,7 +10215,7 @@
     (instances
       (project "Europe-ergo"
         (path "/95af97f8-b0d4-471d-a7e2-0d2b460f21a8"
-          (reference "D61") (unit 1)
+          (reference "D63") (unit 1)
         )
       )
     )
@@ -10176,7 +10326,7 @@
   (symbol (lib_id "Diode:1N4148") (at 227.33 237.49 180) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid e85ca7c4-22e8-4277-aae6-22c3c1d36be4)
-    (property "Reference" "D90" (at 227.33 231.9782 0)
+    (property "Reference" "D92" (at 227.33 231.9782 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "1N4148" (at 227.33 234.2896 0)
@@ -10193,7 +10343,7 @@
     (instances
       (project "Europe-ergo"
         (path "/95af97f8-b0d4-471d-a7e2-0d2b460f21a8"
-          (reference "D90") (unit 1)
+          (reference "D92") (unit 1)
         )
       )
     )
@@ -10225,10 +10375,36 @@
     )
   )
 
+  (symbol (lib_id "Device:R") (at 565.15 146.05 0) (mirror x) (unit 1)
+    (in_bom yes) (on_board yes) (dnp no)
+    (uuid e97f959b-cdd0-42e2-903b-f3a5d81cfd4e)
+    (property "Reference" "R10" (at 559.8922 146.05 90)
+      (effects (font (size 1.27 1.27)))
+    )
+    (property "Value" "330" (at 562.2036 146.05 90)
+      (effects (font (size 1.27 1.27)))
+    )
+    (property "Footprint" "Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal" (at 563.372 146.05 90)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "Datasheet" "~" (at 565.15 146.05 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (pin "1" (uuid fa64dfd7-f610-49f5-9312-f2e8707401d5))
+    (pin "2" (uuid ec0cd6ad-181c-471b-a4bd-7fedd8e34d40))
+    (instances
+      (project "Europe-ergo"
+        (path "/95af97f8-b0d4-471d-a7e2-0d2b460f21a8"
+          (reference "R10") (unit 1)
+        )
+      )
+    )
+  )
+
   (symbol (lib_id "Diode:1N4148") (at 176.53 173.99 180) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid ebe6391f-2be6-421c-a90b-c5bb5a0c79a3)
-    (property "Reference" "D60" (at 176.53 168.4782 0)
+    (property "Reference" "D62" (at 176.53 168.4782 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "1N4148" (at 176.53 170.7896 0)
@@ -10245,7 +10421,7 @@
     (instances
       (project "Europe-ergo"
         (path "/95af97f8-b0d4-471d-a7e2-0d2b460f21a8"
-          (reference "D60") (unit 1)
+          (reference "D62") (unit 1)
         )
       )
     )
@@ -10331,7 +10507,7 @@
   (symbol (lib_id "Diode:1N4148") (at 78.74 205.74 180) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid f42fa392-ad18-4021-b938-6571639fac66)
-    (property "Reference" "D70" (at 78.74 200.2282 0)
+    (property "Reference" "D72" (at 78.74 200.2282 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "1N4148" (at 78.74 202.5396 0)
@@ -10348,7 +10524,7 @@
     (instances
       (project "Europe-ergo"
         (path "/95af97f8-b0d4-471d-a7e2-0d2b460f21a8"
-          (reference "D70") (unit 1)
+          (reference "D72") (unit 1)
         )
       )
     )
@@ -10408,7 +10584,7 @@
   (symbol (lib_id "Diode:1N4148") (at 199.39 212.09 180) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid f9aa31c1-4c7f-474b-99d8-86f25a0641c5)
-    (property "Reference" "D85" (at 199.39 206.5782 0)
+    (property "Reference" "D87" (at 199.39 206.5782 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "1N4148" (at 199.39 208.8896 0)
@@ -10425,7 +10601,7 @@
     (instances
       (project "Europe-ergo"
         (path "/95af97f8-b0d4-471d-a7e2-0d2b460f21a8"
-          (reference "D85") (unit 1)
+          (reference "D87") (unit 1)
         )
       )
     )
