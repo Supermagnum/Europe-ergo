@@ -31,8 +31,9 @@
 
 
 #define LED_PIN_ON_STATE 1 	//The state of the indicator pins when the LED is "on" - 1 for high, 0 for low
-#define LED1_PIN GP18 
-#define LED2_PIN GP19
+#define LED1_PIN GP18 //PWM3 L1 LED
+#define LED2_PIN GP19 //PWM4 L2 LED
+#define LED3_PIN GP22 //Controls NUM layer on or off, PWM5
 
 #define DEBOUNCE 5
 
