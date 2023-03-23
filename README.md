@@ -11,10 +11,14 @@ https://github.com/Supermagnum/Europe-ergo/blob/main/Europe-ergo-PCB/Europe-ergo
 
 Layout:
 https://github.com/Supermagnum/Europe-ergo/blob/main/layout.png
+
 or:
+
 http://www.keyboard-layout-editor.com/#/gists/50db7ea7b0832342d4c734eb985ec16b
 
 The L1/L2 button is to change from  Norwegian QWERTY to Norwegian Dvorak.
+
+The NUM key can be used to turn numpad layer on or off, but its not implemented in the firmware.
 
 Keycaps:
 https://github.com/Supermagnum/Europe-ergo/blob/main/keycaps.jpg
@@ -55,9 +59,6 @@ https://github.com/Supermagnum/Europe-ergo/tree/main/mechanical
 
 Link to aisler (SMD only ):
 https://aisler.net/p/ZMCOMUDQ
-
-
-
 
 
 PCB way ( use with caution,the pictures doesn't match the gerber files):
