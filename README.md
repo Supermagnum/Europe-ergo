@@ -17,8 +17,12 @@ or:
 http://www.keyboard-layout-editor.com/#/gists/50db7ea7b0832342d4c734eb985ec16b
 
 The L1/L2 button is to change from  Norwegian QWERTY to Norwegian Dvorak.
+There are relevant LEDs that lights up depending on what layer is active.
 
-The NUM key can be used to turn numpad layer on or off, but its not implemented in the firmware.
+The NUM key can be used to turn the  num layer on or off, but its only impemented in this file:
+https://github.com/Supermagnum/Europe-ergo/tree/main/Europe_ergo_firmware/europe_ergo/test
+
+
 
 Keycaps:
 https://github.com/Supermagnum/Europe-ergo/blob/main/keycaps.jpg
