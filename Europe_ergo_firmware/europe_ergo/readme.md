@@ -1,5 +1,6 @@
 # 94keys
 
+NOTE: Outdated picture!
 ![94keys](https://github.com/Supermagnum/Europe-ergo/blob/main/layout.png)
 
 *A 94 key ergonomic,split keyboard. Its powered by a two Raspberry pico.
