@@ -53,12 +53,12 @@ layer_state_t layer_state_set_user(layer_state_t state) {
     case _QWERTY:
       writePinHigh(LED1_PIN);
       writePinLow(LED2_PIN);
-      writePinlow(LED3_PIN);
+      writePinLow(LED3_PIN);
       break;
     case _NORWEGIAN:
       writePinHigh(LED2_PIN);
       writePinLow(LED1_PIN);
-      writePinlow(LED3_PIN);
+      writePinLow(LED3_PIN);
       break;
     case _NUM:
       writePinLow(LED1_PIN);
@@ -67,7 +67,7 @@ layer_state_t layer_state_set_user(layer_state_t state) {
     default:
       writePinLow(LED1_PIN);
       writePinLow(LED2_PIN);
-      writePinlow(LED3_PIN);
+      writePinLow(LED3_PIN);
       break;
   }
   return state;
