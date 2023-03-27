@@ -57,8 +57,11 @@ The right side has identical outputs for PWM.
 Cherry MX switches should fit the PCB'S.
 
 
-STL files for 3D printing of the boxes:
+STL files for 3D printing or milling of the boxes:
 https://github.com/Supermagnum/Europe-ergo/tree/main/mechanical
+
+Tool for aligning the switches under soldering, slips on to the PCB edge an over the switch:
+https://github.com/Supermagnum/Europe-ergo/blob/main/mechanical/STL/switch-tool.stl
 
 
 Link to aisler (SMD only ):
