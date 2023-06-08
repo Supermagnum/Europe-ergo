@@ -4,6 +4,14 @@
 
 #include "keymap_norwegian.h"
 
+void keyboard_post_init_user(void) {
+  // Customise these values to desired behaviour,turned debug on.
+  debug_enable=true;
+  debug_matrix=true;
+  setPinOutput(LED1_PIN);
+  setPinOutput(LED2_PIN);
+} 
+
 enum custom_layers {
     _QWERTY,
     _NORWEGIAN,  //DVORAK
@@ -30,13 +38,15 @@ const uint16_t PROGMEM keymaps[][MATRIX_ROWS][MATRIX_COLS] = {
         KC_TAB,  NO_Q,    NO_W,    NO_E,    NO_R,    NO_T,    NO_Y,    KC_INS,             /**/           KC_HOME, NO_U,    NO_I,    NO_O,    NO_P,    NO_ARNG, KC_RBRC, KC_BSPC,
         KC_CAPS, NO_A,    NO_S,    NO_D,    NO_D,    NO_G,    NO_H,                        /**/                    KC_J,    KC_K,    KC_L,    NO_OSTR, NO_AE,   NO_QUOT, KC_ENT,
         KC_LSFT, NO_LABK, NO_Z,    NO_X,    NO_C,    NO_V,    NO_B,    KC_DEL,             /**/           KC_END,  NO_N,    NO_M,    NO_COMM, NO_DOT,  NO_MINS, KC_PGUP, KC_RSFT,
-        KC_LCTL, KC_LGUI, KC_LALT, KC_SPACE,   TG(_QWERTY),                                         /**/                    TG(_QWERTY),   KC_RALT, KC_RGUI, KC_PGDN, KC_RCTL,
+        KC_LCTL, KC_LGUI, KC_LALT, KC_SPACE,   KC_TRANSPARENT,                                         /**/                    KC_TRANSPARENT,   KC_RALT, KC_RGUI, KC_PGDN, KC_RCTL,
                                                                        KC_NO,              /**/           KC_UP,
                                                               KC_NO,   KC_NO,   KC_NO,     /**/  KC_LEFT, KC_DOWN, KC_RIGHT
     )
 };
 
 //keymap.c
+// Added layer state notification
+`printf("Layer state changed\n");`
 layer_state_t layer_state_set_user(layer_state_t state) {
   switch(get_highest_layer(state)) {
     case _QWERTY:
