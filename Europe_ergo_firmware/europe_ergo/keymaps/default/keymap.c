@@ -47,7 +47,7 @@ const uint16_t PROGMEM keymaps[][MATRIX_ROWS][MATRIX_COLS] = {
 //keymap.c
 // Added layer state notification
 layer_state_t layer_state_set_user(layer_state_t state) {
-  `printf("Layer state changed\n");`
+  `uprintf("Layer state changed\n");`
   switch(get_highest_layer(state)) {
     case _QWERTY:
       writePinHigh(LED1_PIN);
