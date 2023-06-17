@@ -1,9 +1,9 @@
 # Europe-ergo
 A 94 key ergonomic,split keyboard.
-Its powered by 2X Raspberry pico and linked with two TRRS jacks.
+Its powered by 2X Raspberry pico and linked with two 5 pin D sub connectors.
 It uses tht components.
 
-The reset switches, TRRS jacks and raspberry pico's  goes on the reverse side of the Pcb's. 
+The reset switches, 5 pin D sub connectors and raspberry pico's  goes on the reverse side of the Pcb's. 
 
 Picture of Pcb's top side:
 https://github.com/Supermagnum/Europe-ergo/blob/main/Europe-ergo-PCB/Europe-ergo.jpg
