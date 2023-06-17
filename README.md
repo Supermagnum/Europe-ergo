@@ -6,7 +6,10 @@ It uses tht components.
 The reset switches, 5 pin D sub connectors and raspberry pico's  goes on the reverse side of the Pcb's. 
 
 Picture of Pcb's top side:
-https://github.com/Supermagnum/Europe-ergo/blob/main/Europe-ergo-PCB/Europe-ergo.jpg
+https://github.com/Supermagnum/Europe-ergo/blob/main/Europe-ergo-PCB/Europe-ergo-frontside.jpg
+
+Backside:
+https://github.com/Supermagnum/Europe-ergo/blob/main/Europe-ergo-PCB/Europe-ergo-backside.jpg
 
 
 Layout:
@@ -68,8 +71,6 @@ Link to aisler (SMD only ):
 https://aisler.net/p/ZMCOMUDQ
 
 
-PCB way ( use with caution,the pictures doesn't match the gerber files):
-<a href="https://www.pcbway.com/project/shareproject/98keys_ergo_733ee9b8.html"><img src="https://www.pcbway.com/project/img/images/frompcbway-1220.png" alt="PCB from PCBWay" /></a>
 
 Panelized version:
 https://github.com/Supermagnum/erope-ergo-ex
