@@ -35,7 +35,7 @@ const uint16_t PROGMEM keymaps[][MATRIX_ROWS][MATRIX_COLS] = {
         KC_ESC,  KC_F1,   KC_F2,   KC_F3,   KC_F4,   KC_F5,   KC_F6,                       /**/                    KC_F7,   KC_F8,   KC_F9,   KC_F10,  KC_F11,  KC_F12,  KC_NUM,
         KC_GRV,  NO_1,    NO_2,    NO_3,    NO_4,    NO_5,    NO_6,    NO_7,               /**/           NO_8,    NO_9,    NO_0,    NO_PLUS, NO_BSLS,  KC_SCRL, KC_PAUS, KC_PSCR,
         KC_TAB,  NO_Q,    NO_W,    NO_E,    NO_R,    NO_T,    NO_Y,    KC_INS,             /**/           KC_HOME, NO_U,    NO_I,    NO_O,    NO_P,    NO_ARNG, NO_DIAE, KC_BSPC,
-        KC_CAPS, NO_A,    NO_S,    NO_D,    NO_F,    NO_G,    NO_H,                        /**/                    NO_J,    NO_K,    NO_L,    NO_OSTR, NO_AE , NO_QUOT, KC_ENT,
+        KC_CAPS, NO_A,    NO_S,    NO_D,    NO_F,    NO_G,    NO_H,                        /**/                    NO_J,    NO_K,    NO_L,    NO_OSTR, NO_AE, NO_QUOT, KC_ENT,
         KC_LSFT, KC_NUBS, NO_Z,    NO_X,    NO_C,    NO_V,    NO_B,    KC_DEL,             /**/           KC_END,  NO_N,    NO_M,    NO_COMM, NO_DOT,  NO_MINS, KC_PGUP, KC_RSFT,
         KC_LCTL, KC_LGUI, KC_LALT, KC_SPACE,   TG(_NORWEGIAN),                             /**/                             TG(_NORWEGIAN),   KC_PGDN, KC_RGUI, FN,      KC_RCTL,
                                                                        KC_NO,              /**/           KC_UP,
