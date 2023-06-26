@@ -24,6 +24,7 @@ bool process_record_user(uint16_t keycode, keyrecord_t *record) {
 enum custom_layers {
     _QWERTY,
     _NORWEGIAN,  //DVORAK
+    _NUM
 };
 
 enum custom_keycodes {
@@ -32,7 +33,7 @@ enum custom_keycodes {
 
 const uint16_t PROGMEM keymaps[][MATRIX_ROWS][MATRIX_COLS] = {
     [_QWERTY] = LAYOUT_6x9(
-        KC_ESC,  KC_F1,   KC_F2,   KC_F3,   KC_F4,   KC_F5,   KC_F6,                       /**/                    KC_F7,   KC_F8,   KC_F9,   KC_F10,  KC_F11,  KC_F12,  KC_NUM,
+        KC_ESC,  KC_F1,   KC_F2,   KC_F3,   KC_F4,   KC_F5,   KC_F6,                       /**/                    KC_F7,   KC_F8,   KC_F9,   KC_F10,  KC_F11,  KC_F12,  MO(_NUM),
         KC_GRV,  NO_1,    NO_2,    NO_3,    NO_4,    NO_5,    NO_6,    NO_7,               /**/           NO_8,    NO_9,    NO_0,    NO_PLUS, NO_BSLS,  KC_SCRL, KC_PAUS, KC_PSCR,
         KC_TAB,  NO_Q,    NO_W,    NO_E,    NO_R,    NO_T,    NO_Y,    KC_INS,             /**/           KC_HOME, NO_U,    NO_I,    NO_O,    NO_P,    NO_ARNG, NO_DIAE, KC_BSPC,
         KC_CAPS, NO_A,    NO_S,    NO_D,    NO_F,    NO_G,    NO_H,                        /**/                    NO_J,    NO_K,    NO_L,    NO_OSTR, NO_AE, NO_QUOT, KC_ENT,
@@ -42,7 +43,7 @@ const uint16_t PROGMEM keymaps[][MATRIX_ROWS][MATRIX_COLS] = {
                                                               KC_NO,   KC_NO,   KC_NO,     /**/  KC_LEFT, KC_DOWN, KC_RIGHT
     ),
     [_NORWEGIAN] = LAYOUT_6x9(
-        KC_ESC,  KC_F1,   KC_F2,   KC_F3,   KC_F4,   KC_F5,   KC_F6,                       /**/                    KC_F7,   KC_F8,   KC_F9,   KC_F10,  KC_F11,  KC_F12,  KC_NUM,
+        KC_ESC,  KC_F1,   KC_F2,   KC_F3,   KC_F4,   KC_F5,   KC_F6,                       /**/                    KC_F7,   KC_F8,   KC_F9,   KC_F10,  KC_F11,  KC_F12,  MO(_NUM),
         NO_PIPE, NO_1,    NO_2,    NO_3,    NO_4,    NO_5,    NO_6,    NO_7,               /**/           NO_8,    NO_9,    NO_0,    NO_PLUS, NO_BSLS, KC_SCRL, KC_PAUS, KC_PSCR,
         KC_TAB,  NO_Q,    NO_W,    NO_E,    NO_R,    NO_T,    NO_Y,    KC_INS,             /**/           KC_HOME, NO_U,    NO_I,    NO_O,    NO_P,    NO_ARNG, KC_RBRC, KC_BSPC,
         KC_CAPS, NO_A,    NO_S,    NO_D,    NO_D,    NO_G,    NO_H,                        /**/                    NO_J,    NO_K,    NO_L,    NO_OSTR, NO_AE,   NO_QUOT, KC_ENT,
@@ -50,7 +51,16 @@ const uint16_t PROGMEM keymaps[][MATRIX_ROWS][MATRIX_COLS] = {
         KC_LCTL, KC_LGUI, KC_LALT, KC_SPACE,   KC_TRANSPARENT,                             /**/                              KC_TRANSPARENT,   KC_RALT, KC_RGUI, KC_PGDN, KC_RCTL,
                                                                        KC_NO,              /**/           KC_UP,
                                                               KC_NO,   KC_NO,   KC_NO,     /**/  KC_LEFT, KC_DOWN, KC_RIGHT
-    )
+        ),
+    [_NUM] = LAYOUT_6x9(
+        KC_ESC,  KC_F1,   KC_F2,   KC_F3,   KC_F4,   KC_F5,   KC_F6,                       /**/                    KC_F7,   KC_F8,   KC_F9,   KC_F10,  KC_F11,  KC_F12,  MO(_NUM),
+        NO_PIPE, NO_1,    NO_2,    NO_3,    NO_4,    NO_5,    NO_6,    NO_7,               /**/           NO_8,    NO_9,    NO_0,    NO_PLUS, NO_BSLS, KC_SCRL, KC_PAUS, KC_PSCR,
+        KC_TAB,  NO_Q,    NO_W,    NO_E,    NO_R,    NO_T,    NO_Y,    KC_INS,             /**/           KC_HOME, KC_KP_7,    KC_KP_8,    KC_KP_9,    NO_P,    NO_ARNG, KC_RBRC, KC_BSPC,
+        KC_CAPS, NO_A,    NO_S,    NO_D,    NO_D,    NO_G,    NO_H,                        /**/                    KC_KP_4, KC_KP_5,  KC_KP_6,   NO_OSTR, NO_AE,   NO_QUOT, KC_ENT,
+        KC_LSFT, NO_LABK, NO_Z,    NO_X,    NO_C,    NO_V,    NO_B,    KC_DEL,             /**/           KC_KP_0,  KC_KP_1, KC_KP_2,  KC_KP_3, NO_DOT,  NO_MINS, KC_PGUP, KC_RSFT,
+        KC_LCTL, KC_LGUI, KC_LALT, KC_SPACE,   KC_TRANSPARENT,                             /**/                                      KC_NO,   KC_RALT, KC_RGUI, KC_PGDN, KC_RCTL,
+                                                                       KC_NO,              /**/           KC_UP,
+                                                              KC_NO,   KC_NO,   KC_NO,     /**/  KC_LEFT, KC_DOWN, KC_RIGHT
 };
 
 //keymap.c
