@@ -1,0 +1,59 @@
+{
+    "manufacturer": "Supermagnum",
+    "keyboard_name": "europe_ergo",
+    "maintainer": "Supermagnum",
+    "bootloader": "rp2040",
+    "diode_direction": "ROW2COL",
+    "features": {
+        "bootmagic": true,
+        "command": false,
+        "console": true,
+        "extrakey": true,
+        "mousekey": false,
+        "nkro": true
+    },
+   "matrix_pins": {
+        "cols": ["GP2", "GP3", "GP10", "GP11" , "GP12" , "GP13" , "GP14" , "GP15" , "GP20" ],
+        "rows": ["GP4", "GP5", "GP6", "GP7" , "GP8" , "GP9"]
+    },
+    "processor": "RP2040",
+    "url": "",
+    "usb": {
+        "device_version": "1.0.0",
+        "pid": "0x0000",
+        "vid": "0xFEED"
+     },
+
+    "layouts": {
+        "LAYOUT": {
+            "layout": [ 
+            {"matrix":[0, 0],"label":"Esc", "x":3.25, "y":0.75}, 
+            {"matrix":[0, 1],"label":"F1", "x":4.25, "y":0.75}, 
+            {"matrix":[0, 2],"label":"F2", "x":5.25, "y":0.75}, 
+            {"matrix":[0, 3],"label":"F3", "x":6.25, "y":0.75}, 
+            {"matrix":[0, 4],"label":"F4", "x":7.25, "y":0.75}, 
+            {"matrix":[0, 5],"label":"F5", "x":8.25, "y":0.75}, 
+            {"matrix":[0, 6],"label":"F6", "x":9.25, "y":0.75}, 
+            
+            {"matrix":[5, 0],"label":"Num", "x":18, "y":0.75}
+            {"matrix":[5, 1],"label":"F12", "x":17, "y":0.75},
+            {"matrix":[5, 2],"label":"F11", "x":16, "y":0.75}, 
+            {"matrix":[5, 3],"label":"F10", "x":15, "y":0.75},
+            {"matrix":[5, 4],"label":"F9", "x":14, "y":0.75},   
+            {"matrix":[5, 5],"label":"F8", "x":13, "y":0.75}, 
+            {"matrix":[5, 6],"label":"F7", "x":12, "y":0.75}, 
+           
+            {"_comment": "first row of keys above.",
+
+           
+
+
+        }
+    }
+}
+
+
+
+
+
+
