@@ -35,13 +35,13 @@
             {"matrix":[0, 5],"label":"F5", "x":8.25, "y":0.75}, 
             {"matrix":[0, 6],"label":"F6", "x":9.25, "y":0.75}, 
             
-            {"matrix":[5, 0],"label":"Num", "x":18, "y":0.75}
-            {"matrix":[5, 1],"label":"F12", "x":17, "y":0.75},
-            {"matrix":[5, 2],"label":"F11", "x":16, "y":0.75}, 
-            {"matrix":[5, 3],"label":"F10", "x":15, "y":0.75},
-            {"matrix":[5, 4],"label":"F9", "x":14, "y":0.75},   
-            {"matrix":[5, 5],"label":"F8", "x":13, "y":0.75}, 
-            {"matrix":[5, 6],"label":"F7", "x":12, "y":0.75}, 
+            {"matrix":[6, 0],"label":"Num", "x":18, "y":0.75}
+            {"matrix":[6, 1],"label":"F12", "x":17, "y":0.75},
+            {"matrix":[6, 2],"label":"F11", "x":16, "y":0.75}, 
+            {"matrix":[6, 3],"label":"F10", "x":15, "y":0.75},
+            {"matrix":[6, 4],"label":"F9", "x":14, "y":0.75},   
+            {"matrix":[6, 5],"label":"F8", "x":13, "y":0.75}, 
+            {"matrix":[6, 6],"label":"F7", "x":12, "y":0.75}, 
            
           
 
@@ -56,14 +56,14 @@
             {"matrix":[1, 7],"label":"/", "x":8.75, "y":8.88}, 
 
 
-            {"matrix":[6, 0],"label":"Print Screen", "x":19, "y":2.38, "w":1.5}, 
-            {"matrix":[6, 1],"label":"Pause Break", "x":18, "y":2.38},
-            {"matrix":[6, 2],"label":"Scroll Lock", "x":17, "y":2.25}, 
-            {"matrix":[6, 3],"label":"`", "x":15.5, "y":8.63}, 
-            {"matrix":[6, 4],"label":"?", "x":14.5, "y":8.76},             
-            {"matrix":[6, 5],"label":"=", "x":13.75, "y":5.63}, 
-            {"matrix":[6, 6],"label":"9", "x":12.5, "y":8.88}
-            {"matrix":[6, 7],"label":"8", "x":11.5, "y":8.88}, 
+            {"matrix":[7, 0],"label":"Print Screen", "x":19, "y":2.38, "w":1.5}, 
+            {"matrix":[7, 1],"label":"Pause Break", "x":18, "y":2.38},
+            {"matrix":[7, 2],"label":"Scroll Lock", "x":17, "y":2.25}, 
+            {"matrix":[7, 3],"label":"`", "x":15.5, "y":8.63}, 
+            {"matrix":[7, 4],"label":"?", "x":14.5, "y":8.76},             
+            {"matrix":[7, 5],"label":"=", "x":13.75, "y":5.63}, 
+            {"matrix":[7, 6],"label":"9", "x":12.5, "y":8.88}
+            {"matrix":[7, 7],"label":"8", "x":11.5, "y":8.88}, 
 
 
  
@@ -78,14 +78,14 @@
             {"matrix":[2, 6],"label":"Y", "x":7.75, "y":11.88}, 
             {"matrix":[2, 7],"label":"Insert", "x":8.75, "y":11.88, "h":1.5}, 
 
-            {"matrix":[7, 0],"label":"Backspace", "x":19, "y":3.38, "w":1.5}, 
-            {"matrix":[7, 1],"label":"^", "x":18, "y":3.38}, 
-            {"matrix":[7, 2],"label":"\u00c5", "x":17, "y":3.25}, 
-            {"matrix":[7, 3],"label":"P", "x":15.5, "y":11.63}, 
-            {"matrix":[7, 4],"label":"O", "x":14.5, "y":11.76}, 
-            {"matrix":[7, 5],"label":"I", "x":13.75, "y":7.63}, 
-            {"matrix":[7, 6],"label":"U", "x":12.5, "y":11.88}
-            {"matrix":[7, 7],"label":"Home", "x":11.5, "y":11.88, "h":1.5}, 
+            {"matrix":[8, 0],"label":"Backspace", "x":19, "y":3.38, "w":1.5}, 
+            {"matrix":[8, 1],"label":"^", "x":18, "y":3.38}, 
+            {"matrix":[8, 2],"label":"\u00c5", "x":17, "y":3.25}, 
+            {"matrix":[8, 3],"label":"P", "x":15.5, "y":11.63}, 
+            {"matrix":[8, 4],"label":"O", "x":14.5, "y":11.76}, 
+            {"matrix":[8, 5],"label":"I", "x":13.75, "y":7.63}, 
+            {"matrix":[8, 6],"label":"U", "x":12.5, "y":11.88}
+            {"matrix":[8, 7],"label":"Home", "x":11.5, "y":11.88, "h":1.5}, 
 
 
 
@@ -99,13 +99,13 @@
             {"matrix":[3, 5],"label":"G", "x":6.75, "y":14.88}, 
             {"matrix":[3, 6],"label":"H", "x":7.75, "y":14.88}, 
 
-            {"matrix":[8, 0],"label":"Enter", "x":19, "y":4.38, "w":1.5}, 
-            {"matrix":[8, 1],"label":"*", "x":18, "y":4.38}, 
-            {"matrix":[8, 2],"label":"\u00c6", "x":17, "y":4.13}, 
-            {"matrix":[8, 3],"label":"\u00d8", "x":15.5, "y":14.63}, 
-            {"matrix":[8, 4],"label":"L", "x":14.5, "y":14.76}, 
-            {"matrix":[8, 5],"label":"K", "x":13.75, "y":9.63}, 
-            {"matrix":[8, 6],"label":"J", "x":12.5, "y":14.88}
+            {"matrix":[9, 0],"label":"Enter", "x":19, "y":4.38, "w":1.5}, 
+            {"matrix":[9, 1],"label":"*", "x":18, "y":4.38}, 
+            {"matrix":[9, 2],"label":"\u00c6", "x":17, "y":4.13}, 
+            {"matrix":[9, 3],"label":"\u00d8", "x":15.5, "y":14.63}, 
+            {"matrix":[9, 4],"label":"L", "x":14.5, "y":14.76}, 
+            {"matrix":[9, 5],"label":"K", "x":13.75, "y":9.63}, 
+            {"matrix":[9, 6],"label":"J", "x":12.5, "y":14.88}
 
 
 
@@ -121,15 +121,15 @@
             {"matrix":[4, 8],"label":"upL", "x":3, "y":1}, 
 
 
-            {"matrix":[9, 0],"label":"Shift Right", "x":19, "y":5.38, "w":1.5}, 
-            {"matrix":[9, 1],"label":"Page up", "x":18, "y":5.38}, 
-            {"matrix":[9, 2],"label":"_", "x":17, "y":5.13}, 
-            {"matrix":[9, 3],"label":":", "x":15.5, "y":17.63}, 
-            {"matrix":[9, 4],"label":";", "x":14.5, "y":17.76}, 
-            {"matrix":[9, 5],"label":"M", "x":13.75, "y":11.63}, 
-            {"matrix":[9, 6],"label":"N", "x":12.5, "y":17.88}
-            {"matrix":[9, 7],"label":"End", "x":11.5, "y":17.38, "h":1.5}, 
-            {"matrix":[9, 8],"label":"up", "x":7.25, "y":15},
+            {"matrix":[10, 0],"label":"Shift Right", "x":19, "y":5.38, "w":1.5}, 
+            {"matrix":[10, 1],"label":"Page up", "x":18, "y":5.38}, 
+            {"matrix":[10, 2],"label":"_", "x":17, "y":5.13}, 
+            {"matrix":[10, 3],"label":":", "x":15.5, "y":17.63}, 
+            {"matrix":[10, 4],"label":";", "x":14.5, "y":17.76}, 
+            {"matrix":[10, 5],"label":"M", "x":13.75, "y":11.63}, 
+            {"matrix":[10, 6],"label":"N", "x":12.5, "y":17.88}
+            {"matrix":[10, 7],"label":"End", "x":11.5, "y":17.38, "h":1.5}, 
+            {"matrix":[10, 8],"label":"up", "x":7.25, "y":15},
 
 
 
@@ -144,14 +144,14 @@
             {"matrix":[5, 7],"label":"leftdown", "x":3, "y":16.51},
             {"matrix":[5, 8],"label":"leftright", "x":4, "y":16.51}, 
 
-            {"matrix":[10, 0],"label":"Ctrl Right", "x":19, "y":6.38}, 
-            {"matrix":[10, 1],"label":"Fn", "x":18, "y":6.38}, 
-            {"matrix":[10, 2],"label":"Alt Gr", "x":17, "y":6.13}, 
-            {"matrix":[10, 3],"label":"Page Down", "x":15.5, "y":13.38}, 
-            {"matrix":[10, 4],"label":"L1", "x":14.5, "y":13.51}
-            {"matrix":[10, 5],"label":"xx", "x":8.25, "y":20.13}
-            {"matrix":[10, 7],"label":"rightD", "x":7.25, "y":20.13}, 
-            {"matrix":[10, 8],"label":"rightL", "x":6.25, "y":20.13}, 
+            {"matrix":[11, 0],"label":"Ctrl Right", "x":19, "y":6.38}, 
+            {"matrix":[11, 1],"label":"Fn", "x":18, "y":6.38}, 
+            {"matrix":[11, 2],"label":"Alt Gr", "x":17, "y":6.13}, 
+            {"matrix":[11, 3],"label":"Page Down", "x":15.5, "y":13.38}, 
+            {"matrix":[11, 4],"label":"L1", "x":14.5, "y":13.51}
+            {"matrix":[11, 5],"label":"xx", "x":8.25, "y":20.13}
+            {"matrix":[11, 7],"label":"rightD", "x":7.25, "y":20.13}, 
+            {"matrix":[11, 8],"label":"rightL", "x":6.25, "y":20.13}, 
 
 
 
