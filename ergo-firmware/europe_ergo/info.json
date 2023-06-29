@@ -43,7 +43,7 @@
             {"matrix":[5, 5],"label":"F8", "x":13, "y":0.75}, 
             {"matrix":[5, 6],"label":"F7", "x":12, "y":0.75}, 
            
-            {"_comment": "first row of keys above."},
+          
 
 
             {"matrix":[1, 0],"label":"\u00a7", "x":1.75, "y":2.38, "w":1.5},
@@ -66,7 +66,7 @@
             {"matrix":[6, 7],"label":"8", "x":11.5, "y":8.88}, 
 
 
-            {"_comment": "second row of keys above."},
+ 
 
 
             {"matrix":[2, 0],"label":"Tab", "x":1.75, "y":3.38, "w":1.5}, 
@@ -88,7 +88,7 @@
             {"matrix":[7, 7],"label":"Home", "x":11.5, "y":11.88, "h":1.5}, 
 
 
-{"_comment": "third row of keys above."},
+
 
 
             {"matrix":[3, 0],"label":"Caps", "x":1.75, "y":4.38, "w":1.5}, 
@@ -108,7 +108,7 @@
             {"matrix":[8, 6],"label":"J", "x":12.5, "y":14.88}
 
 
-{"_comment": "fourth row of keys above."},
+
 
             {"matrix":[4, 0],"label":"Shift", "x":1.75, "y":5.38, "w":1.5}, 
             {"matrix":[4, 1],"label":">", "x":3.25, "y":5.38}, 
@@ -131,7 +131,7 @@
             {"matrix":[9, 7],"label":"End", "x":11.5, "y":17.38, "h":1.5}, 
             {"matrix":[9, 8],"label":"up", "x":7.25, "y":15},
 
-{"_comment": "fift row of keys above."},
+
 
 
 
@@ -154,13 +154,11 @@
             {"matrix":[10, 8],"label":"rightL", "x":6.25, "y":20.13}, 
 
 
-{"_comment": "sixt row of keys above."},
 
-
+            ]
         }
     }
 }
-
 
 
 
