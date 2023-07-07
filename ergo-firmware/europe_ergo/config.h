@@ -18,7 +18,8 @@
 //#define NO_ACTION_LAYER
 //#define NO_ACTION_TAPPING
 //#define NO_ACTION_ONESHOT
-#define SPLIT_HAND_MATRIX_GRID GP27, GP26
+#define SPLIT_HAND_MATRIX_GRID GP27, GP26 // Only used for prototype PCB
+// #define SPLIT_HAND_PIN GP26 // Use for proper PCB.
 
 /* split configuration */
 #define SERIAL_USART_FULL_DUPLEX    // Enable full duplex operation mode
@@ -38,4 +39,4 @@
 #define LED2_PIN GP19 //PWM4 L2 LED
 #define LED3_PIN GP22 //Controls NUM layer LED on or off, PWM5
 
-#define DEBOUNCE 5
+#define DEBOUNCE 10
