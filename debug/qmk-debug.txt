@@ -1,0 +1,293 @@
+Keyboard debug from qmk console, all buttons toggled left to right.
+
+Issues are at row 5, 10 and 11.
+
+Left side:
+First row and first column ( 0, 0 to 0,5 ) are inoperative at the moment , bad soldering connection.
+Will fix when soldering station is avaible.
+
+
+|
+Supermagnum:europe_ergo:1: KL: kc: 0x0035, col:  0, row:  1, pressed: 1, time: 43873, int: 0, count: 0
+Supermagnum:europe_ergo:1: KL: kc: 0x0035, col:  0, row:  1, pressed: 0, time: 43935, int: 0, count: 0
+1
+Supermagnum:europe_ergo:1: KL: kc: 0x001E, col:  1, row:  1, pressed: 1, time:   515, int: 0, count: 0
+Supermagnum:europe_ergo:1: KL: kc: 0x001E, col:  1, row:  1, pressed: 0, time:   582, int: 0, count: 0
+2
+Supermagnum:europe_ergo:1: KL: kc: 0x001F, col:  2, row:  1, pressed: 1, time: 22121, int: 0, count: 0
+Supermagnum:europe_ergo:1: KL: kc: 0x001F, col:  2, row:  1, pressed: 0, time: 22198, int: 0, count: 0
+3
+Supermagnum:europe_ergo:1: KL: kc: 0x0020, col:  3, row:  1, pressed: 1, time: 44803, int: 0, count: 0
+Supermagnum:europe_ergo:1: KL: kc: 0x0020, col:  3, row:  1, pressed: 0, time: 44878, int: 0, count: 0
+4
+Supermagnum:europe_ergo:1: KL: kc: 0x0021, col:  4, row:  1, pressed: 1, time:  2726, int: 0, count: 0
+Supermagnum:europe_ergo:1: KL: kc: 0x0021, col:  4, row:  1, pressed: 0, time:  2798, int: 0, count: 0
+5
+Supermagnum:europe_ergo:1: KL: kc: 0x0022, col:  5, row:  1, pressed: 1, time: 32908, int: 0, count: 0
+Supermagnum:europe_ergo:1: KL: kc: 0x0022, col:  5, row:  1, pressed: 0, time: 32968, int: 0, count: 0
+6
+Supermagnum:europe_ergo:1: KL: kc: 0x0023, col:  6, row:  1, pressed: 1, time: 50876, int: 0, count: 0
+Supermagnum:europe_ergo:1: KL: kc: 0x0023, col:  6, row:  1, pressed: 0, time: 50959, int: 0, count: 0
+7
+Supermagnum:europe_ergo:1: KL: kc: 0x0024, col:  7, row:  1, pressed: 1, time:  6528, int: 0, count: 0
+Supermagnum:europe_ergo:1: KL: kc: 0x0024, col:  7, row:  1, pressed: 0, time:  6613, int: 0, count: 0
+
+       
+Tab
+Supermagnum:europe_ergo:1: KL: kc: 0x002B, col:  0, row:  2, pressed: 1, time: 57108, int: 0, count: 0
+Supermagnum:europe_ergo:1: KL: kc: 0x002B, col:  0, row:  2, pressed: 0, time: 57187, int: 0, count: 0
+q
+Supermagnum:europe_ergo:1: KL: kc: 0x0014, col:  1, row:  2, pressed: 1, time: 36715, int: 0, count: 0
+Supermagnum:europe_ergo:1: KL: kc: 0x0014, col:  1, row:  2, pressed: 0, time: 36808, int: 0, count: 0
+w
+Supermagnum:europe_ergo:1: KL: kc: 0x001A, col:  2, row:  2, pressed: 1, time: 62333, int: 0, count: 0
+Supermagnum:europe_ergo:1: KL: kc: 0x001A, col:  2, row:  2, pressed: 0, time: 62413, int: 0, count: 0
+e
+Supermagnum:europe_ergo:1: KL: kc: 0x0008, col:  3, row:  2, pressed: 1, time: 18192, int: 0, count: 0
+Supermagnum:europe_ergo:1: KL: kc: 0x0008, col:  3, row:  2, pressed: 0, time: 18281, int: 0, count: 0
+r
+Supermagnum:europe_ergo:1: KL: kc: 0x0015, col:  4, row:  2, pressed: 1, time: 38720, int: 0, count: 0
+Supermagnum:europe_ergo:1: KL: kc: 0x0015, col:  4, row:  2, pressed: 0, time: 38788, int: 0, count: 0
+t
+Supermagnum:europe_ergo:1: KL: kc: 0x0017, col:  5, row:  2, pressed: 1, time:  2929, int: 0, count: 0
+Supermagnum:europe_ergo:1: KL: kc: 0x0017, col:  5, row:  2, pressed: 0, time:  2998, int: 0, count: 0
+y
+Supermagnum:europe_ergo:1: KL: kc: 0x0017, col:  5, row:  2, pressed: 1, time:  2929, int: 0, count: 0
+Supermagnum:europe_ergo:1: KL: kc: 0x0017, col:  5, row:  2, pressed: 0, time:  2998, int: 0, count: 0
+Insert
+Supermagnum:europe_ergo:1: KL: kc: 0x0049, col:  7, row:  2, pressed: 1, time: 62802, int: 0, count: 0
+Supermagnum:europe_ergo:1: KL: kc: 0x0049, col:  7, row:  2, pressed: 0, time: 62887, int: 0, count: 0
+
+
+
+Caps lock
+Supermagnum:europe_ergo:1: KL: kc: 0x0039, col:  0, row:  3, pressed: 1, time: 14948, int: 0, count: 0
+Supermagnum:europe_ergo:1: KL: kc: 0x0039, col:  0, row:  3, pressed: 0, time: 15040, int: 0, count: 0
+A
+Supermagnum:europe_ergo:1: KL: kc: 0x0004, col:  1, row:  3, pressed: 1, time: 42180, int: 0, count: 0
+Supermagnum:europe_ergo:1: KL: kc: 0x0004, col:  1, row:  3, pressed: 0, time: 42239, int: 0, count: 0
+S
+Supermagnum:europe_ergo:1: KL: kc: 0x0016, col:  2, row:  3, pressed: 1, time:  1094, int: 0, count: 0
+Supermagnum:europe_ergo:1: KL: kc: 0x0016, col:  2, row:  3, pressed: 0, time:  1142, int: 0, count: 0
+D
+Supermagnum:europe_ergo:1: KL: kc: 0x0007, col:  3, row:  3, pressed: 1, time: 21982, int: 0, count: 0
+Supermagnum:europe_ergo:1: KL: kc: 0x0007, col:  3, row:  3, pressed: 0, time: 22058, int: 0, count: 0
+F ( prints character D )
+Supermagnum:europe_ergo:1: KL: kc: 0x0007, col:  4, row:  3, pressed: 1, time: 32373, int: 0, count: 0
+Supermagnum:europe_ergo:1: KL: kc: 0x0007, col:  4, row:  3, pressed: 0, time: 32430, int: 0, count: 0
+g
+Supermagnum:europe_ergo:1: KL: kc: 0x000A, col:  5, row:  3, pressed: 1, time: 28640, int: 0, count: 0
+Supermagnum:europe_ergo:1: KL: kc: 0x000A, col:  5, row:  3, pressed: 0, time: 28710, int: 0, count: 0
+h
+Supermagnum:europe_ergo:1: KL: kc: 0x000B, col:  6, row:  3, pressed: 1, time: 52691, int: 0, count: 0
+Supermagnum:europe_ergo:1: KL: kc: 0x000B, col:  6, row:  3, pressed: 0, time: 52745, int: 0, count: 0
+
+
+
+
+Left shift:
+Supermagnum:europe_ergo:1: KL: kc: 0x00E1, col:  0, row:  4, pressed: 1, time: 47522, int: 0, count: 0
+Supermagnum:europe_ergo:1: KL: kc: 0x00E1, col:  0, row:  4, pressed: 0, time: 47602, int: 0, count: 0
+<
+Supermagnum:europe_ergo:1: KL: kc: 0x0064, col:  1, row:  4, pressed: 1, time: 31164, int: 0, count: 0
+Supermagnum:europe_ergo:1: KL: kc: 0x0064, col:  1, row:  4, pressed: 0, time: 31237, int: 0, count: 0
+z
+Supermagnum:europe_ergo:1: KL: kc: 0x001D, col:  2, row:  4, pressed: 1, time:  4297, int: 0, count: 0
+Supermagnum:europe_ergo:1: KL: kc: 0x001D, col:  2, row:  4, pressed: 0, time:  4356, int: 0, count: 0
+x
+Supermagnum:europe_ergo:1: KL: kc: 0x001B, col:  3, row:  4, pressed: 1, time: 25419, int: 0, count: 0
+Supermagnum:europe_ergo:1: KL: kc: 0x001B, col:  3, row:  4, pressed: 0, time: 25484, int: 0, count: 0
+c
+Supermagnum:europe_ergo:1: KL: kc: 0x0006, col:  4, row:  4, pressed: 1, time: 47619, int: 0, count: 0
+Supermagnum:europe_ergo:1: KL: kc: 0x0006, col:  4, row:  4, pressed: 0, time: 47674, int: 0, count: 0
+v
+Supermagnum:europe_ergo:1: KL: kc: 0x0019, col:  5, row:  4, pressed: 1, time:  2896, int: 0, count: 0
+Supermagnum:europe_ergo:1: KL: kc: 0x0019, col:  5, row:  4, pressed: 0, time:  2955, int: 0, count: 0
+b
+Supermagnum:europe_ergo:1: KL: kc: 0x0005, col:  6, row:  4, pressed: 1, time: 26034, int: 0, count: 0
+Supermagnum:europe_ergo:1: KL: kc: 0x0005, col:  6, row:  4, pressed: 0, time: 26103, int: 0, count: 0
+Delete
+Supermagnum:europe_ergo:1: KL: kc: 0x004C, col:  7, row:  4, pressed: 1, time: 58942, int: 0, count: 0
+Supermagnum:europe_ergo:1: KL: kc: 0x004C, col:  7, row:  4, pressed: 0, time: 59002, int: 0, count: 0
+
+
+Ctrl left:
+Supermagnum:europe_ergo:1: KL: kc: 0x00E2, col:  0, row:  5, pressed: 1, time: 42734, int: 0, count: 0
+Supermagnum:europe_ergo:1: KL: kc: 0x00E2, col:  0, row:  5, pressed: 0, time: 42811, int: 0, count: 0
+Menu: ( seems to work as space )
+Supermagnum:europe_ergo:1: KL: kc: 0x002C, col:  1, row:  5, pressed: 1, time: 22781, int: 0, count: 0
+Supermagnum:europe_ergo:1: KL: kc: 0x002C, col:  1, row:  5, pressed: 0, time: 22857, int: 0, count: 0
+Alt left:
+Supermagnum:europe_ergo:1: KL: kc: 0x5261, col:  2, row:  5, pressed: 1, time: 39733, int: 0, count: 0
+Supermagnum:europe_ergo:1: KL: kc: 0x5261, col:  2, row:  5, pressed: 0, time: 39801, int: 0, count: 0
+Space:
+Supermagnum:europe_ergo:1: KL: kc: 0x5261, col:  3, row:  5, pressed: 1, time: 33225, int: 0, count: 0
+Supermagnum:europe_ergo:1: KL: kc: 0x5261, col:  3, row:  5, pressed: 0, time: 33276, int: 0, count: 0
+L1: ( does not change layers as it should)
+Supermagnum:europe_ergo:1: KL: kc: 0x00E6, col:  4, row:  5, pressed: 1, time: 57748, int: 0, count: 0
+Supermagnum:europe_ergo:1: KL: kc: 0x00E6, col:  4, row:  5, pressed: 0, time: 57812, int: 0, count: 0
+Leftside arrow left: (left as"dead" in keymap )
+Supermagnum:europe_ergo:1: KL: kc: 0x00E7, col:  5, row:  5, pressed: 1, time: 30740, int: 0, count: 0
+Supermagnum:europe_ergo:1: KL: kc: 0x00E7, col:  5, row:  5, pressed: 0, time: 30831, int: 0, count: 0
+( Col 6,row 5 is intentionally skipped)
+Leftside arrow down: (left as"dead" in keymap )
+Supermagnum:europe_ergo:1: KL: kc: 0x004E, col:  7, row:  5, pressed: 1, time: 50776, int: 0, count: 0
+Supermagnum:europe_ergo:1: KL: kc: 0x004E, col:  7, row:  5, pressed: 0, time: 50858, int: 0, count: 0
+Leftside arrow right : (left as"dead" in keymap )
+Supermagnum:europe_ergo:1: KL: kc: 0x00E4, col:  8, row:  5, pressed: 1, time: 32674, int: 0, count: 0
+Supermagnum:europe_ergo:1: KL: kc: 0x00E4, col:  8, row:  5, pressed: 0, time: 32759, int: 0, count: 0
+
+
+
+Right side:
+Starts at col2,row6
+F7
+Supermagnum:europe_ergo:1: KL: kc: 0x0040, col:  2, row:  6, pressed: 1, time: 58162, int: 0, count: 0
+Supermagnum:europe_ergo:1: KL: kc: 0x0040, col:  2, row:  6, pressed: 0, time: 58294, int: 0, count: 0
+F8
+Supermagnum:europe_ergo:1: KL: kc: 0x0041, col:  3, row:  6, pressed: 1, time:  6863, int: 0, count: 0
+Supermagnum:europe_ergo:1: KL: kc: 0x0041, col:  3, row:  6, pressed: 0, time:  7000, int: 0, count: 0
+F9
+Supermagnum:europe_ergo:1: KL: kc: 0x0042, col:  4, row:  6, pressed: 1, time:  2235, int: 0, count: 0
+Supermagnum:europe_ergo:1: KL: kc: 0x0042, col:  4, row:  6, pressed: 0, time:  2354, int: 0, count: 0
+F10
+Supermagnum:europe_ergo:1: KL: kc: 0x0043, col:  5, row:  6, pressed: 1, time: 34289, int: 0, count: 0
+Supermagnum:europe_ergo:1: KL: kc: 0x0043, col:  5, row:  6, pressed: 0, time: 34386, int: 0, count: 0
+F12
+Supermagnum:europe_ergo:1: KL: kc: 0x0044, col:  6, row:  6, pressed: 1, time: 16298, int: 0, count: 0
+Supermagnum:europe_ergo:1: KL: kc: 0x0044, col:  6, row:  6, pressed: 0, time: 16401, int: 0, count: 0
+NUM
+Supermagnum:europe_ergo:1: KL: kc: 0x5262, col:  8, row:  6, pressed: 1, time: 58626, int: 0, count: 0
+Supermagnum:europe_ergo:1: KL: kc: 0x5262, col:  8, row:  6, pressed: 0, time: 58721, int: 0, count: 0
+
+
+
+8
+Supermagnum:europe_ergo:1: KL: kc: 0x0025, col:  1, row:  7, pressed: 1, time: 46202, int: 0, count: 0
+Supermagnum:europe_ergo:1: KL: kc: 0x0025, col:  1, row:  7, pressed: 0, time: 46349, int: 0, count: 0
+9
+Supermagnum:europe_ergo:1: KL: kc: 0x0026, col:  2, row:  7, pressed: 1, time:   881, int: 0, count: 0
+Supermagnum:europe_ergo:1: KL: kc: 0x0026, col:  2, row:  7, pressed: 0, time:   981, int: 0, count: 0
+0
+Supermagnum:europe_ergo:1: KL: kc: 0x0027, col:  3, row:  7, pressed: 1, time: 35767, int: 0, count: 0
+Supermagnum:europe_ergo:1: KL: kc: 0x0027, col:  3, row:  7, pressed: 0, time: 35885, int: 0, count: 0
++
+Supermagnum:europe_ergo:1: KL: kc: 0x002D, col:  4, row:  7, pressed: 1, time: 59393, int: 0, count: 0
+Supermagnum:europe_ergo:1: KL: kc: 0x002D, col:  4, row:  7, pressed: 0, time: 59474, int: 0, count: 0
+\
+Supermagnum:europe_ergo:1: KL: kc: 0x002E, col:  5, row:  7, pressed: 1, time: 33670, int: 0, count: 0
+Supermagnum:europe_ergo:1: KL: kc: 0x002E, col:  5, row:  7, pressed: 0, time: 33751, int: 0, count: 0
+Scroll lock
+Supermagnum:europe_ergo:1: KL: kc: 0x0047, col:  6, row:  7, pressed: 1, time: 60941, int: 0, count: 0
+Supermagnum:europe_ergo:1: KL: kc: 0x0047, col:  6, row:  7, pressed: 0, time: 61022, int: 0, count: 0
+Pause
+Supermagnum:europe_ergo:1: KL: kc: 0x0048, col:  7, row:  7, pressed: 1, time: 34444, int: 0, count: 0
+Supermagnum:europe_ergo:1: KL: kc: 0x0048, col:  7, row:  7, pressed: 0, time: 34529, int: 0, count: 0
+Print screen
+Supermagnum:europe_ergo:1: KL: kc: 0x0046, col:  8, row:  7, pressed: 1, time:  6603, int: 0, count: 0
+Supermagnum:europe_ergo:1: KL: kc: 0x0046, col:  8, row:  7, pressed: 0, time:  6711, int: 0, count: 0
+
+
+Home
+Supermagnum:europe_ergo:1: KL: kc: 0x004A, col:  1, row:  8, pressed: 1, time:  5168, int: 0, count: 0
+Supermagnum:europe_ergo:1: KL: kc: 0x004A, col:  1, row:  8, pressed: 0, time:  5267, int: 0, count: 0
+u
+Supermagnum:europe_ergo:1: KL: kc: 0x0018, col:  2, row:  8, pressed: 1, time: 23007, int: 0, count: 0
+Supermagnum:europe_ergo:1: KL: kc: 0x0018, col:  2, row:  8, pressed: 0, time: 23099, int: 0, count: 0
+i
+Supermagnum:europe_ergo:1: KL: kc: 0x000C, col:  3, row:  8, pressed: 1, time: 50119, int: 0, count: 0
+Supermagnum:europe_ergo:1: KL: kc: 0x000C, col:  3, row:  8, pressed: 0, time: 50209, int: 0, count: 0
+o
+Supermagnum:europe_ergo:1: KL: kc: 0x0012, col:  4, row:  8, pressed: 1, time:  8661, int: 0, count: 0
+Supermagnum:europe_ergo:1: KL: kc: 0x0012, col:  4, row:  8, pressed: 0, time:  8747, int: 0, count: 0
+p
+Supermagnum:europe_ergo:1: KL: kc: 0x0013, col:  5, row:  8, pressed: 1, time: 31979, int: 0, count: 0
+Supermagnum:europe_ergo:1: KL: kc: 0x0013, col:  5, row:  8, pressed: 0, time: 32064, int: 0, count: 0
+å
+Supermagnum:europe_ergo:1: KL: kc: 0x002F, col:  6, row:  8, pressed: 1, time: 51624, int: 0, count: 0
+Supermagnum:europe_ergo:1: KL: kc: 0x002F, col:  6, row:  8, pressed: 0, time: 51714, int: 0, count: 0
+¨
+Supermagnum:europe_ergo:1: KL: kc: 0x0030, col:  7, row:  8, pressed: 1, time: 16912, int: 0, count: 0
+Supermagnum:europe_ergo:1: KL: kc: 0x0030, col:  7, row:  8, pressed: 0, time: 17000, int: 0, count: 0
+Backspace
+Supermagnum:europe_ergo:1: KL: kc: 0x002A, col:  8, row:  8, pressed: 1, time: 59253, int: 0, count: 0
+Supermagnum:europe_ergo:1: KL: kc: 0x002A, col:  8, row:  8, pressed: 0, time: 59331, int: 0, count: 0
+
+
+j
+Supermagnum:europe_ergo:1: KL: kc: 0x000D, col:  2, row:  9, pressed: 1, time: 45238, int: 0, count: 0
+Supermagnum:europe_ergo:1: KL: kc: 0x000D, col:  2, row:  9, pressed: 0, time: 45334, int: 0, count: 0
+k
+Supermagnum:europe_ergo:1: KL: kc: 0x000E, col:  3, row:  9, pressed: 1, time: 13279, int: 0, count: 0
+Supermagnum:europe_ergo:1: KL: kc: 0x000E, col:  3, row:  9, pressed: 0, time: 13362, int: 0, count: 0
+l
+Supermagnum:europe_ergo:1: KL: kc: 0x000F, col:  4, row:  9, pressed: 1, time: 63046, int: 0, count: 0
+Supermagnum:europe_ergo:1: KL: kc: 0x000F, col:  4, row:  9, pressed: 0, time: 63136, int: 0, count: 0
+ø
+Supermagnum:europe_ergo:1: KL: kc: 0x0033, col:  5, row:  9, pressed: 1, time: 26855, int: 0, count: 0
+Supermagnum:europe_ergo:1: KL: kc: 0x0033, col:  5, row:  9, pressed: 0, time: 26934, int: 0, count: 0
+æ
+Supermagnum:europe_ergo:1: KL: kc: 0x0034, col:  6, row:  9, pressed: 1, time: 55274, int: 0, count: 0
+Supermagnum:europe_ergo:1: KL: kc: 0x0034, col:  6, row:  9, pressed: 0, time: 55361, int: 0, count: 0
+'
+Supermagnum:europe_ergo:1: KL: kc: 0x0032, col:  7, row:  9, pressed: 1, time: 18489, int: 0, count: 0
+Supermagnum:europe_ergo:1: KL: kc: 0x0032, col:  7, row:  9, pressed: 0, time: 18571, int: 0, count: 0
+Enter
+Supermagnum:europe_ergo:1: KL: kc: 0x0028, col:  8, row:  9, pressed: 1, time:  9392, int: 0, count: 0
+Supermagnum:europe_ergo:1: KL: kc: 0x0028, col:  8, row:  9, pressed: 0, time:  9479, int: 0, count: 0
+
+Here is where the most of the trouble is:
+Arrow up right ( prints character N )
+Supermagnum:europe_ergo:1: KL: kc: 0x0011, col:  0, row: 10, pressed: 1, time: 14774, int: 0, count: 0
+Supermagnum:europe_ergo:1: KL: kc: 0x0011, col:  0, row: 10, pressed: 0, time: 14875, int: 0, count: 0
+End ( prints character M )
+Supermagnum:europe_ergo:1: KL: kc: 0x0010, col:  1, row: 10, pressed: 1, time: 51030, int: 0, count: 0
+Supermagnum:europe_ergo:1: KL: kc: 0x0010, col:  1, row: 10, pressed: 0, time: 51128, int: 0, count: 0
+N ( prints character , )
+Supermagnum:europe_ergo:1: KL: kc: 0x0036, col:  2, row: 10, pressed: 1, time:  5001, int: 0, count: 0
+Supermagnum:europe_ergo:1: KL: kc: 0x0036, col:  2, row: 10, pressed: 0, time:  5100, int: 0, count: 0
+M ( prints character . )
+Supermagnum:europe_ergo:1: KL: kc: 0x0037, col:  3, row: 10, pressed: 1, time: 32807, int: 0, count: 0
+Supermagnum:europe_ergo:1: KL: kc: 0x0037, col:  3, row: 10, pressed: 0, time: 32880, int: 0, count: 0
+; ( prints character - )
+Supermagnum:europe_ergo:1: KL: kc: 0x0038, col:  4, row: 10, pressed: 1, time: 28339, int: 0, count: 0
+Supermagnum:europe_ergo:1: KL: kc: 0x0038, col:  4, row: 10, pressed: 0, time: 28402, int: 0, count: 0
+: ( Page up )
+Supermagnum:europe_ergo:1: KL: kc: 0x004B, col:  5, row: 10, pressed: 1, time:  3470, int: 0, count: 0
+Supermagnum:europe_ergo:1: KL: kc: 0x004B, col:  5, row: 10, pressed: 0, time:  3533, int: 0, count: 0
+- ( does nothing, could be printing right shift)
+Supermagnum:europe_ergo:1: KL: kc: 0x00E5, col:  6, row: 10, pressed: 1, time: 40445, int: 0, count: 0
+Supermagnum:europe_ergo:1: KL: kc: 0x00E5, col:  6, row: 10, pressed: 0, time: 40524, int: 0, count: 0
+Right shift ( toggles menu )
+Supermagnum:europe_ergo:1: KL: kc: 0x00E3, col:  8, row: 10, pressed: 1, time: 56443, int: 0, count: 0
+Supermagnum:europe_ergo:1: KL: kc: 0x00E3, col:  8, row: 10, pressed: 0, time: 56511, int: 0, count: 0
+
+
+Arrow left ( pdf schema has wrong label for this key)
+Supermagnum:europe_ergo:1: KL: kc: 0x0000, col:  0, row: 11, pressed: 1, time:  9176, int: 0, count: 0
+Supermagnum:europe_ergo:1: KL: kc: 0x0000, col:  0, row: 11, pressed: 0, time:  9237, int: 0, count: 0
+Arrow down ( acts as arrow up )
+Supermagnum:europe_ergo:1: KL: kc: 0x0052, col:  1, row: 11, pressed: 1, time: 27202, int: 0, count: 0
+Supermagnum:europe_ergo:1: KL: kc: 0x0052, col:  1, row: 11, pressed: 0, time: 27341, int: 0, count: 0
+Arrow left ( does nothing )
+Supermagnum:europe_ergo:1: KL: kc: 0x0000, col:  3, row: 11, pressed: 1, time: 12832, int: 0, count: 0
+Supermagnum:europe_ergo:1: KL: kc: 0x0000, col:  3, row: 11, pressed: 0, time: 12929, int: 0, count: 0
+L1 ( does not change layers )
+Supermagnum:europe_ergo:1: KL: kc: 0x0000, col:  4, row: 11, pressed: 1, time: 15695, int: 0, count: 0
+Supermagnum:europe_ergo:1: KL: kc: 0x0000, col:  4, row: 11, pressed: 0, time: 15781, int: 0, count: 0
+Page down ( does nothing )
+Supermagnum:europe_ergo:1: KL: kc: 0x0000, col:  5, row: 11, pressed: 1, time: 57821, int: 0, count: 0
+Supermagnum:europe_ergo:1: KL: kc: 0x0000, col:  5, row: 11, pressed: 0, time: 57899, int: 0, count: 0
+Alt Gr ( nothing observed)
+Supermagnum:europe_ergo:1: KL: kc: 0x0050, col:  6, row: 11, pressed: 1, time: 25775, int: 0, count: 0
+Supermagnum:europe_ergo:1: KL: kc: 0x0050, col:  6, row: 11, pressed: 0, time: 25887, int: 0, count: 0
+Fn ( seems to be " down arrow" )
+Supermagnum:europe_ergo:1: KL: kc: 0x0051, col:  7, row: 11, pressed: 1, time: 34921, int: 0, count: 0
+Supermagnum:europe_ergo:1: KL: kc: 0x0051, col:  7, row: 11, pressed: 0, time: 35025, int: 0, count: 0
+Ctrl Right ( Not doing what it should be )
+Supermagnum:europe_ergo:1: KL: kc: 0x004F, col:  8, row: 11, pressed: 1, time: 54099, int: 0, count: 0
+Supermagnum:europe_ergo:1: KL: kc: 0x004F, col:  8, row: 11, pressed: 0, time: 54178, int: 0, count: 0
+
+
+
+
