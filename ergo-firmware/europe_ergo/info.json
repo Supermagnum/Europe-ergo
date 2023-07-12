@@ -123,47 +123,54 @@
 
 
 
-            {"matrix":[4, 0],"label":"Shift", "x":1.75, "y":5.38, "w":1.5}, 
-            {"matrix":[4, 1],"label":">", "x":3.25, "y":5.38}, 
-            {"matrix":[4, 2],"label":"Z", "x":4.25, "y":5.13}, 
-            {"matrix":[4, 3],"label":"X", "x":4.75, "y":17.63}, 
-            {"matrix":[4, 4],"label":"C", "x":5.75, "y":17.76}, 
-            {"matrix":[4, 5],"label":"V", "x":6.75, "y":17.88}, 
-            {"matrix":[4, 6],"label":"B", "x":7.75, "y":17.88}, 
-            {"matrix":[4, 7],"label":"Delete", "x":8.75, "y":17.38, "h":1.5}, 
-            {"matrix":[4, 8],"label":"upL", "x":3, "y":1}, 
+            
+{"matrix":[4, 0],"label":"Shift", "x":1.75, "y":5.38, "w":1.5},
+{"matrix":[4, 1],"label":">", "x":3.25, "y":5.38},
+{"matrix":[4, 2],"label":"Z", "x":4.25, "y":5.13},
+{"matrix":[4, 3],"label":"X", "x":4.75, "y":17.63},
+{"matrix":[4, 4],"label":"C", "x":5.75, "y":17.76},
+{"matrix":[4, 5],"label":"V", "x":6.75, "y":17.88},
+{"matrix":[4, 6],"label":"B", "x":7.75, "y":17.88},
+{"matrix":[4, 7],"label":"Delete", "x":8.75, "y":17.38, "h":1.5},
 
 
-            {"matrix":[10, 0],"label":"Shift Right", "x":19, "y":5.38, "w":1.5}, 
-            {"matrix":[10, 1],"label":"Page up", "x":18, "y":5.38}, 
-            {"matrix":[10, 2],"label":"_", "x":17, "y":5.13}, 
-            {"matrix":[10, 3],"label":":", "x":15.5, "y":17.63}, 
-            {"matrix":[10, 4],"label":";", "x":14.5, "y":17.76}, 
-            {"matrix":[10, 5],"label":"M", "x":13.75, "y":11.63}, 
-            {"matrix":[10, 6],"label":"N", "x":12.5, "y":17.88}
-            {"matrix":[10, 7],"label":"End", "x":11.5, "y":17.38, "h":1.5}, 
-            {"matrix":[10, 8],"label":"up", "x":7.25, "y":15},
+{"matrix":[10, 1],"label":"Page up", "x":18, "y":5.38},
+{"matrix":[10, 2],"label":"_", "x":17, "y":5.13},
+{"matrix":[10, 3],"label":":", "x":15.5, "y":17.63},
+{"matrix":[10, 4],"label":";", "x":14.5, "y":17.76},
+{"matrix":[10, 5],"label":"M", "x":13.75, "y":11.63},
+{"matrix":[10, 6],"label":"N", "x":12.5, "y":17.88}
+{"matrix":[10, 7],"label":"End", "x":11.5, "y":17.38, "h":1.5},
+{"matrix":[10, 8],"label":"up", "x":7.25, "y":15},
 
 
 
-            {"matrix":[5, 0],"label":"Ctrl", "x":2.25, "y":6.38}, 
-            {"matrix":[5, 1],"label":"Menu", "x":3.25, "y":6.38}, 
-            {"matrix":[5, 2],"label":"Alt", "x":4.25, "y":6.13}, 
-            {"matrix":[5, 3],"label":"space", "x":4.75, "y":13.38}
-            {"matrix":[5, 4],"label":"L1", "x":5.75, "y":13.51}, 
-            {"matrix":[5, 5],"label":"Lefta", "x":2, "y":2}, 
-            {"matrix":[5, 7],"label":"leftdown", "x":3, "y":16.51},
-            {"matrix":[5, 8],"label":"leftright", "x":4, "y":16.51}, 
+{"matrix":[5, 0],"label":"Ctrl", "x":2.25, "y":6.38},
+{"matrix":[5, 1],"label":"Menu", "x":3.25, "y":6.38},
+{"matrix":[5, 2],"label":"Alt", "x":4.25, "y":6.13},
+{"matrix":[5, 3],"label":"space", "x":4.75, "y":13.38}
+{"matrix":[5, 4],"label":"L1", "x":5.75, "y":13.51},
 
-            {"matrix":[11, 0],"label":"Ctrl Right", "x":19, "y":6.38}, 
-            {"matrix":[11, 1],"label":"Fn", "x":18, "y":6.38},  
-            {"matrix":[11, 3],"label":"Page Down", "x":15.5, "y":13.38}, 
-            {"matrix":[11, 4],"label":"L1", "x":14.5, "y":13.51},
-            {"matrix":[11, 5],"label":"xx", "x":8.25, "y":20.13},
-            {"matrix":[11, 6],"label":"Alt Gr", "x":17, "y":6.13},
-            {"matrix":[11, 7],"label":"rightD", "x":7.25, "y":20.13}, 
-            {"matrix":[11, 8],"label":"rightL", "x":6.25, "y":20.13} 
 
+{"matrix":[11, 4],"label":"L1", "x":14.5, "y":13.51},
+{"matrix":[11, 5],"label":"xx", "x":8.25, "y":20.13},
+{"matrix":[11, 6],"label":"Alt Gr", "x":17, "y":6.13},
+{"matrix":[11, 7],"label":"rightD", "x":7.25, "y":20.13},
+{"matrix":[11, 8],"label":"rightL", "x":6.25, "y":20.13}
+
+// thumb cluster
+{"matrix":[4, 8],"label":"upL", "x":3, "y":1},
+
+{"matrix":[10, 0],"label":"Shift Right", "x":19, "y":5.38, "w":1.5},
+
+
+{"matrix":[5, 5],"label":"Lefta", "x":2, "y":2},
+{"matrix":[5, 7],"label":"leftdown", "x":3, "y":16.51},
+{"matrix":[5, 8],"label":"leftright", "x":4, "y":16.51},
+
+{"matrix":[11, 3],"label":"Page Down", "x":15.5, "y":13.38},
+{"matrix":[11, 1],"label":"Fn", "x":18, "y":6.38},
+{"matrix":[11, 0],"label":"Ctrl Right", "x":19, "y":6.38},
 
             ]
         }
