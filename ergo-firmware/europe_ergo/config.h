@@ -18,6 +18,7 @@
 //#define NO_ACTION_LAYER
 //#define NO_ACTION_TAPPING
 //#define NO_ACTION_ONESHOT
+#define SPLIT_LAYER_STATE_ENABLE
 #define SPLIT_HAND_MATRIX_GRID GP27, GP26 // Only used for prototype PCB
 // #define SPLIT_HAND_PIN GP26 // Use for proper PCB.
 
