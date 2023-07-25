@@ -65,8 +65,8 @@ const uint16_t PROGMEM keymaps[][MATRIX_ROWS][MATRIX_COLS] = {
 };
 
 //keymap.c
-layer_state_t layer_state_set_user(layer_state_t state) {
-  switch(get_highest_layer(state)) {
+void housekeeping_task_user(void) {
+  switch(get_highest_layer(layer_state)) {
     case _QWERTY:
       writePinHigh(LED1_PIN);
       writePinLow(LED2_PIN);
@@ -87,5 +87,4 @@ layer_state_t layer_state_set_user(layer_state_t state) {
       writePinLow(LED3_PIN);
       break;
   }
-  return state;
 }
