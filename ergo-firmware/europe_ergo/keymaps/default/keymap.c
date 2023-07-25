@@ -4,6 +4,15 @@
 
 #include "keymap_norwegian.h"
 
+void keyboard_pre_init_kb(void) {
+    setPinOutput(LED1_PIN);
+    setPinOutput(LED2_PIN);
+    setPinOutput(LED3_PIN);
+    writePinLow(LED1_PIN);
+    writePinLow(LED2_PIN);
+    writePinLow(LED3_PIN);
+}
+
 bool process_record_user(uint16_t keycode, keyrecord_t *record) {
   // If console is enabled, it will print the matrix position and status of each key pressed
 #ifdef CONSOLE_ENABLE
