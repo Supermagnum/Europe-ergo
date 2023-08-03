@@ -40,7 +40,7 @@ const uint16_t PROGMEM keymaps[][MATRIX_ROWS][MATRIX_COLS] = {
         KC_LSFT, KC_NUBS, KC_Z,    KC_X,    KC_C,    KC_V,    KC_B,    KC_DEL,             /**/           KC_END,  KC_N,    KC_M,    KC_COMM, KC_DOT,  KC_SLSH, KC_PGUP, KC_RSFT,
         KC_LCTL, KC_LGUI, KC_LALT, KC_SPACE, TG(_NORWEGIAN),                               /**/                            TG(_NORWEGIAN),   KC_PGDN, KC_ALGR, FN, KC_RCTL,
                                                                        KC_SPACE,            /**/           KC_UP,
-                                                              KC_SPACE, KC_SPACE, KC_SPACE, /**/  KC_LEFT, KC_DOWN, KC_RIGHT
+                                                              KC_SPACE, KC_SPACE, KC_SPACE, /**/   KC_RIGHT, KC_DOWN, KC_LEFT
     ),
     [_NORWEGIAN] = LAYOUT(
         KC_ESC,  KC_F1,   KC_F2,   KC_F3,   KC_F4,   KC_F5,   KC_F6,                       /**/                    KC_F7,   KC_F8,   KC_F9,   KC_F10,  KC_F11,  KC_F12,  KC_TRNS,
@@ -50,7 +50,7 @@ const uint16_t PROGMEM keymaps[][MATRIX_ROWS][MATRIX_COLS] = {
         KC_LSFT, NO_OSTR, NO_AE,    NO_Q,    NO_J,    NO_K,    NO_X,    KC_DEL,            /**/           KC_END,  NO_B,    NO_M,    NO_W, NO_COMM,  NO_DOT, KC_PGUP, KC_RSFT,
         KC_LCTL, KC_LGUI, KC_LALT, KC_SPACE,   KC_TRNS,                                    /**/                             KC_TRNS,   KC_RALT, KC_ALGR, KC_PGDN, KC_RCTL,
                                                                        KC_SPACE,           /**/           KC_UP,
-                                                         KC_SPACE,   KC_SPACE,   KC_SPACE, /**/  KC_LEFT, KC_DOWN, KC_RIGHT
+                                                         KC_SPACE,   KC_SPACE,   KC_SPACE, /**/   KC_RIGHT, KC_DOWN, KC_LEFT
     ),
     [_NUM] = LAYOUT(
         KC_ESC,  KC_F1,   KC_F2,   KC_F3,   KC_F4,   KC_F5,   KC_F6,                       /**/                    KC_F7,   KC_F8,   KC_F9,   KC_F10,  KC_F11,  KC_F12,  KC_TRNS,
@@ -60,7 +60,7 @@ const uint16_t PROGMEM keymaps[][MATRIX_ROWS][MATRIX_COLS] = {
         KC_LSFT, KC_NO, KC_NO,    KC_NO,    KC_NO,    KC_NO,    KC_NO,    KC_DEL,          /**/           KC_KP_0,  KC_KP_1, KC_KP_2,  KC_KP_3, KC_NO,  NO_MINS, KC_PGUP, KC_RSFT,
         KC_LCTL, KC_LGUI, KC_LALT, KC_SPACE,   KC_NO,                                      /**/                                      KC_NO,   KC_RALT, KC_ALGR, KC_PGDN, KC_RCTL,
                                                                        KC_SPACE,           /**/           KC_UP,
-                                                            KC_SPACE, KC_SPACE,   KC_SPACE,/**/  KC_LEFT, KC_DOWN, KC_RIGHT
+                                                            KC_SPACE, KC_SPACE,   KC_SPACE,/**/   KC_RIGHT, KC_DOWN, KC_LEFT
     ),
 };
 
