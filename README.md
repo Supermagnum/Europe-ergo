@@ -29,6 +29,9 @@ The NUM key can be used to turn the  num layer on or off.
 Keycaps:
 https://github.com/Supermagnum/Europe-ergo/blob/main/keycaps.jpg
 
+prototype build pictures:
+https://github.com/Supermagnum/Europe-ergo/tree/main/prototype-build
+
 Electronic diagram:
 https://github.com/Supermagnum/Europe-ergo/blob/main/Europe-ergo-PCB/schema/Europe-ergo.pdf
 
