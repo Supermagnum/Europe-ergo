@@ -32,17 +32,9 @@ https://github.com/Supermagnum/Europe-ergo/blob/main/keycaps.jpg
 Electronic diagram:
 https://github.com/Supermagnum/Europe-ergo/blob/main/Europe-ergo-PCB/schema/Europe-ergo.pdf
 
-
-
-The firmware is under reconstruction.
-
 All mechanical blueprints as pdf files can be exported from the Freecad file.
 Freecad can be found for free here:
 https://www.freecadweb.org/
-
-
-
-
 
 PWM1 to PWM 5 controls LED's ( ON/OFF) based by the active layer, and also caps lock and scroll lock active.
 
@@ -59,11 +51,8 @@ https://github.com/Supermagnum/Europe-ergo/tree/main/mechanical
 Tool for aligning the switches under soldering, slips on to the PCB edge an over the switch:
 https://github.com/Supermagnum/Europe-ergo/blob/main/mechanical/STL/switch-tool.stl
 
-
 Link to aisler (SMD only ):
 https://aisler.net/p/ZMCOMUDQ
-
-
 
 Panelized version:
 https://github.com/Supermagnum/erope-ergo-ex
@@ -72,15 +61,6 @@ https://github.com/Supermagnum/erope-ergo-ex
 License:
 https://github.com/Supermagnum/Europe-ergo/blob/main/LICENSE
 
-
-
-
 Add a usb device id so the PCB will be recognised by Linux and others, if necessary. 
-
-
-Thanks to :
-https://github.com/hakbraley
-for helping with the firmware,- I cant program at all and Ihave issues getting my head around programming.
-
 
 
