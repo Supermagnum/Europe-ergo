@@ -29,7 +29,7 @@ The NUM key can be used to turn the  num layer on or off.
 Keycaps:
 https://github.com/Supermagnum/Europe-ergo/blob/main/keycaps.jpg
 
-prototype build pictures:
+prototype/"proof of concept" build pictures:
 https://github.com/Supermagnum/Europe-ergo/tree/main/prototype-build
 
 Electronic diagram:
@@ -45,7 +45,7 @@ Those and the electrical diagram can be found here:
 https://github.com/Supermagnum/Europe-ergo/blob/main/Europe-ergo-PCB/schema/Europe-ergo.pdf
 The right side has identical outputs for PWM.
 
-Cherry MX switches should fit the PCB'S.
+Cherry MX switches fit the PCB'S.
 
 
 STL files for 3D printing or milling of the boxes:
@@ -60,10 +60,10 @@ https://aisler.net/p/ZMCOMUDQ
 Panelized version:
 https://github.com/Supermagnum/erope-ergo-ex
 
-
 License:
 https://github.com/Supermagnum/Europe-ergo/blob/main/LICENSE
 
-Add a usb device id so the PCB will be recognised by Linux and others, if necessary. 
 
 
+
+ "
