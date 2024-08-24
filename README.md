@@ -47,6 +47,8 @@ The right side has identical outputs for PWM.
 
 Cherry MX switches fit the PCB'S.
 
+Missing from the BOM:
+Keyswitch Hotswap sockets: 0305-2-15-80-47-80-10-0 or Digikey: ED90584-ND
 
 STL files for 3D printing or milling of the boxes:
 https://github.com/Supermagnum/Europe-ergo/tree/main/mechanical
